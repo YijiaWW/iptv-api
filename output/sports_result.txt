@@ -1,0 +1,9 @@
+🕘️更新时间,#genre#
+2026-08-12 08:14:37,http://40.160.24.58/ESPN_DEPORTES/index.m3u8
+
+⚽ Football UK,#genre#
+ESPN,http://40.160.24.58/ESPN_DEPORTES/index.m3u8
+ESPN,http://190.83.2.182:8090/ESPN3/index.m3u8
+ESPN,http://181.78.197.59:8000/play/a07z/index.m3u8
+
+📺 Chinese Sports,#genre#

@@ -1,0 +1,9 @@
+🕘️更新时间,#genre#
+2026-08-12 08:14:37,http://10.0.0.66:8080/hls/65356fbf48a49ac455478c21.m3u8
+
+⚽ Football UK,#genre#
+ESPN,http://10.0.0.66:8080/hls/65356fbf48a49ac455478c21.m3u8
+ESPN,http://10.0.0.66:8080/hls/9cbae04456607fc7cff2e6e5.m3u8
+ESPN,http://10.0.0.66:8080/hls/a0d0c31a5860ad8811f3d81f.m3u8
+
+📺 Chinese Sports,#genre#

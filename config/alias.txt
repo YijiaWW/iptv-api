@@ -133,3 +133,26 @@ NewTV中国功夫,NEWTV中国功夫,中国功夫
 
 四川卫视,四川卫视4K,四川卫视4K25,四川卫视4K50
 湖南卫视,湖南卫视4K,湖南卫视4K25,湖南卫视4K50
+
+# Sports channels / 足球与体育频道
+CCTV-5,CCTV5,CCTV-5体育,CCTV-5体育ᴴᴰ,CCTV5体育,CCTV5HD,CCTV-5HD,CCTV-5高清,CCTV5高清,CCTV5-体育
+CCTV-5+,CCTV5+,CCTV5＋,CCTV5+体育赛事,CCTV-5+体育赛事,CCTV5+HD,CCTV-5+HD,CCTV5+高清,CCTV-5+高清
+Sky Sports Main Event,re:(?i)^\s*Sky\s*Sports\s*Main\s*Event\b.*$,Sky Sports 1,SkySports Main Event,Sky Sports Main Event HD
+Sky Sports Premier League,re:(?i)^\s*Sky\s*Sports\s*Premier\s*League\b.*$,Sky Sports PL,Sky Sports PL HD,Sky Sports Premier League HD
+Sky Sports Football,re:(?i)^\s*Sky\s*Sports\s*Football\b.*$,Sky Sports 2,Sky Sports Football HD
+Sky Sports Action,re:(?i)^\s*Sky\s*Sports\s*Action\b.*$,Sky Sports Action HD
+TNT Sports 1,re:(?i)^\s*TNT\s*Sports\s*1\b.*$,BT Sport 1,BT Sport 1 HD,TNT1
+TNT Sports 2,re:(?i)^\s*TNT\s*Sports\s*2\b.*$,BT Sport 2,BT Sport 2 HD,TNT2
+TNT Sports 3,re:(?i)^\s*TNT\s*Sports\s*3\b.*$,BT Sport 3,BT Sport 3 HD,TNT3
+TNT Sports 4,re:(?i)^\s*TNT\s*Sports\s*4\b.*$,BT Sport 4,BT Sport 4 HD,TNT4
+beIN Sports 1,re:(?i)^\s*beIN\s*Sports\s*1\b.*$,bein sports 1,beIN SPORTS 1,beIN Sport 1
+beIN Sports 2,re:(?i)^\s*beIN\s*Sports\s*2\b.*$,bein sports 2,beIN SPORTS 2,beIN Sport 2
+beIN Sports 3,re:(?i)^\s*beIN\s*Sports\s*3\b.*$,bein sports 3,beIN SPORTS 3,beIN Sport 3
+beIN Sports 4,re:(?i)^\s*beIN\s*Sports\s*4\b.*$,bein sports 4,beIN SPORTS 4,beIN Sport 4
+ESPN,re:(?i)^\s*ESPN\b.*$,ESPN HD,ESPN2,ESPN 1
+Eurosport 1,re:(?i)^\s*Eurosport\s*1\b.*$,EUROSPORT 1,Eurosport HD
+Eurosport 2,re:(?i)^\s*Eurosport\s*2\b.*$,EUROSPORT 2,Eurosport 2 HD
+DAZN 1,re:(?i)^\s*DAZN\s*1\b.*$,DAZN1,DAZN 1 HD
+DAZN 2,re:(?i)^\s*DAZN\s*2\b.*$,DAZN2,DAZN 2 HD
+DAZN 3,re:(?i)^\s*DAZN\s*3\b.*$,DAZN3,DAZN 3 HD
+DAZN 4,re:(?i)^\s*DAZN\s*4\b.*$,DAZN4,DAZN 4 HD

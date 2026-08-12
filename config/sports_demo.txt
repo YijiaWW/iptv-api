@@ -1,0 +1,32 @@
+⚽ Football UK,#genre#
+CCTV-5
+CCTV-5+
+Sky Sports Main Event
+Sky Sports Premier League
+Sky Sports Football
+Sky Sports Action
+TNT Sports 1
+TNT Sports 2
+TNT Sports 3
+TNT Sports 4
+beIN Sports 1
+beIN Sports 2
+beIN Sports 3
+beIN Sports 4
+ESPN
+Eurosport 1
+Eurosport 2
+DAZN 1
+DAZN 2
+DAZN 3
+DAZN 4
+
+📺 Chinese Sports,#genre#
+广东体育
+广州竞赛
+五星体育
+山东体育
+北京体育
+NewTV超级体育
+NewTV精品体育
+风云足球
