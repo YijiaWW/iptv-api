@@ -20,6 +20,18 @@ DAZN 1
 DAZN 2
 DAZN 3
 DAZN 4
+Premier League
+Champions League
+UEFA Europa League
+La Liga
+Serie A
+Bundesliga
+MLS
+FA Cup
+NBA
+NFL
+Formula 1
+MMA
 
 📺 Chinese Sports,#genre#
 广东体育
@@ -30,3 +42,11 @@ DAZN 4
 NewTV超级体育
 NewTV精品体育
 风云足球
+CCTV-5体育
+CCTV-5+
+超级体育
+精品体育
+体育频道
+足球频道
+篮球频道
+电竞频道

@@ -401,6 +401,58 @@ class ChannelCenterViewTests(unittest.TestCase):
         with open(playback_export, encoding="utf-8") as file:
             self.assertIn("#EXTINF:-1,Sports One\nhttps://example.com/sports.m3u8", file.read())
 
+    def test_channel_center_only_exports_currently_valid_playback_sources(self):
+        connection = sqlite3.connect(self.db_path)
+        connection.executemany(
+            """
+            INSERT INTO channel_results(
+                channel_key, result_key, url, valid, last_seen_at, extra_data
+            ) VALUES (?, ?, ?, ?, 1, '{}')
+            """,
+            [
+                ("sports-one", "sports-good", "https://example.com/sports-good.m3u8", 1),
+                ("sports-one", "sports-bad", "https://example.com/sports-bad.m3u8", 0),
+                ("news-world", "news-good", "https://example.com/news-good.m3u8", 1),
+                ("news-world", "news-bad", "https://example.com/news-bad.m3u8", 0),
+            ],
+        )
+        connection.execute(
+            """
+            UPDATE channels
+            SET valid_results = 1, total_results = 2, health = 'healthy', updated_at = 1
+            WHERE channel_key = 'sports-one'
+            """
+        )
+        connection.execute(
+            """
+            UPDATE channels
+            SET valid_results = 1, total_results = 2, health = 'warning', updated_at = 1
+            WHERE channel_key = 'news-world'
+            """
+        )
+        connection.commit()
+        connection.close()
+
+        playback_export = os.path.join(self.temp_dir.name, "playback-export.m3u")
+
+        with (
+            patch.object(constants, "channel_results_path", self.db_path),
+            patch.object(constants, "whitelist_path", self.whitelist_path),
+            patch.object(constants, "blacklist_path", self.blacklist_path),
+            patch("desktop_ui.pages.channels.resource_path", return_value=self.template_path),
+        ):
+            page = ChannelCenterPage()
+            self.addCleanup(page.deleteLater)
+            with patch("desktop_ui.pages.channels.QFileDialog.getSaveFileName", return_value=(playback_export, "")):
+                page._export_playback_sources()
+
+        with open(playback_export, encoding="utf-8") as file:
+            content = file.read()
+        self.assertIn("Sports One", content)
+        self.assertIn("https://example.com/sports-good.m3u8", content)
+        self.assertNotIn("https://example.com/sports-bad.m3u8", content)
+        self.assertNotIn("https://example.com/news-bad.m3u8", content)
+
     def test_stream_snapshot_updates_channel_result_status_and_streaming_filter(self):
         connection = sqlite3.connect(self.db_path)
         connection.execute(

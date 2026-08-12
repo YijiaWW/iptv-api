@@ -2288,7 +2288,14 @@ class ChannelCenterPage(QWidget):
             )
 
     def _export_channels(self):
-        return self.selected_channels() or list(self.channel_model.rows)
+        selected = self.selected_channels()
+        if selected:
+            return selected
+        return [
+            row
+            for row in self.channel_model.rows
+            if row.get("best_url") and int(row.get("valid_results") or 0) > 0
+        ]
 
     def _write_export(self, title, suggested_name, file_filter, content):
         path, _ = QFileDialog.getSaveFileName(self, title, suggested_name, file_filter)
@@ -2325,7 +2332,7 @@ class ChannelCenterPage(QWidget):
         entries = []
         for channel in self._export_channels():
             for result in list_channel_results(constants.channel_results_path, channel["channel_key"]):
-                if result.get("url"):
+                if result.get("url") and self._is_valid_result(result):
                     entries.append((channel.get("name") or "", result["url"]))
         path, _ = QFileDialog.getSaveFileName(
             self,

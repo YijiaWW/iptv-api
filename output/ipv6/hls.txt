@@ -1,6 +1,8 @@
 🕘️更新时间,#genre#
-2026-08-12 08:03:56,http://10.0.0.66:8080/hls/id.m3u8
+2026-08-12 09:06:27,http://10.0.0.66:8080/hls/id.m3u8
 
 ⚽ Football UK,#genre#
 
 📺 Chinese Sports,#genre#
+
+♻️未匹配频道,#genre#

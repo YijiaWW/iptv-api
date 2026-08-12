@@ -156,3 +156,14 @@ DAZN 1,re:(?i)^\s*DAZN\s*1\b.*$,DAZN1,DAZN 1 HD
 DAZN 2,re:(?i)^\s*DAZN\s*2\b.*$,DAZN2,DAZN 2 HD
 DAZN 3,re:(?i)^\s*DAZN\s*3\b.*$,DAZN3,DAZN 3 HD
 DAZN 4,re:(?i)^\s*DAZN\s*4\b.*$,DAZN4,DAZN 4 HD
+Premier League,re:(?i)^.*(?:Premier League|EPL|英超).*$/,Premier League HD,英超,English Premier League
+Champions League,re:(?i)^.*(?:Champions League|UEFA Champions|欧冠|欧联杯).*$/,Champions League HD,UEFA Champions League,欧冠
+Europa League,re:(?i)^.*(?:Europa League|UEFA Europa|欧联).*$/,Europa League HD,UEFA Europa League,欧联
+La Liga,re:(?i)^.*(?:La Liga|西甲).*$/,La Liga HD,西甲,Spanish La Liga
+Serie A,re:(?i)^.*(?:Serie A|意甲).*$/,Serie A HD,意甲,Italian Serie A
+Bundesliga,re:(?i)^.*(?:Bundesliga|德甲).*$/,Bundesliga HD,德甲
+MLS,re:(?i)^.*(?:MLS|美职联).*$/,MLS HD,美职联
+NBA,re:(?i)^.*\bNBA\b.*$,NBA HD,NBA Game
+NFL,re:(?i)^.*\bNFL\b.*$,NFL HD,NFL Game
+Formula 1,re:(?i)^.*(?:Formula 1|F1|一级方程式).*$/,F1 HD,Formula One
+MMA,re:(?i)^.*\bMMA\b.*$,MMA HD,Ultimate Fighting

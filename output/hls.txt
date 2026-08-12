@@ -1,9 +1,610 @@
 🕘️更新时间,#genre#
-2026-08-12 08:14:37,http://10.0.0.66:8080/hls/65356fbf48a49ac455478c21.m3u8
+2026-08-12 09:06:27,http://10.0.0.66:8080/hls/6f5b267b0103c3d9ab13b284.m3u8
 
 ⚽ Football UK,#genre#
+CCTV-5+,http://10.0.0.66:8080/hls/6f5b267b0103c3d9ab13b284.m3u8
 ESPN,http://10.0.0.66:8080/hls/65356fbf48a49ac455478c21.m3u8
 ESPN,http://10.0.0.66:8080/hls/9cbae04456607fc7cff2e6e5.m3u8
+ESPN,http://10.0.0.66:8080/hls/02b5b44d98bf66801be48ead.m3u8
 ESPN,http://10.0.0.66:8080/hls/a0d0c31a5860ad8811f3d81f.m3u8
+NBA,http://10.0.0.66:8080/hls/6c043a4686f5e610f51e99e6.m3u8
+NFL,http://10.0.0.66:8080/hls/7bd894e30c71e91f8ad98d22.m3u8
+MMA,http://10.0.0.66:8080/hls/760d18c436ee744172586d20.m3u8
+MMA,http://10.0.0.66:8080/hls/006d08fa757ce5b3eb0c64e7.m3u8
+MMA,http://10.0.0.66:8080/hls/c776d6f59e69f01d49beba37.m3u8
 
 📺 Chinese Sports,#genre#
+
+♻️未匹配频道,#genre#
+ABN China (720p),http://10.0.0.66:8080/hls/eda082d869d93e0ab35d9ec7.m3u8
+Ando TV (1080p),http://10.0.0.66:8080/hls/66c07e2bd7395c3c91ea637a.m3u8
+Angel TV Chinese (720p),http://10.0.0.66:8080/hls/37e01138a6c0a2de1421808e.m3u8
+Anhui TV,http://10.0.0.66:8080/hls/10aa3c685bae56b8e0d53c1d.m3u8
+Anshun Comprehensive News Channel,http://10.0.0.66:8080/hls/c7047458d3a1852dbe50f3bd.m3u8
+Bread TV面包台 (720p),http://10.0.0.66:8080/hls/8199a675266274533dc4b001.m3u8
+BRTV Kaku Childrens Channel,http://10.0.0.66:8080/hls/728dc5969be2642daa70cf43.m3u8
+BRTV 北京卫视 (1080p),http://10.0.0.66:8080/hls/343a84c24957d8e3de9bc0d9.m3u8
+CCTV+ 1 (600p) [Not 24/7],http://10.0.0.66:8080/hls/fff218c26f5f79101ad71389.m3u8
+CCTV+ 2 (600p) [Not 24/7],http://10.0.0.66:8080/hls/f3755946036615de1eae285c.m3u8
+CCTV-1,http://10.0.0.66:8080/hls/f344d50cfba0beb82401f90e.m3u8
+CCTV-1,http://10.0.0.66:8080/hls/19ed938123975e64307e4896.m3u8
+CCTV-2,http://10.0.0.66:8080/hls/c549d6f6b69d95b2b9e507cb.m3u8
+CCTV-3,http://10.0.0.66:8080/hls/9bc24c7fdbb774f5cc31de7a.m3u8
+CCTV-4K,http://10.0.0.66:8080/hls/4f46d3dbf6cc07e948b7b506.m3u8
+CCTV-6,http://10.0.0.66:8080/hls/c02786c097e971e029aa302c.m3u8
+CCTV-6,http://10.0.0.66:8080/hls/832d026f91e8069ea08537d1.m3u8
+CCTV-7,http://10.0.0.66:8080/hls/2617c32ac427a594c519d482.m3u8
+CCTV-8,http://10.0.0.66:8080/hls/4dedc49d2c80e8739a8e77ea.m3u8
+CCTV-8K,http://10.0.0.66:8080/hls/65bd380a9cfd134c4ac84824.m3u8
+CCTV-9,http://10.0.0.66:8080/hls/77fd79c451f8b418cade5df7.m3u8
+CCTV-10,http://10.0.0.66:8080/hls/c790c71dcd04c9ff943244ec.m3u8
+CCTV-11,http://10.0.0.66:8080/hls/2ea600914d00c82ca352204c.m3u8
+CCTV-12,http://10.0.0.66:8080/hls/97ff908c12b943f5daacddcc.m3u8
+CCTV-13,http://10.0.0.66:8080/hls/67f45ae93ecf212e06fb5578.m3u8
+CCTV-13,http://10.0.0.66:8080/hls/8d128501cc74cf0a6e139d75.m3u8
+CCTV-14,http://10.0.0.66:8080/hls/56309b54f5af708eefb76b59.m3u8
+CCTV-15,http://10.0.0.66:8080/hls/505c98d35a3a5b59c1d8d025.m3u8
+CCTV-16,http://10.0.0.66:8080/hls/8f9ee76ef3efc00fbf38224e.m3u8
+CCTV-17,http://10.0.0.66:8080/hls/c23ebace2841f3f1ef589d5e.m3u8
+CCTV-Billiards (1080p),http://10.0.0.66:8080/hls/79ecdaff3a49a6bb61c93b40.m3u8
+CCTV-Culture of Quality (1080p),http://10.0.0.66:8080/hls/c38da3bb64ad98dac3a8f8f8.m3u8
+CCTV-Golf & Tennis (1080p),http://10.0.0.66:8080/hls/93532bb33e95426ced69a011.m3u8
+CCTV-Health (1080p),http://10.0.0.66:8080/hls/b5836412a09305e9b607ec9b.m3u8
+CCTV-Nostalgia Theater (1080p),http://10.0.0.66:8080/hls/d8d37724de536b45b64eefe7.m3u8
+CCTV-Storm Football (1080p),http://10.0.0.66:8080/hls/23b4b954b3688aa7b70ddecc.m3u8
+CCTV-Storm Music (1080p),http://10.0.0.66:8080/hls/4d848c1a7309403301fb8670.m3u8
+CCTV-Storm Theater (1080p),http://10.0.0.66:8080/hls/91a210bf2f918115cfb20efe.m3u8
+CCTV-The First Theater (1080p),http://10.0.0.66:8080/hls/ee672400eea8667d1f35ae0c.m3u8
+CCTV-Weapon & Technology (1080p),http://10.0.0.66:8080/hls/15a7eafe894a990949f4ad87.m3u8
+CCTV-Women's Fashion (1080p),http://10.0.0.66:8080/hls/0dd39a4a10c472bd5597ab9e.m3u8
+CCTV-World Geography (1080p),http://10.0.0.66:8080/hls/2ced0aa4c9b370068c3c3df6.m3u8
+CETV-1,http://10.0.0.66:8080/hls/1f2e2da68cd73a8cb19b5934.m3u8
+CETV-2,http://10.0.0.66:8080/hls/78aca8d5c0c71f4666803999.m3u8
+Chifeng Comprehensive News Chanel,http://10.0.0.66:8080/hls/df7436413d1d3810ba7b97ec.m3u8
+CND Film Middle School Channel,http://10.0.0.66:8080/hls/a470ed488c48607031f70987.m3u8
+Dragon TV International (480p) [Geo-blocked],http://10.0.0.66:8080/hls/b52f6443d22a949bac7a21d3.m3u8
+Guangzhou TV,http://10.0.0.66:8080/hls/1624d44a6238cbd4c1d54659.m3u8
+Harbin Comprehensive News Channel,http://10.0.0.66:8080/hls/5caf2b75beb857f28e7d068e.m3u8
+Harbin Movie Channel,http://10.0.0.66:8080/hls/8654fd6043e29b785c13b65d.m3u8
+Hebei TV (2160p),http://10.0.0.66:8080/hls/4387484d9171130fca819a3d.m3u8
+Home Plus,http://10.0.0.66:8080/hls/4c807300797a4e56d0632db4.m3u8
+Hunan TV (2160p),http://10.0.0.66:8080/hls/6833f77050c3cf784c1c165c.m3u8
+Jiangxi Children's Channel,http://10.0.0.66:8080/hls/b34c5c54f9118a0b9c3f5662.m3u8
+Jiangxi City Channel,http://10.0.0.66:8080/hls/432d61182504362c400b9c4c.m3u8
+Jiangxi Economy & Life Channel,http://10.0.0.66:8080/hls/375721d095856ecb9808e6b0.m3u8
+Jiangxi Movie Channel,http://10.0.0.66:8080/hls/a13a3403cc8b5344b23ac2da.m3u8
+Jiangxi Public & Agriculture Channel,http://10.0.0.66:8080/hls/13ff3deed683ddcd50678d8d.m3u8
+Jilin City Channel,http://10.0.0.66:8080/hls/6e8d3ff47f17c1351d687b90.m3u8
+Jilin Lifestyle Channel,http://10.0.0.66:8080/hls/22ed32fe11c5be16857133f2.m3u8
+Jilin Movie Channel,http://10.0.0.66:8080/hls/7d634d2076352ea5d0838e4d.m3u8
+Jilin Rural Channel,http://10.0.0.66:8080/hls/b151edde7b6658c333453036.m3u8
+Lanzhou Comprehensive News Channel,http://10.0.0.66:8080/hls/4d0d6bc0fac50c0661f35f7c.m3u8
+Lanzhou Culture & Tourism Channel,http://10.0.0.66:8080/hls/4a653efa571ebf50ea401a4a.m3u8
+Liangshan TV [Not 24/7],http://10.0.0.66:8080/hls/8559a6995b752d3cf9f077e5.m3u8
+Nanchang News & Generalist Channel,http://10.0.0.66:8080/hls/eeec0c623a3b13379f70dee3.m3u8
+Nei Monggol TV (1080i) [Not 24/7],http://10.0.0.66:8080/hls/26688577905a27d4633de1fc.m3u8
+Nei Monggol TV 2 Mongolian Culture Channel (1080i) [Not 24/7],http://10.0.0.66:8080/hls/fca98b3dffcdfeaaa6a49049.m3u8
+QTV-1,http://10.0.0.66:8080/hls/a95cec414077f35be2388460.m3u8
+QTV-2,http://10.0.0.66:8080/hls/116444601f4a9683d5d012ec.m3u8
+QTV-3,http://10.0.0.66:8080/hls/3b6a4de2e27151819d08c0fa.m3u8
+QTV-4,http://10.0.0.66:8080/hls/fcc603369796792bbd7e5bd2.m3u8
+QTV-5,http://10.0.0.66:8080/hls/54755bc42373143a1cc86bcb.m3u8
+QTV-6,http://10.0.0.66:8080/hls/a39ef24bbf330cd9cb168cdb.m3u8
+Shenzhen Satellite TV (2160p),http://10.0.0.66:8080/hls/d4253f0e131a74c8841d2575.m3u8
+Siping TV,http://10.0.0.66:8080/hls/b7257cbedf69c869fc130bfe.m3u8
+Tonghua TV (1080p),http://10.0.0.66:8080/hls/0abd548c934386a9783b422c.m3u8
+TV BRICS Chinese (1080p),http://10.0.0.66:8080/hls/ce88d0a6d60a59eb6d3ce73c.m3u8
+VOA美国之音 (1080p),http://10.0.0.66:8080/hls/6a0c7adaf9436d871b4a7f85.m3u8
+Xinjiang TV 1,http://10.0.0.66:8080/hls/eda888691f7ebcd80d6390ae.m3u8
+Xinjiang TV 2,http://10.0.0.66:8080/hls/e37f143e7b25940c44cfe956.m3u8
+Xinjiang TV 3,http://10.0.0.66:8080/hls/1bf24b9bba6d400e38786d0a.m3u8
+Xinjiang TV 8,http://10.0.0.66:8080/hls/2baa9e4d38ca06bf3cf350aa.m3u8
+Xizang TV Tibetan (720p) [Not 24/7],http://10.0.0.66:8080/hls/3fd5c003b0e682c08964df6e.m3u8
+Zhejiang TV International,http://10.0.0.66:8080/hls/f33a7cfcd5f7c8c766252ef7.m3u8
+东方卫视 (2160p),http://10.0.0.66:8080/hls/f63b32848c4d28e8c5c2698b.m3u8
+中国气象 (576p) [Not 24/7],http://10.0.0.66:8080/hls/3afb2baef446d6ead1966f96.m3u8
+云南卫视 (1080p),http://10.0.0.66:8080/hls/f7c830712b43f849aafe2dcc.m3u8
+优漫卡通,http://10.0.0.66:8080/hls/5b30001c6e69cdeb502c9b27.m3u8
+兵团卫视 (540p) [Not 24/7],http://10.0.0.66:8080/hls/6fb1a8b4d5d5d83e9aa3011a.m3u8
+动作电影,http://10.0.0.66:8080/hls/b82c1840c052e59866202366.m3u8
+北京卫视,http://10.0.0.66:8080/hls/372b97dd9f58ac8c354d066a.m3u8
+发现之旅,http://10.0.0.66:8080/hls/5a6d95efbbb468101b5e7152.m3u8
+吉林卫视 (2160p),http://10.0.0.66:8080/hls/f6bb2c9a18cc7d2e9fee7103.m3u8
+和政电视台,http://10.0.0.66:8080/hls/e280a96d8d9eb7f51aa27dc5.m3u8
+四川卫视,http://10.0.0.66:8080/hls/df638612d88959499a42ed48.m3u8
+四川妇女儿童 (720p) [Not 24/7],http://10.0.0.66:8080/hls/d803b3d2b8ca0a58c23a39ce.m3u8
+天津卫视 (1080p),http://10.0.0.66:8080/hls/df82e6fc0f27210a104987b8.m3u8
+宁夏卫视 (576p),http://10.0.0.66:8080/hls/bd67d6e2c98d31fc7fec2259.m3u8
+家庭影院 (1080p),http://10.0.0.66:8080/hls/bfa512c0608217b3ba206578.m3u8
+山东体育 (1080p) [Geo-blocked],http://10.0.0.66:8080/hls/6f7d49a52cd7863095c3c653.m3u8
+山东农科 (406p) [Geo-blocked],http://10.0.0.66:8080/hls/9a3f99a8d0dda10bfc92f6ea.m3u8
+山东卫视 (720p),http://10.0.0.66:8080/hls/df0b9ce872da53a6399ae53e.m3u8
+山东卫视 (1080p),http://10.0.0.66:8080/hls/6729b04a880854a25192145a.m3u8
+山东少儿 (406p) [Geo-blocked],http://10.0.0.66:8080/hls/e74377c3f6e05f76fe82a710.m3u8
+山东生活 (1080p) [Geo-blocked],http://10.0.0.66:8080/hls/1de30f24c6b0460dce08dbad.m3u8
+山东综艺 (406p) [Geo-blocked],http://10.0.0.66:8080/hls/d74ffd83ae2b0e8936d9abf0.m3u8
+山东齐鲁 (1080p) [Geo-blocked],http://10.0.0.66:8080/hls/8d1c96c719607c09933e4cba.m3u8
+山西卫视 (2160p),http://10.0.0.66:8080/hls/fa6459ea77566a2322a82412.m3u8
+广东卫视 (2160p),http://10.0.0.66:8080/hls/c03f3c571735a9470830bf1c.m3u8
+广西卫视 (576p),http://10.0.0.66:8080/hls/4c246efff579cb53f98dcce5.m3u8
+康巴卫视 (720p) [Not 24/7],http://10.0.0.66:8080/hls/b44d5024f9ad430081a3352e.m3u8
+徐州經濟生活 (1080p),http://10.0.0.66:8080/hls/329151447726ff1946984711.m3u8
+敦煌电视台 (1080p),http://10.0.0.66:8080/hls/04c1dcd439468441131ae90f.m3u8
+江苏体育 (576p),http://10.0.0.66:8080/hls/8cc018eb39092d61ff43158e.m3u8
+江苏公共 (576p),http://10.0.0.66:8080/hls/2f567bda9fd917361e84f58a.m3u8
+江苏卫视 (1080p),http://10.0.0.66:8080/hls/f64d2a072d65121bb8f9434a.m3u8
+江苏城市 (576p),http://10.0.0.66:8080/hls/3240573073174bf6b1630a14.m3u8
+江苏影视 (576p),http://10.0.0.66:8080/hls/e1cfe4ee02383dd99a0c330f.m3u8
+江苏教育 (576p),http://10.0.0.66:8080/hls/6eaf94ec481249fa7c6659b9.m3u8
+江苏综艺 (576p) [Not 24/7],http://10.0.0.66:8080/hls/b1ddbe3920b594c486a6ce7a.m3u8
+江西卫视 (1080p),http://10.0.0.66:8080/hls/dec5737d3cf2bb8d3699e359.m3u8
+河南卫视 (2160p),http://10.0.0.66:8080/hls/cbd2fc350b136682e637c4a7.m3u8
+浙江卫视 (1080p),http://10.0.0.66:8080/hls/49826b25cca0d6ca7026e96d.m3u8
+海南卫视 (576p),http://10.0.0.66:8080/hls/bd3a01968a7401e92a10c6c9.m3u8
+湖北卫视 (1080p),http://10.0.0.66:8080/hls/8f3a4aa71dfd1f9edc807c68.m3u8
+滁州市广播电视台 公共频道 (400p),http://10.0.0.66:8080/hls/9e02f1abc44abfe16d81caa1.m3u8
+滁州市广播电视台 新闻综合频道 (1080p),http://10.0.0.66:8080/hls/ac8f7bd388e4a8a736616292.m3u8
+滁州科教 (450p),http://10.0.0.66:8080/hls/fd173d2961351102e16a7ed5.m3u8
+甘肃卫视 (576p),http://10.0.0.66:8080/hls/668612150cf4898c360f0ca2.m3u8
+白城新闻综合 [Geo-blocked],http://10.0.0.66:8080/hls/b2a4cfc0c9b40b048ea23eb4.m3u8
+纪实人文 (1080p),http://10.0.0.66:8080/hls/b6b3b63145454ace27c05d7a.m3u8
+萍鄉新聞綜合 (576p) [Not 24/7],http://10.0.0.66:8080/hls/ae3e95e86dae295a628fc51b.m3u8
+西安丝路 (404p) [Not 24/7],http://10.0.0.66:8080/hls/048f3030cc19ed83b2e456b3.m3u8
+西安商务资讯 (180p) [Not 24/7],http://10.0.0.66:8080/hls/2130d0889ada206a9bc30690.m3u8
+贵州卫视 (576p),http://10.0.0.66:8080/hls/0098b89f10dc5d308e1ee1df.m3u8
+辽宁卫视 (1080p),http://10.0.0.66:8080/hls/42bdb4c54093cbd6e928abe7.m3u8
+酒泉新闻综合 (576p),http://10.0.0.66:8080/hls/770a6e98da48a4edf61cc353.m3u8
+重庆卫视 (1080p),http://10.0.0.66:8080/hls/5e4a3eb0dc26c14dc2ada3b1.m3u8
+金鹰卡通,http://10.0.0.66:8080/hls/5c9d63f2e177250f96a41ee7.m3u8
+长沙女性 [Geo-blocked],http://10.0.0.66:8080/hls/f301b130bbee6514cb127f0d.m3u8
+长沙政法 [Geo-blocked],http://10.0.0.66:8080/hls/5c651713b74c7cb13d982dc9.m3u8
+长沙新闻 [Geo-blocked],http://10.0.0.66:8080/hls/f575635870f2fbca94ab7fe3.m3u8
+青海卫视 (576p),http://10.0.0.66:8080/hls/1b58d3aaf2d2f42cfaba8868.m3u8
+风尚购物 (1080p),http://10.0.0.66:8080/hls/94b6a6a26338b1965c48a5de.m3u8
+高台电视台 (1080p),http://10.0.0.66:8080/hls/4cee3decfc619315a971ae56.m3u8
+鹤壁新闻综合 (480p) [Not 24/7],http://10.0.0.66:8080/hls/fd47c5165174a63b6ec1ba4a.m3u8
+黑龙江卫视 (2160p),http://10.0.0.66:8080/hls/556244bfd0287126d9fc6e20.m3u8
+5Sport (1080p),http://10.0.0.66:8080/hls/443b275321c3a05667f6be4f.m3u8
+30A Golf Kingdom (720p),http://10.0.0.66:8080/hls/f03b26ac67b3717fdefec7db.m3u8
+:Šport (1080p),http://10.0.0.66:8080/hls/c9910800fcb43571b3cc09c8.m3u8
+A Spor (1080p),http://10.0.0.66:8080/hls/2fcc565854fc3f2802a50b5b.m3u8
+ACC Network (720p),http://10.0.0.66:8080/hls/bf4f03f179b9638753e2df0f.m3u8
+ACCDN (1080p),http://10.0.0.66:8080/hls/388537ee1d917eb62d666960.m3u8
+ACI Sport TV (1080p),http://10.0.0.66:8080/hls/aec7c8871a31273669fbf55b.m3u8
+Adjarasport 1,http://10.0.0.66:8080/hls/75dfef4aa453681b400632e2.m3u8
+ADO TV (720p),http://10.0.0.66:8080/hls/a8f73d16670de793528e10c6.m3u8
+Africa 24 Sport (1080p),http://10.0.0.66:8080/hls/e34393dd9823438ddb24be67.m3u8
+Al Iraqia Sport (720p),http://10.0.0.66:8080/hls/02f0421fe625dfeb04e22eda.m3u8
+Alfa Sport (1080p) [Not 24/7],http://10.0.0.66:8080/hls/873bd13aff1bcb72cb82616d.m3u8
+Alkass Four (1080p),http://10.0.0.66:8080/hls/2e9f6dbbe73f8072c4c98875.m3u8
+Alkass One (1080p),http://10.0.0.66:8080/hls/114eb3b92cbb9a9cb0710574.m3u8
+Alkass SHOOF (1080p),http://10.0.0.66:8080/hls/cce816db9cc125c210fc938a.m3u8
+Alkass SHOOF 2 (1080p),http://10.0.0.66:8080/hls/9dd97db01a2d8d001a276616.m3u8
+Alkass Six (1080p),http://10.0.0.66:8080/hls/afdfe9980c29665ad6be617f.m3u8
+Alkass Three (1080p),http://10.0.0.66:8080/hls/f1862f265181c6b541efd144.m3u8
+Alkass Two (1080p),http://10.0.0.66:8080/hls/d8c88fc4325a33229594414d.m3u8
+Arena Fight (1080p),http://10.0.0.66:8080/hls/bfa6bfd0370e0e31a1896954.m3u8
+Arena Sport 1 (1080p),http://10.0.0.66:8080/hls/5371c0c4e184e70f2dcc96e0.m3u8
+Arena Sport 1 (1080p),http://10.0.0.66:8080/hls/1e7d9f997a4a9d91d4e5e392.m3u8
+Arena Sport 1 (720p),http://10.0.0.66:8080/hls/773b0cfa00d06f4090872f3d.m3u8
+Arena Sport 1,http://10.0.0.66:8080/hls/b85ac582b4a85e74affef76c.m3u8
+Arena Sport 1 Premium (720p),http://10.0.0.66:8080/hls/ecca0c5869fbd6ba9bd57d49.m3u8
+Arena Sport 2 (1080p),http://10.0.0.66:8080/hls/fe8275b04d11963d937f7c9c.m3u8
+Arena Sport 2 (1080p),http://10.0.0.66:8080/hls/54667553b6d99d03cdf5732f.m3u8
+Arena Sport 2 (720p),http://10.0.0.66:8080/hls/1295bfff355dd5f43b8ae0a6.m3u8
+Arena Sport 2,http://10.0.0.66:8080/hls/aa76350ed67b14598fee2ff6.m3u8
+Arena Sport 2 Premium (1080p),http://10.0.0.66:8080/hls/00791e7952b9ef36a5de7814.m3u8
+Arena Sport 3 (720p),http://10.0.0.66:8080/hls/f7d4dda9ce08985188f427ac.m3u8
+Arena Sport 3 (720p),http://10.0.0.66:8080/hls/ad5f75f93e6061d1ef7061ff.m3u8
+Arena Sport 3 (1080p),http://10.0.0.66:8080/hls/2c8e1895f5c6331a1fb377a9.m3u8
+Arena Sport 3 Premium (1080p),http://10.0.0.66:8080/hls/d889c4191f37e973caee421b.m3u8
+Arena Sport 4 (1081p),http://10.0.0.66:8080/hls/6240c8e119be2ba09c5dc683.m3u8
+Arena Sport 4 (1080p),http://10.0.0.66:8080/hls/6b26117123e8cc49c2251dbf.m3u8
+Arena Sport 4 (1080p),http://10.0.0.66:8080/hls/19d62fd17f55b0e75e18fed8.m3u8
+Arena Sport 4 Premium (1080p),http://10.0.0.66:8080/hls/c6d8905d34ae7d73c6eef90a.m3u8
+Arena Sport 5 (720p),http://10.0.0.66:8080/hls/1d2241408db8b2d41c1a5afa.m3u8
+Arena Sport 5 (1080p),http://10.0.0.66:8080/hls/f50ac9a31942dd957976bf1a.m3u8
+Arena Sport 5 BH (1080p),http://10.0.0.66:8080/hls/1ee54149ab4ecef9da211635.m3u8
+Arena Sport 5 Premium,http://10.0.0.66:8080/hls/ce285a9e3ba434064f9e395e.m3u8
+Arena Sport 6 (720p),http://10.0.0.66:8080/hls/90d4a59ffcc19efad0c58acc.m3u8
+Arena Sport 6 (1080p),http://10.0.0.66:8080/hls/3de880b842030dfaf8d1606f.m3u8
+Arena Sport 7 (720p),http://10.0.0.66:8080/hls/40b694688a508794ef9fe6cc.m3u8
+Arena Sport 7 (720p),http://10.0.0.66:8080/hls/6a95e99fdbe3f5be4b9e4c28.m3u8
+Arena Sport 8 (1080p),http://10.0.0.66:8080/hls/118024d8e0f5eb1dda2cfa4a.m3u8
+Arena Sport 8 (720p),http://10.0.0.66:8080/hls/eaf6bfb9b287c750e3361c44.m3u8
+Arena Sport 9 (1080p),http://10.0.0.66:8080/hls/2fc59fd1b318264bec8208f9.m3u8
+Arena Sport 9 (720p),http://10.0.0.66:8080/hls/5c12cfa3adf0d7deca3cf59c.m3u8
+Arena Sport 10 (720p),http://10.0.0.66:8080/hls/4b4a9449ef33a2bd94a16d93.m3u8
+Arena Sport 10 (720p),http://10.0.0.66:8080/hls/f68e63e353220d32123b715d.m3u8
+Arena Sport Adrenalin (1080p),http://10.0.0.66:8080/hls/1e586af8e5541cda6f2e0ccc.m3u8
+Arena Sport Premium 1 BH (1080p),http://10.0.0.66:8080/hls/d150f26fe2ab39451231d1b0.m3u8
+Arena Sport Premium 2 BH (1080p),http://10.0.0.66:8080/hls/ad9653d46fdb932be337381b.m3u8
+Arena Sport Premium 3 BH (720p),http://10.0.0.66:8080/hls/fe7cdac82b0fd3ead241a3ee.m3u8
+Arena Sport Tenis (720p),http://10.0.0.66:8080/hls/e9ca5835a4d4174facb9815f.m3u8
+Arryadia,http://10.0.0.66:8080/hls/3bf919fb82779a4b7489544b.m3u8
+AS3 Sport TV (1080p),http://10.0.0.66:8080/hls/be19af5f40323233ec45364c.m3u8
+ATG Live (720p),http://10.0.0.66:8080/hls/20025dde0d4b3a617a394eec.m3u8
+Awapa Sports TV (1080p) [Not 24/7],http://10.0.0.66:8080/hls/7caee213d6a21c1c2a7659bf.m3u8
+Azteca Deportes Network (1080p),http://10.0.0.66:8080/hls/feff4a3840a01d4024404fca.m3u8
+Bahrain Sports 1 (720p) [Not 24/7],http://10.0.0.66:8080/hls/88ca68a24382cfc2a639d3a1.m3u8
+Bahrain Sports 2 (720p) [Not 24/7],http://10.0.0.66:8080/hls/656f793fcf03c3a52689c0cc.m3u8
+Band Sports (1080p),http://10.0.0.66:8080/hls/9cb746bbda1a995ee74b6891.m3u8
+Barca TV,http://10.0.0.66:8080/hls/f8b99b7cf2afce2ca94cd5ce.m3u8
+beIN Sports USA (1080p) [Geo-blocked],http://10.0.0.66:8080/hls/cb88366c3491a69c86a09841.m3u8
+beIN SPORTS XTRA (1080p),http://10.0.0.66:8080/hls/99761e04e9a938a83edc9a33.m3u8
+beIN SPORTS XTRA en Espanol (1080p),http://10.0.0.66:8080/hls/4de11feaca3dc7a1e9a77731.m3u8
+BEK TV Sports West (720p),http://10.0.0.66:8080/hls/421f5093d926cbcbb15dff28.m3u8
+Belarus-5 (1080p) [Not 24/7],http://10.0.0.66:8080/hls/417bae6a0bfa2a1572cc16be.m3u8
+Belarus-5 HD (1080p),http://10.0.0.66:8080/hls/f18103401c6f244864249c14.m3u8
+Billiard TV (1080p) [Geo-blocked],http://10.0.0.66:8080/hls/cf7dde448a2fcc27586ebb76.m3u8
+Brøndby TV,http://10.0.0.66:8080/hls/a9e889f3163002b4961c3402.m3u8
+Cablenet Sports 1 (1080p),http://10.0.0.66:8080/hls/4898d9c4c979b0e7bf3c2661.m3u8
+Cablenet Sports 2 (1080p),http://10.0.0.66:8080/hls/091ffa334b0dda7bdd2c0074.m3u8
+Canal do Inter (720p) [Not 24/7],http://10.0.0.66:8080/hls/68d703af179fd7475d773a6f.m3u8
+Canal Showsport (720p),http://10.0.0.66:8080/hls/471ed505828633e047c637ea.m3u8
+Canal+ Sport 360,http://10.0.0.66:8080/hls/4fcc3bdeaacc3c13107c5048.m3u8
+CazeTV (1080i),http://10.0.0.66:8080/hls/4fa229b06a4af40e8f5d2195.m3u8
+CBC Sport HD [Geo-blocked],http://10.0.0.66:8080/hls/4e920e486c4c0b52c9c376e4.m3u8
+CBS Sports Golazo Network (720p),http://10.0.0.66:8080/hls/8333483a75efd9ac8c8dea04.m3u8
+CBS Sports HQ (1080p) [Geo-blocked],http://10.0.0.66:8080/hls/5ff54c6a42d4aed82fd90fd9.m3u8
+Claro Sports (720p),http://10.0.0.66:8080/hls/886b1969a57c3c491493a931.m3u8
+ColimdoT TV (720p),http://10.0.0.66:8080/hls/8ab52314c07c7b55c61928d6.m3u8
+Combate (720p),http://10.0.0.66:8080/hls/62aff559ce39b86ee0ce16a3.m3u8
+Cricket Gold (1080p),http://10.0.0.66:8080/hls/9b558fd8ca19e8d142471d9e.m3u8
+CRTV (720p),http://10.0.0.66:8080/hls/7e05e31c919f31cf35bf5dcd.m3u8
+ČT Sport (720p),http://10.0.0.66:8080/hls/bf0256b8d17c1536f3b06eb2.m3u8
+Cytavision Sports 1 (1080p),http://10.0.0.66:8080/hls/d5ac58a87f0d2652c8cff981.m3u8
+Cytavision Sports 2 (1080p),http://10.0.0.66:8080/hls/aab64f66ff54b3268a385314.m3u8
+Cytavision Sports 3 (1080p),http://10.0.0.66:8080/hls/33996281cedb8066a78043eb.m3u8
+Cytavision Sports 4 (720p),http://10.0.0.66:8080/hls/4a746f94ed23401acb7d2d96.m3u8
+Cytavision Sports 5 (720p),http://10.0.0.66:8080/hls/16368cc12848a7d9fa5a4a6a.m3u8
+DAZN 5,http://10.0.0.66:8080/hls/3ddc876e54989c4221242e44.m3u8
+DAZN Combat (684p),http://10.0.0.66:8080/hls/90d4f9848df836bae0159577.m3u8
+DAZN Darts x Pluto TV,http://10.0.0.66:8080/hls/519bb25c92df0d27293baada.m3u8
+DAZN Heldinnen x Pluto TV,http://10.0.0.66:8080/hls/ce7e8d372ebd969e60048cd0.m3u8
+DD Sports SD (1080p),http://10.0.0.66:8080/hls/4f48a616121b41cfb6a70425.m3u8
+Deportes por Movistar Plus+,http://10.0.0.66:8080/hls/cbb0e315756368c0dc7dd73f.m3u8
+Deportes TVC (1080p),http://10.0.0.66:8080/hls/3877611724b95f7e602f11a8.m3u8
+Digi Sport 1,http://10.0.0.66:8080/hls/52ef9dc32f1f564faa759c43.m3u8
+DiviSport (1080p),http://10.0.0.66:8080/hls/14b85230c6e224f0bef37034.m3u8
+Dong Nai TV 2 (720p),http://10.0.0.66:8080/hls/282138ea08ba794449f99591.m3u8
+DraftKings Network (1080p),http://10.0.0.66:8080/hls/cb9af8083ae26cffb4a3f262.m3u8
+DSports (720p),http://10.0.0.66:8080/hls/c5724a939adbe49368986717.m3u8
+Dynamo Kyiv TV (1080p),http://10.0.0.66:8080/hls/9a6faff46ee7832e7ab2fa80.m3u8
+El-Heddaf TV (1080p),http://10.0.0.66:8080/hls/f952ed73c0899f5ef4385b79.m3u8
+Equalympic (1080p),http://10.0.0.66:8080/hls/f70b5c86f94560a7b3d72884.m3u8
+Equidia (1080p),http://10.0.0.66:8080/hls/be2c2867532b0e3dfd3d0002.m3u8
+ERT Sports 1 (1080p),http://10.0.0.66:8080/hls/cfb819ce2f50f19d2bfb5baa.m3u8
+ERT Sports 2 (1080p),http://10.0.0.66:8080/hls/8b03d2e16b50e81acf765e07.m3u8
+ESPN8 The Ocho (1080p),http://10.0.0.66:8080/hls/33d7fe03c8eefdb26d85d3d0.m3u8
+ESPNU (720p),http://10.0.0.66:8080/hls/515502d4f1c4968e98877071.m3u8
+Esport3 (1080p) [Not 24/7],http://10.0.0.66:8080/hls/53be0dd1316a538409c541ba.m3u8
+Esport3 (1080p) [Geo-blocked],http://10.0.0.66:8080/hls/c2eed755e8e836306d833c4e.m3u8
+Extreme Sports Channel (576p),http://10.0.0.66:8080/hls/d13988c4c3c92c302bdcc8c0.m3u8
+F1 Channel (1080p) [Geo-blocked],http://10.0.0.66:8080/hls/2cdf55c244a6e4839ee24544.m3u8
+Fast&FunBox,http://10.0.0.66:8080/hls/7794abdbc60d19824fc8b4d6.m3u8
+FB TV,http://10.0.0.66:8080/hls/bc89b339bb547fa0ef4611b8.m3u8
+FCK Løvinderne,http://10.0.0.66:8080/hls/3bece60ea2275fd49cc170d9.m3u8
+FIFA+ (720p),http://10.0.0.66:8080/hls/cc59704c590b290350f8d2f2.m3u8
+FIFA+ French (720p),http://10.0.0.66:8080/hls/86f46cbe8737a59ee5a299b3.m3u8
+FIFA+ German (720p),http://10.0.0.66:8080/hls/a44702d15add432259300372.m3u8
+FIFA+ Hispanic America (720p),http://10.0.0.66:8080/hls/69d3b6d9fac1c0a9ffff252b.m3u8
+FIFA+ Italy (720p),http://10.0.0.66:8080/hls/1dc53620642343bbd96a3b8a.m3u8
+FIFA+ Portuguese (720p),http://10.0.0.66:8080/hls/104df851db4ff40ffe764758.m3u8
+FIFA+ Spain (720p),http://10.0.0.66:8080/hls/50bc8e48425cbcd9db10799a.m3u8
+FIFA+ United States (720p),http://10.0.0.66:8080/hls/d5131605c1860c2434d0584c.m3u8
+FIFA+ Women (720p),http://10.0.0.66:8080/hls/84cd7057c032fb4950be181e.m3u8
+Fight Network (1080p),http://10.0.0.66:8080/hls/1a0c8c9d27a379aa079d8a91.m3u8
+FightBox,http://10.0.0.66:8080/hls/0fa404f717dd9baceeeb7b57.m3u8
+FITE 24/7 (1080p),http://10.0.0.66:8080/hls/a110357441c53b1ae9aa587e.m3u8
+FloHockey 24/7 (1080p),http://10.0.0.66:8080/hls/e9953b203531a9029f2a9706.m3u8
+FloRacing 24/7 (1080p),http://10.0.0.66:8080/hls/19d1113206f5b0ebd7c8d77e.m3u8
+Foot+,http://10.0.0.66:8080/hls/7f13fdbe9a8d1d247b547f5b.m3u8
+Fox Deportes (720p),http://10.0.0.66:8080/hls/c2df3d1fd2251812d40a2b02.m3u8
+Fox Sports (720p) [Not 24/7],http://10.0.0.66:8080/hls/fad797f36b4c88e253e6cbae.m3u8
+Fox Sports 1 (720p),http://10.0.0.66:8080/hls/9b4d0c923262b9ae90c62c7a.m3u8
+Fox Sports 2 (720p),http://10.0.0.66:8080/hls/043d37a0c813161b7db9b39c.m3u8
+FTF Sports (720p),http://10.0.0.66:8080/hls/73c82a189b8b9e6dac9915f9.m3u8
+FTV (720p),http://10.0.0.66:8080/hls/fb56ecb5c3955cffba3085d4.m3u8
+fubo Sports Network (1080p),http://10.0.0.66:8080/hls/fb23a99bd1fd9c83ff9d5bf1.m3u8
+Fuel TV (1080p),http://10.0.0.66:8080/hls/a82f3644dd16a03a14f79abe.m3u8
+Fuel TV (1080p),http://10.0.0.66:8080/hls/e3c38b072567216c4d117fd2.m3u8
+FUEL TV (1080p),http://10.0.0.66:8080/hls/0389b1dc739c93078cc973d0.m3u8
+Fuel TV (1080p) [Geo-blocked],http://10.0.0.66:8080/hls/d99a2e9bba126ab858466e92.m3u8
+Futbol (1080p),http://10.0.0.66:8080/hls/d0c78adb920775a755f29892.m3u8
+Futbol TV (1080p),http://10.0.0.66:8080/hls/877abe16cc2ac00e52f5f1b9.m3u8
+FUTV,http://10.0.0.66:8080/hls/1fceaacf76ead2183e92869e.m3u8
+Game+ (720p),http://10.0.0.66:8080/hls/5f2c34e65d2f4be44dd2b8ef.m3u8
+ge Fast (1080p),http://10.0.0.66:8080/hls/e4711d66927cca66ca1797f8.m3u8
+GEM Fit,http://10.0.0.66:8080/hls/e5d0ab3eead00dc1815455f1.m3u8
+GEM Sport,http://10.0.0.66:8080/hls/db53b2da0ed7582c13892c3f.m3u8
+GLORY Kickboxing (720p),http://10.0.0.66:8080/hls/212e3b940caf18d6ea256498.m3u8
+Go3 Sport 1 (1080p),http://10.0.0.66:8080/hls/edf016326278b70f5b1fe0a6.m3u8
+Golazo Network (720p),http://10.0.0.66:8080/hls/6f2f88657a0f76114b68061c.m3u8
+Golf Channel,http://10.0.0.66:8080/hls/3887f5fff6c9718c7e163429.m3u8
+Golf Channel (1080p) [Geo-blocked],http://10.0.0.66:8080/hls/de5de243f431a1c6fd1d8032.m3u8
+Golf Channel Latin America (1080p),http://10.0.0.66:8080/hls/ace4a309a7e9f6b312ea1559.m3u8
+GolTV Latin America (720p),http://10.0.0.66:8080/hls/b18c56a12be6163ecfad2110.m3u8
+Hard Knocks (1080p),http://10.0.0.66:8080/hls/96e216cbc7f7549743c83e9b.m3u8
+Horse TV (720p),http://10.0.0.66:8080/hls/8e497668173a8406dda56410.m3u8
+HTSpor TV (1080p),http://10.0.0.66:8080/hls/0032cdddc7f2333b273b03ca.m3u8
+HTV Thể thao (1080p) [Geo-blocked],http://10.0.0.66:8080/hls/09f9edb62f72eff625e8cd0c.m3u8
+INTROUBLE (1080p),http://10.0.0.66:8080/hls/0a2960fe10ae39f52a421d4d.m3u8
+IRIB3,http://10.0.0.66:8080/hls/af6fbfa7fa54e4808a0cfbf4.m3u8
+ITV Deportes (720p),http://10.0.0.66:8080/hls/fc0579478bf481a7bdb893f7.m3u8
+Jordan Sport (1080p),http://10.0.0.66:8080/hls/b4b826e021447aca463222d5.m3u8
+K19,http://10.0.0.66:8080/hls/a156733622aef512501be02c.m3u8
+KHL (720p),http://10.0.0.66:8080/hls/fd8e0c14229715b3ba016dae.m3u8
+KHL Prime (1080p),http://10.0.0.66:8080/hls/d1d24f181f78e41854dbdc58.m3u8
+Kozoom TV (1080p),http://10.0.0.66:8080/hls/93183fa80f9b673dc1858169.m3u8
+KTV Sport (1080p),http://10.0.0.66:8080/hls/65717476368555c041be79ed.m3u8
+KTV Sport Plus (1080p),http://10.0.0.66:8080/hls/156b70f68f87a59462853d2d.m3u8
+L1 (1080p),http://10.0.0.66:8080/hls/ce81abd9283348b77c269915.m3u8
+L1 Max (1080p),http://10.0.0.66:8080/hls/db7a830191c6ac1dbb79bfbe.m3u8
+Lacrosse TV (720p),http://10.0.0.66:8080/hls/0da47b484f717ed509df3203.m3u8
+Liga de Campeones por Movistar Plus+,http://10.0.0.66:8080/hls/28ce71ea30112cb0ba397153.m3u8
+Lóverseny közvetítés (420p),http://10.0.0.66:8080/hls/fd70fa923f29b52c4e5ef1dd.m3u8
+LRT Plius (1080p),http://10.0.0.66:8080/hls/ce1e86cfacbcb5d193a04663.m3u8
+M4 Sport,http://10.0.0.66:8080/hls/50c120c137b6bae8e50dc71b.m3u8
+M Sports (1080p),http://10.0.0.66:8080/hls/1596ef37e7e2e4e9722823ca.m3u8
+M-Net Sport (720p),http://10.0.0.66:8080/hls/d295e83444494853842ddf6e.m3u8
+MadeinBO TV (1080p),http://10.0.0.66:8080/hls/d5354bdec4e3239ebaf45e49.m3u8
+Maincast Cybersport (1080p),http://10.0.0.66:8080/hls/1ca0a56549864753a15f542b.m3u8
+Maincast Sport (1080p),http://10.0.0.66:8080/hls/ff2d5d13c0668c5157c9f8af.m3u8
+Match! Boets (576p),http://10.0.0.66:8080/hls/0a7f6674c1889b7154b7d31a.m3u8
+Match! Strana (720p),http://10.0.0.66:8080/hls/f72d0f3c007b1eb22fed4471.m3u8
+Match! Ultra (720p),http://10.0.0.66:8080/hls/752b11bba6f2b7a0d5139fe9.m3u8
+Max Sport 1 (720p),http://10.0.0.66:8080/hls/ae544e0e9055bacd69d4dcac.m3u8
+Max Sport 2 (720p),http://10.0.0.66:8080/hls/47efd906d72fc2dfcd8dcd93.m3u8
+Max Sport 3 (720p),http://10.0.0.66:8080/hls/79d7ac4105667237b2b07462.m3u8
+Max Sport 4,http://10.0.0.66:8080/hls/57cb846e54f82a691958012e.m3u8
+Meridiano TV (576p),http://10.0.0.66:8080/hls/0bd895d6ffadd05d7ae9fc5c.m3u8
+MLB Channel (1080p) [Geo-blocked],http://10.0.0.66:8080/hls/49ab5ed00ed8e87a621eb901.m3u8
+MLB Network (1080p) [Geo-blocked],http://10.0.0.66:8080/hls/e7ff637353088eda0a33b656.m3u8
+MLB Strike Zone (720p),http://10.0.0.66:8080/hls/1e614881e91b46badcd5b572.m3u8
+MNB Sport (1080p),http://10.0.0.66:8080/hls/96c7274617b76a8bbce62031.m3u8
+Monster Jam (720p),http://10.0.0.66:8080/hls/9817bfd88e8e547b99a1ac4f.m3u8
+Monterrico TV,http://10.0.0.66:8080/hls/c0cab4f8dde1f373257b47d1.m3u8
+More Than Sports TV (1080p),http://10.0.0.66:8080/hls/f81fcb14d26c0c76e8b3da57.m3u8
+Movistar Deportes (1080p),http://10.0.0.66:8080/hls/8fca7bd346b0a8cf7f54c8d2.m3u8
+MSG (720p),http://10.0.0.66:8080/hls/cb7f215a82a0fb27e11ccbb7.m3u8
+MSG Plus (720p),http://10.0.0.66:8080/hls/481c52a831d76d7ae498df45.m3u8
+Multivisión Sports (720p) [Not 24/7],http://10.0.0.66:8080/hls/335afa1e03d4624ac67d70e2.m3u8
+MUTV (720p),http://10.0.0.66:8080/hls/05c5986794e791426e806a4b.m3u8
+N Sports (1080p),http://10.0.0.66:8080/hls/06f0f96d3f67d37fe267843a.m3u8
+Nautical Channel (720p),http://10.0.0.66:8080/hls/1309d9f952e8ad42585a4792.m3u8
+NBC Sports Bay Area (1080p) [Geo-blocked],http://10.0.0.66:8080/hls/27099088603e83e609f1405c.m3u8
+NBC Sports NOW (1080p),http://10.0.0.66:8080/hls/396e764823724607b459e4c0.m3u8
+NBC Sports Philadelphia (1080p) [Geo-blocked],http://10.0.0.66:8080/hls/8fcf60013f45768baf5e9109.m3u8
+NESN (720p),http://10.0.0.66:8080/hls/bda99c975b153b15eae788c4.m3u8
+NHL Network (1080p),http://10.0.0.66:8080/hls/d32ecb710d6d307428dac26a.m3u8
+NHRA TV (1080p),http://10.0.0.66:8080/hls/d9e2253fb561e96a9d56a560.m3u8
+Okko Futbol (1080p),http://10.0.0.66:8080/hls/45dedd04db1d8ab9056aa389.m3u8
+Okko Prajm Sport (1080p),http://10.0.0.66:8080/hls/e93f5f0c2a7139cd772fdf54.m3u8
+Okko Sport (1080p),http://10.0.0.66:8080/hls/ed2b34ab6069e1a0a0a74dee.m3u8
+Olympics Channel (1080p) [Geo-blocked],http://10.0.0.66:8080/hls/c0228f2599faf87febcbf2bf.m3u8
+Oman Sports TV (1080p) [Not 24/7],http://10.0.0.66:8080/hls/22575bc34bd2b3e35cacd994.m3u8
+One Golf (720p),http://10.0.0.66:8080/hls/fbb4309ad169fcd3ea182a28.m3u8
+Ovacion TV (720p) [Not 24/7],http://10.0.0.66:8080/hls/5ee025d7ed865bba79ee5831.m3u8
+Overtime (1080p),http://10.0.0.66:8080/hls/17ebff125fad2ebb056a5eb8.m3u8
+Pac 12 Insider (1080p),http://10.0.0.66:8080/hls/a4700f00a60078204493007a.m3u8
+PBR RidePass (720p),http://10.0.0.66:8080/hls/7d15d1b6b25c2bd6aa0e2c07.m3u8
+Persiana Fight,http://10.0.0.66:8080/hls/c417540725f9a309e7deaaa0.m3u8
+PGA Tour (1080p),http://10.0.0.66:8080/hls/a98e3a3f9771bc22fb3cebcb.m3u8
+PK Sports (720p),http://10.0.0.66:8080/hls/402ef7002d1b74bcb85f5369.m3u8
+Pluto TV Competition,http://10.0.0.66:8080/hls/43a41f7a828f6733cc663d27.m3u8
+Pluto TV Deportes,http://10.0.0.66:8080/hls/2becc3245c8688679c3eeb86.m3u8
+Pluto TV E-Sports,http://10.0.0.66:8080/hls/1cb731d40eda29034176589e.m3u8
+Pluto TV Esportes,http://10.0.0.66:8080/hls/4699f929452ac5b132779315.m3u8
+Pluto TV Fishing,http://10.0.0.66:8080/hls/742a91e619a7ccaf72519d0d.m3u8
+Pluto TV Håndbold Highlights,http://10.0.0.66:8080/hls/8c67cfe85cd78975310c6717.m3u8
+Pluto TV Håndbold Live,http://10.0.0.66:8080/hls/b1f6bb7760c07387a0267b5f.m3u8
+Pluto TV Handboll Highlights,http://10.0.0.66:8080/hls/f9ad1e84a966e5a6f49d1c12.m3u8
+Pluto TV Handboll Live,http://10.0.0.66:8080/hls/9de8b10baa3daf79d03730c4.m3u8
+Pluto TV Snooker 900 (720p),http://10.0.0.66:8080/hls/a35b125129844d516ecfe75b.m3u8
+Pluto TV Snooker 900 (720p),http://10.0.0.66:8080/hls/22f3ea9e6b633044a5a6e869.m3u8
+Pluto TV Snooker 900 (720p),http://10.0.0.66:8080/hls/753156c3de8044c519b05895.m3u8
+Pluto TV Snooker 900 (720p),http://10.0.0.66:8080/hls/ee771c785456addbb1b8276f.m3u8
+Pluto TV Snooker 900 (720p),http://10.0.0.66:8080/hls/f21088007b2808c8f878ec07.m3u8
+Pluto TV Snooker 900 (720p),http://10.0.0.66:8080/hls/85274b178b4f19a98e5f782f.m3u8
+Pluto TV Snooker 900 (720p),http://10.0.0.66:8080/hls/b0307b9d8fbef394ead379bb.m3u8
+Pluto TV Snooker 900 (720p),http://10.0.0.66:8080/hls/3f31dd5edd82e9fd21cf9694.m3u8
+Pluto TV Snooker 900,http://10.0.0.66:8080/hls/20b8e4bfe7cd351f0354868a.m3u8
+Pluto TV Sport,http://10.0.0.66:8080/hls/537dc8ba83c4cdcb1703b454.m3u8
+Pluto TV Sport,http://10.0.0.66:8080/hls/99169721c8f0283d5aa00c53.m3u8
+Pluto TV Sport,http://10.0.0.66:8080/hls/576549f6cee6fc5646e78e82.m3u8
+Pluto TV Sport,http://10.0.0.66:8080/hls/5892b396694f7e7454fd5d0e.m3u8
+PokerGO,http://10.0.0.66:8080/hls/ee2c5c46a150e08eb83e1479.m3u8
+Polsat Sport Premium 1 (1080p) [Not 24/7],http://10.0.0.66:8080/hls/dc63d876a4b9e3515f0b5693.m3u8
+Polsat Sport Premium 2 (1080p) [Not 24/7],http://10.0.0.66:8080/hls/c10b7912eee3627e74f0d688.m3u8
+Premier Sports (1080p),http://10.0.0.66:8080/hls/03d70f2ad4ed160ff36e7eeb.m3u8
+Premier Sports 1,http://10.0.0.66:8080/hls/abed9416c25b1c4e16138ff5.m3u8
+Premier Sports 2,http://10.0.0.66:8080/hls/cb30d174808dcf0db966adaf.m3u8
+Premier Sports 2 (1080p),http://10.0.0.66:8080/hls/97665a35ca6a36ac26e47696.m3u8
+Prime (1080p),http://10.0.0.66:8080/hls/a1caa1809d3d336f8357b167.m3u8
+PTV Sports (1080p),http://10.0.0.66:8080/hls/f1b2b8ccbf4890fac3f9f484.m3u8
+QazSport (1080p),http://10.0.0.66:8080/hls/6e71f300123d22dcd8f3b29d.m3u8
+RACER International (1080p),http://10.0.0.66:8080/hls/63ecd5245229cd887bb18335.m3u8
+Racer Network (1080p),http://10.0.0.66:8080/hls/43ac0c5724a2f02bc3ab5926.m3u8
+Racer Select (1080p),http://10.0.0.66:8080/hls/ea412026d46773716cdba07d.m3u8
+Racing.com (720p),http://10.0.0.66:8080/hls/81c29f4e0ef233e2318c180b.m3u8
+Radio Turrialba TV Sports (720p) [Not 24/7],http://10.0.0.66:8080/hls/46bbb9156e4dae20b43bda2b.m3u8
+Rai Sport,http://10.0.0.66:8080/hls/9abafd2813fd5ff88b3303b1.m3u8
+Rally TV (1080p),http://10.0.0.66:8080/hls/81732a801fec10b1a2d49a61.m3u8
+Real Madrid TV (726p),http://10.0.0.66:8080/hls/85562242acf76679f022399c.m3u8
+Real Madrid TV English,http://10.0.0.66:8080/hls/4aed3588a67c7876fac24f97.m3u8
+Realitatea Sportiva (720p),http://10.0.0.66:8080/hls/35fbb91100ef7b7d3c04cee9.m3u8
+Red Bull TV (1080p),http://10.0.0.66:8080/hls/011ededd5e45d8fec6bf9894.m3u8
+Red Bull TV (1080p),http://10.0.0.66:8080/hls/d404bc0f50d100d4e8b95789.m3u8
+Red Bull TV AU (1080p),http://10.0.0.66:8080/hls/954b560518309db72b581bcf.m3u8
+Red Bull TV BR (1080p),http://10.0.0.66:8080/hls/f865eb4cabd67ff3694b83dd.m3u8
+Red Bull TV DE (1080p),http://10.0.0.66:8080/hls/bf08ba6b6752823422b523b0.m3u8
+Red Bull TV ES (1080p),http://10.0.0.66:8080/hls/ad088512ed1055decfdb4922.m3u8
+Red Bull TV UK (1080p),http://10.0.0.66:8080/hls/aec1a6436ab80ff0b630d564.m3u8
+Red Bull TV US (1080p),http://10.0.0.66:8080/hls/8e500dcd7f376ee2ba34d7fe.m3u8
+Rev'n Action (720p),http://10.0.0.66:8080/hls/d5c2f2000082966a88eac35e.m3u8
+RightNow TV (720p),http://10.0.0.66:8080/hls/6d4c50a49aedf4c36306c7d4.m3u8
+RTSH Sport (1080p),http://10.0.0.66:8080/hls/9fc7c83bf8104b75f7d0ff42.m3u8
+S Sport (720p),http://10.0.0.66:8080/hls/4d195f873c14fd4278933d8f.m3u8
+S Sport 2 (720p),http://10.0.0.66:8080/hls/9dfb7261148d7aab8a932478.m3u8
+San Marino RTV Sport (720p),http://10.0.0.66:8080/hls/d740b665621fc3b5e7d9275c.m3u8
+Setanta Sports 1 Eurasia (1080p),http://10.0.0.66:8080/hls/080114c465cfcc3585f98b0f.m3u8
+Setanta Sports 2 Eurasia (1080p),http://10.0.0.66:8080/hls/cd907100cf4ec43646d391e6.m3u8
+Setanta Sports+ Ukraine (1080p),http://10.0.0.66:8080/hls/b3d60c260491bf6a676c5acf.m3u8
+Sharjah Sports (1080p) [Geo-blocked],http://10.0.0.66:8080/hls/077c059e02d217debcfdb660.m3u8
+SKI TV (1080p) [Not 24/7],http://10.0.0.66:8080/hls/cbdad203776e2102fa102855.m3u8
+Sky Racing 1 (720p),http://10.0.0.66:8080/hls/332856100629f354cf53f490.m3u8
+Sky Racing 2 (720p),http://10.0.0.66:8080/hls/434c80590e0198618ae77518.m3u8
+Sky Sport Austria 1,http://10.0.0.66:8080/hls/1796979702e7116502d0c911.m3u8
+Sky Sport Basket,http://10.0.0.66:8080/hls/aaff39fae413be320b4b32cc.m3u8
+Sky Sport F1,http://10.0.0.66:8080/hls/b8fd8e7e6af4da21c9588a83.m3u8
+Sky Sport Top Event,http://10.0.0.66:8080/hls/daf91ab032bd84f56372974d.m3u8
+Sky Sports Cricket,http://10.0.0.66:8080/hls/64417c6d862d9933e74e599c.m3u8
+Sky Sports Cricket HD (1080p),http://10.0.0.66:8080/hls/82bb2286f28e735acf1959a6.m3u8
+Sky Sports F1 (1080p),http://10.0.0.66:8080/hls/e1a87dc13ed182d22d749395.m3u8
+Sky Sports Golf HD (1080p),http://10.0.0.66:8080/hls/2fe87a03502834affa80b0d3.m3u8
+Sky Thoroughbred Central (720p) [Geo-blocked],http://10.0.0.66:8080/hls/364f29c3e88a5f86c5401307.m3u8
+Slopes TV (720p),http://10.0.0.66:8080/hls/67dee69546d582226b56943b.m3u8
+SOS Kanal Plus (720p),http://10.0.0.66:8080/hls/1c47ed47e15bea5cb2ff2ea3.m3u8
+Spiler 1,http://10.0.0.66:8080/hls/dcdf8cd4e106f0f4c6dfc36f.m3u8
+Spiler 2,http://10.0.0.66:8080/hls/5e37ceca5dc3cacd7f4e0ce2.m3u8
+Sport,http://10.0.0.66:8080/hls/20d662a73a8401946b37759f.m3u8
+Sport1,http://10.0.0.66:8080/hls/4fc0ea3b6b5515858915a431.m3u8
+Sport 1,http://10.0.0.66:8080/hls/11091db6fd536edf128fcd19.m3u8
+Sport 1 (576p),http://10.0.0.66:8080/hls/3e0592e282821b211ba940d2.m3u8
+Sport 1 Baltic (1080p),http://10.0.0.66:8080/hls/38eeb9621452619657c82c3a.m3u8
+Sport2,http://10.0.0.66:8080/hls/3cc6fca3a22ec5693024e6aa.m3u8
+Sport 2,http://10.0.0.66:8080/hls/9a22d76b2b3255f66e5b882c.m3u8
+Sport 2 (1080p),http://10.0.0.66:8080/hls/8f82ff366180c13ef44c37ba.m3u8
+Sport 3 (1080p),http://10.0.0.66:8080/hls/693c45e980237fa46223245e.m3u8
+Sport 4 (576p),http://10.0.0.66:8080/hls/7b8cb8c54f72b1eb7fd43572.m3u8
+Sport 5 (1080p),http://10.0.0.66:8080/hls/bc3b0d6222ad2ec13aa9a0dc.m3u8
+Sport TV (1080p),http://10.0.0.66:8080/hls/4920282b3986d9f25a50a3e0.m3u8
+Sport TV1,http://10.0.0.66:8080/hls/182741438dd42b1104027b48.m3u8
+Sport TV2,http://10.0.0.66:8080/hls/5f458756267b13c1476dd262.m3u8
+Sport TV5,http://10.0.0.66:8080/hls/d4e65b9d3b05a8e22f6a72b7.m3u8
+Sport TV6,http://10.0.0.66:8080/hls/a3b984bcba688609397b3903.m3u8
+Sport TV7,http://10.0.0.66:8080/hls/555eb08e8635d18882203da1.m3u8
+Sport TV+,http://10.0.0.66:8080/hls/3cb7ca0eb097fdf951d6a145.m3u8
+Sportdigital FUSSBALL,http://10.0.0.66:8080/hls/c86655130a4113ef7194c2db.m3u8
+Sportitalia (1080p),http://10.0.0.66:8080/hls/8e1b4c31adf02606658d06f7.m3u8
+Sportitalia 24 (720p) [Geo-blocked],http://10.0.0.66:8080/hls/dc8089d6366f4aad683990f6.m3u8
+Sportitalia Motori (720p) [Geo-blocked],http://10.0.0.66:8080/hls/8f7a3ba03c987d8eca5878b7.m3u8
+Sportitalia Solocalcio (1080p),http://10.0.0.66:8080/hls/40456e33ea70cbb24f51de8c.m3u8
+Sportivnyy (1080p),http://10.0.0.66:8080/hls/e98ea71d453d9e072e99d76b.m3u8
+SportsGrid (1080p),http://10.0.0.66:8080/hls/5af491c610c07a58b5e950ca.m3u8
+Sportsman Channel (720p),http://10.0.0.66:8080/hls/f7c3b05322ab9412686d7fb4.m3u8
+SportsNet New York (1080p),http://10.0.0.66:8080/hls/a0645138acabd016769c066c.m3u8
+SporTV 3 (720p),http://10.0.0.66:8080/hls/4c171e51221337e01db2a977.m3u8
+Sporty TV,http://10.0.0.66:8080/hls/2cff16336a2b0a5c8ef5608e.m3u8
+Sqala TV (720p),http://10.0.0.66:8080/hls/ed0593b2c6e3dcd37f0f9c1b.m3u8
+Stadium (720p),http://10.0.0.66:8080/hls/a1071217c8e4923719d8ceb4.m3u8
+Star Sports 1 (720p),http://10.0.0.66:8080/hls/95b909d943d7eb30b599130e.m3u8
+Star Sports 1 HD (1080p),http://10.0.0.66:8080/hls/cc745d04036a6452a414354e.m3u8
+Star Sports 1 Hindi (576p),http://10.0.0.66:8080/hls/a97804a280cb3a11d376a1a4.m3u8
+Star Sports 1 Hindi HD,http://10.0.0.66:8080/hls/198a753c145cdcb6113d7e34.m3u8
+Star Sports 2 HD (720p),http://10.0.0.66:8080/hls/7514dd6062b270b860c81a57.m3u8
+Star Sports 2 Hindi (720p),http://10.0.0.66:8080/hls/cbee6d18b33ce6c24b7db700.m3u8
+Star Sports 2 Hindi HD (1080p),http://10.0.0.66:8080/hls/7a7eb0f9012ab9c8cab15baa.m3u8
+Star Sports Khel (1080p),http://10.0.0.66:8080/hls/c2dc98f15d600a7ad129cafe.m3u8
+Star Sports Select 1 HD (720p),http://10.0.0.66:8080/hls/194db6bf3135b4415dec3dd8.m3u8
+Star Sports Select 2 HD (720p),http://10.0.0.66:8080/hls/1f8addfec72e9ff304afb487.m3u8
+Strongman (720p),http://10.0.0.66:8080/hls/d46557e506efa134af6f4d2d.m3u8
+Strongman Champions League (720p),http://10.0.0.66:8080/hls/508da942ae58a731d942012f.m3u8
+Strongman Champions League (720p),http://10.0.0.66:8080/hls/4afbafa0011b4aa7d6e7df27.m3u8
+SuperTennis (1080p),http://10.0.0.66:8080/hls/2597d44b6bd7fd1f75eef36d.m3u8
+Suspilne. Sport (1080p),http://10.0.0.66:8080/hls/956d8d6ac019c3862d0648e5.m3u8
+Swerve Combat (1080p),http://10.0.0.66:8080/hls/ba483c284c20125e380f9003.m3u8
+T Sports (1080p),http://10.0.0.66:8080/hls/5c98ac091b17e15320f05c3d.m3u8
+T Sports 7,http://10.0.0.66:8080/hls/851043906843a09bac78a957.m3u8
+Talent TV (720p),http://10.0.0.66:8080/hls/febd61108d62bad7e1f42458.m3u8
+talkSPORT (1080p),http://10.0.0.66:8080/hls/985da872ced8ec1ea17baf7e.m3u8
+TDM Sports Ch. 93 (720p),http://10.0.0.66:8080/hls/7608a6c1bf868d2e79484d39.m3u8
+Tele Rebelde (480p) [Not 24/7],http://10.0.0.66:8080/hls/ccf48c1cf936f889c2e42c25.m3u8
+Teledeporte (720p) [Geo-blocked],http://10.0.0.66:8080/hls/27114859be216d578da4bd78.m3u8
+Teletrak (720p),http://10.0.0.66:8080/hls/465c88571ef1623bcc45508e.m3u8
+Ten Sports Pakistan,http://10.0.0.66:8080/hls/d120d24e2211b49f667675bd.m3u8
+Tennis Channel (1080p),http://10.0.0.66:8080/hls/5f4806189f0342cf2d3c063b.m3u8
+TennisChannel 2 (720p),http://10.0.0.66:8080/hls/c47457a512b47cd7a5f9cf70.m3u8
+The Cycling Channel,http://10.0.0.66:8080/hls/b1455ff87b8271ead5470d91.m3u8
+Tigo Sports (720p) [Geo-blocked],http://10.0.0.66:8080/hls/5df86fed67c5028c56f58da2.m3u8
+Tigo Sports (720p) [Geo-blocked],http://10.0.0.66:8080/hls/15d054ce18b1be67c3ceaeb3.m3u8
+Tigo Sports (1080p),http://10.0.0.66:8080/hls/ea5b1311ba0f0c9cbc565291.m3u8
+Tigo Sports (1080p),http://10.0.0.66:8080/hls/2b642a01d6920e21d1f6c434.m3u8
+Tigo Sports+,http://10.0.0.66:8080/hls/f216645a273758dde64625f7.m3u8
+TJK TV (1080p),http://10.0.0.66:8080/hls/351da6021fe88ef6da8f2ec6.m3u8
+TJK TV 2 (1080p) [Not 24/7],http://10.0.0.66:8080/hls/fc160d20b4637eaea3f00631.m3u8
+TNC Sports (1080p),http://10.0.0.66:8080/hls/01f4bd0c93897fcae75718fe.m3u8
+Tour Spot TV (1280p) [Not 24/7],http://10.0.0.66:8080/hls/0ecccc825af656e92a0d1269.m3u8
+TR Sport (480p),http://10.0.0.66:8080/hls/0091904259f24814ef2ce0a8.m3u8
+Trace Sport Stars (Australia) (1080p),http://10.0.0.66:8080/hls/1f3c2fb6a0ce11440b4441ae.m3u8
+Trace Sport Stars Russia (720p),http://10.0.0.66:8080/hls/c445c61f36ba41464f785b03.m3u8
+Trace Sport Stars SD,http://10.0.0.66:8080/hls/1e515007162217c06c5039f1.m3u8
+TRT Spor Yildiz (1440p) [Geo-blocked],http://10.0.0.66:8080/hls/a560a6a82a40ebd2db3118f9.m3u8
+TSN1 (1080p),http://10.0.0.66:8080/hls/79ca5d0ea0a4b9c39d0c3cf2.m3u8
+TSN The Ocho (1080p),http://10.0.0.66:8080/hls/8bc817506b40065e8348698b.m3u8
+Turf Movil (720p),http://10.0.0.66:8080/hls/60b2d28904bf9e4ecc70beeb.m3u8
+Türkmenistan Sport (406p) [Not 24/7],http://10.0.0.66:8080/hls/c4bc5891527f2391163e5394.m3u8
+TV 2 Sport,http://10.0.0.66:8080/hls/2f995ef3e9d98bc21bbf54d8.m3u8
+TV Cuatro 4.3 (1080p),http://10.0.0.66:8080/hls/184d7e6d4eba39ba86fc2a8e.m3u8
+TVMatic Fight (720p),http://10.0.0.66:8080/hls/5724469468801a07ec32f8ad.m3u8
+TVMsport+ (1080p),http://10.0.0.66:8080/hls/e993b9f3890cfd6296f6e7b9.m3u8
+TVP Sport (1080p) [Not 24/7],http://10.0.0.66:8080/hls/4224d6ec4a8ffc6cef139916.m3u8
+TVR Sport,http://10.0.0.66:8080/hls/20729ea5763de27dae6652e6.m3u8
+TVRI Sport [Geo-blocked],http://10.0.0.66:8080/hls/c99b3e1ad77bc73ecdc4cee7.m3u8
+TVS Bowling Network (720p),http://10.0.0.66:8080/hls/271101d6887d459ca21bb09a.m3u8
+TVS Boxing (360p),http://10.0.0.66:8080/hls/df3c1e24d5065ae0ee5c3bb0.m3u8
+TVS Classic Sports (360p),http://10.0.0.66:8080/hls/15ce62f1e4e1c3001db07881.m3u8
+TVS Sports (720p) [Not 24/7],http://10.0.0.66:8080/hls/bea147245b547f088bbf6a77.m3u8
+TVS Sports Bureau (720p),http://10.0.0.66:8080/hls/2e1cc4d3a28a1e5c54d99e0f.m3u8
+TVS Turbo (360p),http://10.0.0.66:8080/hls/9e9ee3fea0a21538961c07d3.m3u8
+TVS Women Sports (720p),http://10.0.0.66:8080/hls/3077fc9e64869aa0929f863e.m3u8
+TyC Sports (1080p),http://10.0.0.66:8080/hls/aad8746f58830a72ce2e33f9.m3u8
+TyC Sports USA,http://10.0.0.66:8080/hls/d0ef1b53e5e1522a9c0696f6.m3u8
+UDAR (1080p),http://10.0.0.66:8080/hls/de9ce30aa0a1d21fdd1d30e2.m3u8
+Unbeaten (1080p),http://10.0.0.66:8080/hls/634dac17d7a1ec2e51b8de94.m3u8
+Unite8 Sports 1,http://10.0.0.66:8080/hls/fc7cd482cb4bfb0a9822ac12.m3u8
+Unite8 Sports 2,http://10.0.0.66:8080/hls/de0793379fd2c61efa6e19f0.m3u8
+USA Network (1080p),http://10.0.0.66:8080/hls/9ad59f7a1d34e79d1cd546e5.m3u8
+USA Network West (1080p),http://10.0.0.66:8080/hls/88e1eea529f8f973da88ade2.m3u8
+V Sport Golf [Not 24/7],http://10.0.0.66:8080/hls/ae1a52454f7a3daf4fb80a18.m3u8
+Varzesh TV,http://10.0.0.66:8080/hls/f4924002259f2351b99b35b3.m3u8
+Viaplay TV (Finland) (720p) [Not 24/7],http://10.0.0.66:8080/hls/5f5bfa6bd7e2f7d939f941b2.m3u8
+viju+ Sport (576p),http://10.0.0.66:8080/hls/3f0da40b66507a3cfbb8373d.m3u8
+VITAL Drive,http://10.0.0.66:8080/hls/c875c5a139f0f4fea3105184.m3u8
+VSBet HD (1080p),http://10.0.0.66:8080/hls/89505a24c9ca592acd22f9c1.m3u8
+VTV6 (1080p),http://10.0.0.66:8080/hls/560d3eb2e57cbe8c8536508b.m3u8
+We Sport TV,http://10.0.0.66:8080/hls/5f875e90419627891a7b69dc.m3u8
+Willow (720p),http://10.0.0.66:8080/hls/16ebdb33666be3cba23f1d03.m3u8
+Willow Sports (1080p),http://10.0.0.66:8080/hls/3b90ced5d87ddef3b54debae.m3u8
+Willow Sports (1080p),http://10.0.0.66:8080/hls/502567cd10e391e62295ee50.m3u8
+Win Sports (1080p),http://10.0.0.66:8080/hls/c3df6aadb7c5f94aa70ee2ee.m3u8
+World of Freesports (1080p),http://10.0.0.66:8080/hls/fed8d4edabdab9154eae4163.m3u8
+World of Freesports (1080p),http://10.0.0.66:8080/hls/2061f3467d37e7daab415859.m3u8
+World Poker Tour,http://10.0.0.66:8080/hls/1a773d3b472aaf2c2fe28f14.m3u8
+World Poker Tour (1080p),http://10.0.0.66:8080/hls/c5a5da0f36e8f3eb62bc9264.m3u8
+World Poker Tour (1080p),http://10.0.0.66:8080/hls/f6867725a68adec5916aea1f.m3u8
+World Poker Tour (1080p),http://10.0.0.66:8080/hls/34782c1f413a5abd38538ffc.m3u8
+XFC TV (720p),http://10.0.0.66:8080/hls/d7d76d50233a99adbdead6b2.m3u8
+Ziggo Sport,http://10.0.0.66:8080/hls/15f56b12812672c7ab399861.m3u8
+Ziggo Sport 2,http://10.0.0.66:8080/hls/b43223032b8760535666c471.m3u8
+Ziggo Sport 5 (1080p),http://10.0.0.66:8080/hls/c9215021d7e9d9927ed19278.m3u8
+Zona DAZN,http://10.0.0.66:8080/hls/df9abcd8a42e0196d980f32a.m3u8
+Астрахань.Ru Sport (720p),http://10.0.0.66:8080/hls/45f59f3e931423cd5f8b54b9.m3u8
+Беларусь 5 Интернет (1080p) [Not 24/7],http://10.0.0.66:8080/hls/b45d2b77c484c70a890b997e.m3u8
+Бокс ТВ (720p),http://10.0.0.66:8080/hls/bbbed13ca38f2f83a951ed39.m3u8
+МАТЧ! Арена (720p),http://10.0.0.66:8080/hls/9bf7607c3a1abfd8e2235184.m3u8
+МАТЧ! Игра (720p),http://10.0.0.66:8080/hls/98444c31705d1f6d61e0ba2d.m3u8
+Русский Экстрим (576p),http://10.0.0.66:8080/hls/d54e589c6f470ef268050358.m3u8
+СТАРТ Триумф,http://10.0.0.66:8080/hls/f8e2d1839bcdb4b62040f59f.m3u8
+УТРК Спорт (480p) [Not 24/7],http://10.0.0.66:8080/hls/920e4fb833e2119df3cbff27.m3u8
+Футбол (720p),http://10.0.0.66:8080/hls/07a5485bf94ee4f8497de662.m3u8
+}
+
+      .container { margin: 50px auto 40px auto; width: 600px; text-align: center; }
+
+      a { color: #4183c4; text-decoration: none; }
+      a:hover { text-decoration: underline; }
+
+      h1 { width: 800px; position:relative; left: -100px; letter-spacing: -1px; line-height: 60px; font-size: 60px; font-weight: 100; margin: 0px 0 50px 0; text-shadow: 0 1px 0 #fff; }
+      p { color: rgba(0,http://10.0.0.66:8080/hls/afdc30b8adc4e01707fa8400.m3u8

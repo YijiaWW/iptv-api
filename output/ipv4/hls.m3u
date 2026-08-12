@@ -1,9 +1,1301 @@
 #EXTM3U x-tvg-url="http://10.0.0.66:8080/epg/epg.gz"
-#EXTINF:-1 tvg-id="CCTV-5" tvg-name="CCTV-5" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-5.png" group-title="🕘️更新时间",2026-08-12 08:14:37
-http://10.0.0.66:8080/hls/65356fbf48a49ac455478c21.m3u8
+#EXTINF:-1 tvg-id="CCTV-5" tvg-name="CCTV-5" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-5.png" group-title="🕘️更新时间",2026-08-12 09:06:27
+http://10.0.0.66:8080/hls/6f5b267b0103c3d9ab13b284.m3u8
+#EXTINF:-1 tvg-id="CCTV-5+" tvg-name="CCTV-5+" tvg-logo="https://i.imgur.com/OK8mdJV.png" group-title="⚽ Football UK",CCTV-5+
+http://10.0.0.66:8080/hls/6f5b267b0103c3d9ab13b284.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/960px-ESPN_Deportes.svg.png" group-title="⚽ Football UK",ESPN
 http://10.0.0.66:8080/hls/65356fbf48a49ac455478c21.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png" group-title="⚽ Football UK",ESPN
 http://10.0.0.66:8080/hls/9cbae04456607fc7cff2e6e5.m3u8
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" group-title="⚽ Football UK",ESPN
+http://10.0.0.66:8080/hls/02b5b44d98bf66801be48ead.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="⚽ Football UK",ESPN
 http://10.0.0.66:8080/hls/a0d0c31a5860ad8811f3d81f.m3u8
+#EXTINF:-1 tvg-id="NBA" tvg-name="NBA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/960px-NBA_TV.svg.png" group-title="⚽ Football UK",NBA
+http://10.0.0.66:8080/hls/6c043a4686f5e610f51e99e6.m3u8
+#EXTINF:-1 tvg-id="NFL" tvg-name="NFL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/960px-NFL_Network_logo.svg.png" group-title="⚽ Football UK",NFL
+http://10.0.0.66:8080/hls/7bd894e30c71e91f8ad98d22.m3u8
+#EXTINF:-1 tvg-id="MMA" tvg-name="MMA" tvg-logo="https://i.imgur.com/VBKoLHk.png" group-title="⚽ Football UK",MMA
+http://10.0.0.66:8080/hls/760d18c436ee744172586d20.m3u8
+#EXTINF:-1 tvg-id="MMA" tvg-name="MMA" tvg-logo="https://provider-static.plex.tv/epg/cms/production/96dd0531-b500-4bd4-93ca-763cbf46defe/1500x1000_PFL_SHIELD_DARK_BG_-_Allie_Dinsmore.png" group-title="⚽ Football UK",MMA
+http://10.0.0.66:8080/hls/006d08fa757ce5b3eb0c64e7.m3u8
+#EXTINF:-1 tvg-id="MMA" tvg-name="MMA" tvg-logo="https://i.imgur.com/QhdxNsB.png" group-title="⚽ Football UK",MMA
+http://10.0.0.66:8080/hls/c776d6f59e69f01d49beba37.m3u8
+#EXTINF:-1 tvg-id="ABN China (720p)" tvg-name="ABN China (720p)" tvg-logo="https://i.imgur.com/zagVLQH.png" group-title="♻️未匹配频道",ABN China (720p)
+http://10.0.0.66:8080/hls/eda082d869d93e0ab35d9ec7.m3u8
+#EXTINF:-1 tvg-id="Ando TV (1080p)" tvg-name="Ando TV (1080p)" tvg-logo="https://i.imgur.com/EpTsFVu.png" group-title="♻️未匹配频道",Ando TV (1080p)
+http://10.0.0.66:8080/hls/66c07e2bd7395c3c91ea637a.m3u8
+#EXTINF:-1 tvg-id="Angel TV Chinese (720p)" tvg-name="Angel TV Chinese (720p)" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="♻️未匹配频道",Angel TV Chinese (720p)
+http://10.0.0.66:8080/hls/37e01138a6c0a2de1421808e.m3u8
+#EXTINF:-1 tvg-id="Anhui TV" tvg-name="Anhui TV" tvg-logo="https://i.imgur.com/gDn101f.png" group-title="♻️未匹配频道",Anhui TV
+http://10.0.0.66:8080/hls/10aa3c685bae56b8e0d53c1d.m3u8
+#EXTINF:-1 tvg-id="Anshun Comprehensive News Channel" tvg-name="Anshun Comprehensive News Channel" tvg-logo="https://www.tvchinese.net/uploads/tv/anshun.jpg" group-title="♻️未匹配频道",Anshun Comprehensive News Channel
+http://10.0.0.66:8080/hls/c7047458d3a1852dbe50f3bd.m3u8
+#EXTINF:-1 tvg-id="Bread TV面包台 (720p)" tvg-name="Bread TV面包台 (720p)" tvg-logo="https://bread-tv.com/uploads/allimg/241202/9_1836542371.png" group-title="♻️未匹配频道",Bread TV面包台 (720p)
+http://10.0.0.66:8080/hls/8199a675266274533dc4b001.m3u8
+#EXTINF:-1 tvg-id="BRTV Kaku Childrens Channel" tvg-name="BRTV Kaku Childrens Channel" tvg-logo="https://i.imgur.com/t8X4wPZ.png" group-title="♻️未匹配频道",BRTV Kaku Childrens Channel
+http://10.0.0.66:8080/hls/728dc5969be2642daa70cf43.m3u8
+#EXTINF:-1 tvg-id="BRTV 北京卫视 (1080p)" tvg-name="BRTV 北京卫视 (1080p)" tvg-logo="https://i.imgur.com/vsktAez.png" group-title="♻️未匹配频道",BRTV 北京卫视 (1080p)
+http://10.0.0.66:8080/hls/343a84c24957d8e3de9bc0d9.m3u8
+#EXTINF:-1 tvg-id="CCTV+ 1 (600p) [Not 24/7]" tvg-name="CCTV+ 1 (600p) [Not 24/7]" tvg-logo="https://i.imgur.com/U8d4Is6.png" group-title="♻️未匹配频道",CCTV+ 1 (600p) [Not 24/7]
+http://10.0.0.66:8080/hls/fff218c26f5f79101ad71389.m3u8
+#EXTINF:-1 tvg-id="CCTV+ 2 (600p) [Not 24/7]" tvg-name="CCTV+ 2 (600p) [Not 24/7]" tvg-logo="https://i.imgur.com/qSg862A.png" group-title="♻️未匹配频道",CCTV+ 2 (600p) [Not 24/7]
+http://10.0.0.66:8080/hls/f3755946036615de1eae285c.m3u8
+#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://i.imgur.com/TpA3cUl.png" group-title="♻️未匹配频道",CCTV-1
+http://10.0.0.66:8080/hls/f344d50cfba0beb82401f90e.m3u8
+#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://i.imgur.com/TpA3cUl.png" group-title="♻️未匹配频道",CCTV-1
+http://10.0.0.66:8080/hls/19ed938123975e64307e4896.m3u8
+#EXTINF:-1 tvg-id="CCTV-2" tvg-name="CCTV-2" tvg-logo="https://i.imgur.com/ILamhwU.png" group-title="♻️未匹配频道",CCTV-2
+http://10.0.0.66:8080/hls/c549d6f6b69d95b2b9e507cb.m3u8
+#EXTINF:-1 tvg-id="CCTV-3" tvg-name="CCTV-3" tvg-logo="https://i.imgur.com/iFlkIuw.png" group-title="♻️未匹配频道",CCTV-3
+http://10.0.0.66:8080/hls/9bc24c7fdbb774f5cc31de7a.m3u8
+#EXTINF:-1 tvg-id="CCTV-4K" tvg-name="CCTV-4K" tvg-logo="https://i.imgur.com/fxusYlX.png" group-title="♻️未匹配频道",CCTV-4K
+http://10.0.0.66:8080/hls/4f46d3dbf6cc07e948b7b506.m3u8
+#EXTINF:-1 tvg-id="CCTV-6" tvg-name="CCTV-6" tvg-logo="https://i.imgur.com/rFiaef7.png" group-title="♻️未匹配频道",CCTV-6
+http://10.0.0.66:8080/hls/c02786c097e971e029aa302c.m3u8
+#EXTINF:-1 tvg-id="CCTV-6" tvg-name="CCTV-6" tvg-logo="https://i.imgur.com/rFiaef7.png" group-title="♻️未匹配频道",CCTV-6
+http://10.0.0.66:8080/hls/832d026f91e8069ea08537d1.m3u8
+#EXTINF:-1 tvg-id="CCTV-7" tvg-name="CCTV-7" tvg-logo="https://i.imgur.com/CKcPMQC.png" group-title="♻️未匹配频道",CCTV-7
+http://10.0.0.66:8080/hls/2617c32ac427a594c519d482.m3u8
+#EXTINF:-1 tvg-id="CCTV-8" tvg-name="CCTV-8" tvg-logo="https://i.imgur.com/GyHaZ8X.png" group-title="♻️未匹配频道",CCTV-8
+http://10.0.0.66:8080/hls/4dedc49d2c80e8739a8e77ea.m3u8
+#EXTINF:-1 tvg-id="CCTV-8K" tvg-name="CCTV-8K" tvg-logo="https://i.imgur.com/fxVPMJF.png" group-title="♻️未匹配频道",CCTV-8K
+http://10.0.0.66:8080/hls/65bd380a9cfd134c4ac84824.m3u8
+#EXTINF:-1 tvg-id="CCTV-9" tvg-name="CCTV-9" tvg-logo="https://i.imgur.com/3tivvMm.png" group-title="♻️未匹配频道",CCTV-9
+http://10.0.0.66:8080/hls/77fd79c451f8b418cade5df7.m3u8
+#EXTINF:-1 tvg-id="CCTV-10" tvg-name="CCTV-10" tvg-logo="https://i.imgur.com/sSSO7UD.png" group-title="♻️未匹配频道",CCTV-10
+http://10.0.0.66:8080/hls/c790c71dcd04c9ff943244ec.m3u8
+#EXTINF:-1 tvg-id="CCTV-11" tvg-name="CCTV-11" tvg-logo="https://i.imgur.com/CjOWx7L.png" group-title="♻️未匹配频道",CCTV-11
+http://10.0.0.66:8080/hls/2ea600914d00c82ca352204c.m3u8
+#EXTINF:-1 tvg-id="CCTV-12" tvg-name="CCTV-12" tvg-logo="https://i.imgur.com/3yTuiOM.png" group-title="♻️未匹配频道",CCTV-12
+http://10.0.0.66:8080/hls/97ff908c12b943f5daacddcc.m3u8
+#EXTINF:-1 tvg-id="CCTV-13" tvg-name="CCTV-13" tvg-logo="https://i.imgur.com/6MTar6J.png" group-title="♻️未匹配频道",CCTV-13
+http://10.0.0.66:8080/hls/67f45ae93ecf212e06fb5578.m3u8
+#EXTINF:-1 tvg-id="CCTV-13" tvg-name="CCTV-13" tvg-logo="https://i.imgur.com/6MTar6J.png" group-title="♻️未匹配频道",CCTV-13
+http://10.0.0.66:8080/hls/8d128501cc74cf0a6e139d75.m3u8
+#EXTINF:-1 tvg-id="CCTV-14" tvg-name="CCTV-14" tvg-logo="https://i.imgur.com/c5SXW7i.png" group-title="♻️未匹配频道",CCTV-14
+http://10.0.0.66:8080/hls/56309b54f5af708eefb76b59.m3u8
+#EXTINF:-1 tvg-id="CCTV-15" tvg-name="CCTV-15" tvg-logo="https://i.imgur.com/CCV0eRG.png" group-title="♻️未匹配频道",CCTV-15
+http://10.0.0.66:8080/hls/505c98d35a3a5b59c1d8d025.m3u8
+#EXTINF:-1 tvg-id="CCTV-16" tvg-name="CCTV-16" tvg-logo="https://i.imgur.com/ZzV6JQp.png" group-title="♻️未匹配频道",CCTV-16
+http://10.0.0.66:8080/hls/8f9ee76ef3efc00fbf38224e.m3u8
+#EXTINF:-1 tvg-id="CCTV-17" tvg-name="CCTV-17" tvg-logo="https://i.imgur.com/jSQURxS.png" group-title="♻️未匹配频道",CCTV-17
+http://10.0.0.66:8080/hls/c23ebace2841f3f1ef589d5e.m3u8
+#EXTINF:-1 tvg-id="CCTV-Billiards (1080p)" tvg-name="CCTV-Billiards (1080p)" tvg-logo="https://i.imgur.com/WK3keM9.png" group-title="♻️未匹配频道",CCTV-Billiards (1080p)
+http://10.0.0.66:8080/hls/79ecdaff3a49a6bb61c93b40.m3u8
+#EXTINF:-1 tvg-id="CCTV-Culture of Quality (1080p)" tvg-name="CCTV-Culture of Quality (1080p)" tvg-logo="https://i.imgur.com/Paig8gG.png" group-title="♻️未匹配频道",CCTV-Culture of Quality (1080p)
+http://10.0.0.66:8080/hls/c38da3bb64ad98dac3a8f8f8.m3u8
+#EXTINF:-1 tvg-id="CCTV-Golf & Tennis (1080p)" tvg-name="CCTV-Golf & Tennis (1080p)" tvg-logo="https://i.imgur.com/iqJJTmH.png" group-title="♻️未匹配频道",CCTV-Golf & Tennis (1080p)
+http://10.0.0.66:8080/hls/93532bb33e95426ced69a011.m3u8
+#EXTINF:-1 tvg-id="CCTV-Health (1080p)" tvg-name="CCTV-Health (1080p)" tvg-logo="https://i.imgur.com/AzpRtCz.png" group-title="♻️未匹配频道",CCTV-Health (1080p)
+http://10.0.0.66:8080/hls/b5836412a09305e9b607ec9b.m3u8
+#EXTINF:-1 tvg-id="CCTV-Nostalgia Theater (1080p)" tvg-name="CCTV-Nostalgia Theater (1080p)" tvg-logo="https://i.imgur.com/TVs9PBc.png" group-title="♻️未匹配频道",CCTV-Nostalgia Theater (1080p)
+http://10.0.0.66:8080/hls/d8d37724de536b45b64eefe7.m3u8
+#EXTINF:-1 tvg-id="CCTV-Storm Football (1080p)" tvg-name="CCTV-Storm Football (1080p)" tvg-logo="https://i.imgur.com/Fy6HkX0.png" group-title="♻️未匹配频道",CCTV-Storm Football (1080p)
+http://10.0.0.66:8080/hls/23b4b954b3688aa7b70ddecc.m3u8
+#EXTINF:-1 tvg-id="CCTV-Storm Music (1080p)" tvg-name="CCTV-Storm Music (1080p)" tvg-logo="https://i.imgur.com/IiiRmrf.png" group-title="♻️未匹配频道",CCTV-Storm Music (1080p)
+http://10.0.0.66:8080/hls/4d848c1a7309403301fb8670.m3u8
+#EXTINF:-1 tvg-id="CCTV-Storm Theater (1080p)" tvg-name="CCTV-Storm Theater (1080p)" tvg-logo="https://i.imgur.com/rEttkKm.png" group-title="♻️未匹配频道",CCTV-Storm Theater (1080p)
+http://10.0.0.66:8080/hls/91a210bf2f918115cfb20efe.m3u8
+#EXTINF:-1 tvg-id="CCTV-The First Theater (1080p)" tvg-name="CCTV-The First Theater (1080p)" tvg-logo="https://i.imgur.com/eFxD3hq.png" group-title="♻️未匹配频道",CCTV-The First Theater (1080p)
+http://10.0.0.66:8080/hls/ee672400eea8667d1f35ae0c.m3u8
+#EXTINF:-1 tvg-id="CCTV-Weapon & Technology (1080p)" tvg-name="CCTV-Weapon & Technology (1080p)" tvg-logo="https://i.imgur.com/QlF96eS.png" group-title="♻️未匹配频道",CCTV-Weapon & Technology (1080p)
+http://10.0.0.66:8080/hls/15a7eafe894a990949f4ad87.m3u8
+#EXTINF:-1 tvg-id="CCTV-Women's Fashion (1080p)" tvg-name="CCTV-Women's Fashion (1080p)" tvg-logo="https://i.imgur.com/FVbP0aP.png" group-title="♻️未匹配频道",CCTV-Women's Fashion (1080p)
+http://10.0.0.66:8080/hls/0dd39a4a10c472bd5597ab9e.m3u8
+#EXTINF:-1 tvg-id="CCTV-World Geography (1080p)" tvg-name="CCTV-World Geography (1080p)" tvg-logo="https://i.imgur.com/V2ncOXi.png" group-title="♻️未匹配频道",CCTV-World Geography (1080p)
+http://10.0.0.66:8080/hls/2ced0aa4c9b370068c3c3df6.m3u8
+#EXTINF:-1 tvg-id="CETV-1" tvg-name="CETV-1" tvg-logo="https://i.imgur.com/6sOHLq8.png" group-title="♻️未匹配频道",CETV-1
+http://10.0.0.66:8080/hls/1f2e2da68cd73a8cb19b5934.m3u8
+#EXTINF:-1 tvg-id="CETV-2" tvg-name="CETV-2" tvg-logo="https://i.imgur.com/ZD8XPmw.png" group-title="♻️未匹配频道",CETV-2
+http://10.0.0.66:8080/hls/78aca8d5c0c71f4666803999.m3u8
+#EXTINF:-1 tvg-id="Chifeng Comprehensive News Chanel" tvg-name="Chifeng Comprehensive News Chanel" tvg-logo="https://www.tvchinese.net/uploads/tv/cfxwzhpd.jpg" group-title="♻️未匹配频道",Chifeng Comprehensive News Chanel
+http://10.0.0.66:8080/hls/df7436413d1d3810ba7b97ec.m3u8
+#EXTINF:-1 tvg-id="CND Film Middle School Channel" tvg-name="CND Film Middle School Channel" tvg-logo="https://i.imgur.com/4uG8HsQ.png" group-title="♻️未匹配频道",CND Film Middle School Channel
+http://10.0.0.66:8080/hls/a470ed488c48607031f70987.m3u8
+#EXTINF:-1 tvg-id="Dragon TV International (480p) [Geo-blocked]" tvg-name="Dragon TV International (480p) [Geo-blocked]" tvg-logo="https://i.imgur.com/WqM6xnF.png" group-title="♻️未匹配频道",Dragon TV International (480p) [Geo-blocked]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referer=https://www.dens.tv/
+http://10.0.0.66:8080/hls/b52f6443d22a949bac7a21d3.m3u8
+#EXTINF:-1 tvg-id="Guangzhou TV" tvg-name="Guangzhou TV" tvg-logo="https://i.imgur.com/ff3KQXp.png" group-title="♻️未匹配频道",Guangzhou TV
+http://10.0.0.66:8080/hls/1624d44a6238cbd4c1d54659.m3u8
+#EXTINF:-1 tvg-id="Harbin Comprehensive News Channel" tvg-name="Harbin Comprehensive News Channel" tvg-logo="https://www.tvchinese.net/uploads/tv/haerbin.jpg" group-title="♻️未匹配频道",Harbin Comprehensive News Channel
+http://10.0.0.66:8080/hls/5caf2b75beb857f28e7d068e.m3u8
+#EXTINF:-1 tvg-id="Harbin Movie Channel" tvg-name="Harbin Movie Channel" tvg-logo="https://www.tvchinese.net/uploads/tv/haerbin.jpg" group-title="♻️未匹配频道",Harbin Movie Channel
+http://10.0.0.66:8080/hls/8654fd6043e29b785c13b65d.m3u8
+#EXTINF:-1 tvg-id="Hebei TV (2160p)" tvg-name="Hebei TV (2160p)" tvg-logo="https://i.imgur.com/Z5Ppzbi.png" group-title="♻️未匹配频道",Hebei TV (2160p)
+http://10.0.0.66:8080/hls/4387484d9171130fca819a3d.m3u8
+#EXTINF:-1 tvg-id="Home Plus" tvg-name="Home Plus" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Home Plus.png" group-title="♻️未匹配频道",Home Plus
+http://10.0.0.66:8080/hls/4c807300797a4e56d0632db4.m3u8
+#EXTINF:-1 tvg-id="Hunan TV (2160p)" tvg-name="Hunan TV (2160p)" tvg-logo="https://parco-zh.github.io/demo/HNWS.png" group-title="♻️未匹配频道",Hunan TV (2160p)
+http://10.0.0.66:8080/hls/6833f77050c3cf784c1c165c.m3u8
+#EXTINF:-1 tvg-id="Jiangxi Children's Channel" tvg-name="Jiangxi Children's Channel" tvg-logo="https://www.tvchinese.net/uploads/tv/jxtv6.jpg" group-title="♻️未匹配频道",Jiangxi Children's Channel
+http://10.0.0.66:8080/hls/b34c5c54f9118a0b9c3f5662.m3u8
+#EXTINF:-1 tvg-id="Jiangxi City Channel" tvg-name="Jiangxi City Channel" tvg-logo="https://www.tvchinese.net/uploads/tv/jxds.jpg" group-title="♻️未匹配频道",Jiangxi City Channel
+http://10.0.0.66:8080/hls/432d61182504362c400b9c4c.m3u8
+#EXTINF:-1 tvg-id="Jiangxi Economy & Life Channel" tvg-name="Jiangxi Economy & Life Channel" tvg-logo="https://www.tvchinese.net/uploads/tv/jxtv3.jpg" group-title="♻️未匹配频道",Jiangxi Economy & Life Channel
+http://10.0.0.66:8080/hls/375721d095856ecb9808e6b0.m3u8
+#EXTINF:-1 tvg-id="Jiangxi Movie Channel" tvg-name="Jiangxi Movie Channel" tvg-logo="https://www.tvchinese.net/uploads/tv/jiangxi.jpg" group-title="♻️未匹配频道",Jiangxi Movie Channel
+http://10.0.0.66:8080/hls/a13a3403cc8b5344b23ac2da.m3u8
+#EXTINF:-1 tvg-id="Jiangxi Public & Agriculture Channel" tvg-name="Jiangxi Public & Agriculture Channel" tvg-logo="https://www.tvchinese.net/uploads/tv/jxgg.jpg" group-title="♻️未匹配频道",Jiangxi Public & Agriculture Channel
+http://10.0.0.66:8080/hls/13ff3deed683ddcd50678d8d.m3u8
+#EXTINF:-1 tvg-id="Jilin City Channel" tvg-name="Jilin City Channel" tvg-logo="https://www.tvchinese.net/uploads/tv/jldspd.jpg" group-title="♻️未匹配频道",Jilin City Channel
+http://10.0.0.66:8080/hls/6e8d3ff47f17c1351d687b90.m3u8
+#EXTINF:-1 tvg-id="Jilin Lifestyle Channel" tvg-name="Jilin Lifestyle Channel" tvg-logo="https://www.tvchinese.net/uploads/tv/jlshpd.jpg" group-title="♻️未匹配频道",Jilin Lifestyle Channel
+http://10.0.0.66:8080/hls/22ed32fe11c5be16857133f2.m3u8
+#EXTINF:-1 tvg-id="Jilin Movie Channel" tvg-name="Jilin Movie Channel" tvg-logo="https://www.tvchinese.net/uploads/tv/jlyspd.jpg" group-title="♻️未匹配频道",Jilin Movie Channel
+http://10.0.0.66:8080/hls/7d634d2076352ea5d0838e4d.m3u8
+#EXTINF:-1 tvg-id="Jilin Rural Channel" tvg-name="Jilin Rural Channel" tvg-logo="https://www.tvchinese.net/uploads/tv/jlxcpd.jpg" group-title="♻️未匹配频道",Jilin Rural Channel
+http://10.0.0.66:8080/hls/b151edde7b6658c333453036.m3u8
+#EXTINF:-1 tvg-id="Lanzhou Comprehensive News Channel" tvg-name="Lanzhou Comprehensive News Channel" tvg-logo="https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-avt-0015_c2a13a952c0111b21f081d672798c8ed~c5_300x300.jpeg?from=2956013662" group-title="♻️未匹配频道",Lanzhou Comprehensive News Channel
+http://10.0.0.66:8080/hls/4d0d6bc0fac50c0661f35f7c.m3u8
+#EXTINF:-1 tvg-id="Lanzhou Culture & Tourism Channel" tvg-name="Lanzhou Culture & Tourism Channel" tvg-logo="https://www.tvchinese.net/uploads/tv/lanzhou.jpg" group-title="♻️未匹配频道",Lanzhou Culture & Tourism Channel
+http://10.0.0.66:8080/hls/4a653efa571ebf50ea401a4a.m3u8
+#EXTINF:-1 tvg-id="Liangshan TV [Not 24/7]" tvg-name="Liangshan TV [Not 24/7]" tvg-logo="https://www.tvchinese.net/uploads/tv/liangshantv.jpg" group-title="♻️未匹配频道",Liangshan TV [Not 24/7]
+http://10.0.0.66:8080/hls/8559a6995b752d3cf9f077e5.m3u8
+#EXTINF:-1 tvg-id="Nanchang News & Generalist Channel" tvg-name="Nanchang News & Generalist Channel" tvg-logo="https://www.tvchinese.net/uploads/tv/nctv1.jpg" group-title="♻️未匹配频道",Nanchang News & Generalist Channel
+http://10.0.0.66:8080/hls/eeec0c623a3b13379f70dee3.m3u8
+#EXTINF:-1 tvg-id="Nei Monggol TV (1080i) [Not 24/7]" tvg-name="Nei Monggol TV (1080i) [Not 24/7]" tvg-logo="https://i.imgur.com/WeugJBE.png" group-title="♻️未匹配频道",Nei Monggol TV (1080i) [Not 24/7]
+http://10.0.0.66:8080/hls/26688577905a27d4633de1fc.m3u8
+#EXTINF:-1 tvg-id="Nei Monggol TV 2 Mongolian Culture Channel (1080i) [Not 24/7]" tvg-name="Nei Monggol TV 2 Mongolian Culture Channel (1080i) [Not 24/7]" tvg-logo="https://i.imgur.com/kpsjahG.png" group-title="♻️未匹配频道",Nei Monggol TV 2 Mongolian Culture Channel (1080i) [Not 24/7]
+http://10.0.0.66:8080/hls/fca98b3dffcdfeaaa6a49049.m3u8
+#EXTINF:-1 tvg-id="QTV-1" tvg-name="QTV-1" tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv1.jpg" group-title="♻️未匹配频道",QTV-1
+http://10.0.0.66:8080/hls/a95cec414077f35be2388460.m3u8
+#EXTINF:-1 tvg-id="QTV-2" tvg-name="QTV-2" tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv2.jpg" group-title="♻️未匹配频道",QTV-2
+http://10.0.0.66:8080/hls/116444601f4a9683d5d012ec.m3u8
+#EXTINF:-1 tvg-id="QTV-3" tvg-name="QTV-3" tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv3.jpg" group-title="♻️未匹配频道",QTV-3
+http://10.0.0.66:8080/hls/3b6a4de2e27151819d08c0fa.m3u8
+#EXTINF:-1 tvg-id="QTV-4" tvg-name="QTV-4" tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv4.jpg" group-title="♻️未匹配频道",QTV-4
+http://10.0.0.66:8080/hls/fcc603369796792bbd7e5bd2.m3u8
+#EXTINF:-1 tvg-id="QTV-5" tvg-name="QTV-5" tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv5.jpg" group-title="♻️未匹配频道",QTV-5
+http://10.0.0.66:8080/hls/54755bc42373143a1cc86bcb.m3u8
+#EXTINF:-1 tvg-id="QTV-6" tvg-name="QTV-6" tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv6.jpg" group-title="♻️未匹配频道",QTV-6
+http://10.0.0.66:8080/hls/a39ef24bbf330cd9cb168cdb.m3u8
+#EXTINF:-1 tvg-id="Shenzhen Satellite TV (2160p)" tvg-name="Shenzhen Satellite TV (2160p)" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Shenzhen Satellite TV (2160p).png" group-title="♻️未匹配频道",Shenzhen Satellite TV (2160p)
+http://10.0.0.66:8080/hls/d4253f0e131a74c8841d2575.m3u8
+#EXTINF:-1 tvg-id="Siping TV" tvg-name="Siping TV" tvg-logo="https://www.tvchinese.net/uploads/tv/sptv1.jpg" group-title="♻️未匹配频道",Siping TV
+http://10.0.0.66:8080/hls/b7257cbedf69c869fc130bfe.m3u8
+#EXTINF:-1 tvg-id="Tonghua TV (1080p)" tvg-name="Tonghua TV (1080p)" tvg-logo="https://www.tvchinese.net/uploads/tv/thtv1.jpg" group-title="♻️未匹配频道",Tonghua TV (1080p)
+http://10.0.0.66:8080/hls/0abd548c934386a9783b422c.m3u8
+#EXTINF:-1 tvg-id="TV BRICS Chinese (1080p)" tvg-name="TV BRICS Chinese (1080p)" tvg-logo="https://i.imgur.com/896132Z.png" group-title="♻️未匹配频道",TV BRICS Chinese (1080p)
+http://10.0.0.66:8080/hls/ce88d0a6d60a59eb6d3ce73c.m3u8
+#EXTINF:-1 tvg-id="VOA美国之音 (1080p)" tvg-name="VOA美国之音 (1080p)" tvg-logo="https://i.imgur.com/XCTZkoq.png" group-title="♻️未匹配频道",VOA美国之音 (1080p)
+http://10.0.0.66:8080/hls/6a0c7adaf9436d871b4a7f85.m3u8
+#EXTINF:-1 tvg-id="Xinjiang TV 1" tvg-name="Xinjiang TV 1" tvg-logo="https://i.imgur.com/VLaQYn4.png" group-title="♻️未匹配频道",Xinjiang TV 1
+http://10.0.0.66:8080/hls/eda888691f7ebcd80d6390ae.m3u8
+#EXTINF:-1 tvg-id="Xinjiang TV 2" tvg-name="Xinjiang TV 2" tvg-logo="https://i.imgur.com/GXFLqxx.png" group-title="♻️未匹配频道",Xinjiang TV 2
+http://10.0.0.66:8080/hls/e37f143e7b25940c44cfe956.m3u8
+#EXTINF:-1 tvg-id="Xinjiang TV 3" tvg-name="Xinjiang TV 3" tvg-logo="https://i.imgur.com/l8S5qQB.png" group-title="♻️未匹配频道",Xinjiang TV 3
+http://10.0.0.66:8080/hls/1bf24b9bba6d400e38786d0a.m3u8
+#EXTINF:-1 tvg-id="Xinjiang TV 8" tvg-name="Xinjiang TV 8" tvg-logo="https://i.imgur.com/JJw1Ndc.png" group-title="♻️未匹配频道",Xinjiang TV 8
+http://10.0.0.66:8080/hls/2baa9e4d38ca06bf3cf350aa.m3u8
+#EXTINF:-1 tvg-id="Xizang TV Tibetan (720p) [Not 24/7]" tvg-name="Xizang TV Tibetan (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/NtvfnVV.png" group-title="♻️未匹配频道",Xizang TV Tibetan (720p) [Not 24/7]
+http://10.0.0.66:8080/hls/3fd5c003b0e682c08964df6e.m3u8
+#EXTINF:-1 tvg-id="Zhejiang TV International" tvg-name="Zhejiang TV International" tvg-logo="https://i.imgur.com/XOL1Hph.png" group-title="♻️未匹配频道",Zhejiang TV International
+http://10.0.0.66:8080/hls/f33a7cfcd5f7c8c766252ef7.m3u8
+#EXTINF:-1 tvg-id="东方卫视 (2160p)" tvg-name="东方卫视 (2160p)" tvg-logo="https://i.imgur.com/WqM6xnF.png" group-title="♻️未匹配频道",东方卫视 (2160p)
+http://10.0.0.66:8080/hls/f63b32848c4d28e8c5c2698b.m3u8
+#EXTINF:-1 tvg-id="中国气象 (576p) [Not 24/7]" tvg-name="中国气象 (576p) [Not 24/7]" tvg-logo="https://i.imgur.com/syNwDpg.png" group-title="♻️未匹配频道",中国气象 (576p) [Not 24/7]
+http://10.0.0.66:8080/hls/3afb2baef446d6ead1966f96.m3u8
+#EXTINF:-1 tvg-id="云南卫视 (1080p)" tvg-name="云南卫视 (1080p)" tvg-logo="https://www.tvchinese.net/uploads/tv/yunnantv.jpg" group-title="♻️未匹配频道",云南卫视 (1080p)
+http://10.0.0.66:8080/hls/f7c830712b43f849aafe2dcc.m3u8
+#EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://i.imgur.com/GZInf2W.png" group-title="♻️未匹配频道",优漫卡通
+http://10.0.0.66:8080/hls/5b30001c6e69cdeb502c9b27.m3u8
+#EXTINF:-1 tvg-id="兵团卫视 (540p) [Not 24/7]" tvg-name="兵团卫视 (540p) [Not 24/7]" tvg-logo="https://i.imgur.com/Y4qxDqz.png" group-title="♻️未匹配频道",兵团卫视 (540p) [Not 24/7]
+http://10.0.0.66:8080/hls/6fb1a8b4d5d5d83e9aa3011a.m3u8
+#EXTINF:-1 tvg-id="动作电影" tvg-name="动作电影" tvg-logo="https://i.imgur.com/AuiVcyh.png" group-title="♻️未匹配频道",动作电影
+http://10.0.0.66:8080/hls/b82c1840c052e59866202366.m3u8
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://i.imgur.com/vsktAez.png" group-title="♻️未匹配频道",北京卫视
+http://10.0.0.66:8080/hls/372b97dd9f58ac8c354d066a.m3u8
+#EXTINF:-1 tvg-id="发现之旅" tvg-name="发现之旅" tvg-logo="https://i.imgur.com/2FJfPDx.png" group-title="♻️未匹配频道",发现之旅
+http://10.0.0.66:8080/hls/5a6d95efbbb468101b5e7152.m3u8
+#EXTINF:-1 tvg-id="吉林卫视 (2160p)" tvg-name="吉林卫视 (2160p)" tvg-logo="https://www.tvchinese.net/uploads/tv/jilintv.jpg" group-title="♻️未匹配频道",吉林卫视 (2160p)
+http://10.0.0.66:8080/hls/f6bb2c9a18cc7d2e9fee7103.m3u8
+#EXTINF:-1 tvg-id="和政电视台" tvg-name="和政电视台" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/28/%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86.png" group-title="♻️未匹配频道",和政电视台
+http://10.0.0.66:8080/hls/e280a96d8d9eb7f51aa27dc5.m3u8
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://i.imgur.com/r5xivih.png" group-title="♻️未匹配频道",四川卫视
+http://10.0.0.66:8080/hls/df638612d88959499a42ed48.m3u8
+#EXTINF:-1 tvg-id="四川妇女儿童 (720p) [Not 24/7]" tvg-name="四川妇女儿童 (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/1lGO0vY.png" group-title="♻️未匹配频道",四川妇女儿童 (720p) [Not 24/7]
+http://10.0.0.66:8080/hls/d803b3d2b8ca0a58c23a39ce.m3u8
+#EXTINF:-1 tvg-id="天津卫视 (1080p)" tvg-name="天津卫视 (1080p)" tvg-logo="https://i.imgur.com/Bg24eaH.png" group-title="♻️未匹配频道",天津卫视 (1080p)
+http://10.0.0.66:8080/hls/df82e6fc0f27210a104987b8.m3u8
+#EXTINF:-1 tvg-id="宁夏卫视 (576p)" tvg-name="宁夏卫视 (576p)" tvg-logo="https://i.imgur.com/nUQE4Ib.png" group-title="♻️未匹配频道",宁夏卫视 (576p)
+http://10.0.0.66:8080/hls/bd67d6e2c98d31fc7fec2259.m3u8
+#EXTINF:-1 tvg-id="家庭影院 (1080p)" tvg-name="家庭影院 (1080p)" tvg-logo="https://i.imgur.com/AwBldBE.png" group-title="♻️未匹配频道",家庭影院 (1080p)
+http://10.0.0.66:8080/hls/bfa512c0608217b3ba206578.m3u8
+#EXTINF:-1 tvg-id="山东体育 (1080p) [Geo-blocked]" tvg-name="山东体育 (1080p) [Geo-blocked]" tvg-logo="https://i.imgur.com/zX4RxvG.png" group-title="♻️未匹配频道",山东体育 (1080p) [Geo-blocked]
+http://10.0.0.66:8080/hls/6f7d49a52cd7863095c3c653.m3u8
+#EXTINF:-1 tvg-id="山东农科 (406p) [Geo-blocked]" tvg-name="山东农科 (406p) [Geo-blocked]" tvg-logo="https://i.imgur.com/EY2zH06.png" group-title="♻️未匹配频道",山东农科 (406p) [Geo-blocked]
+http://10.0.0.66:8080/hls/9a3f99a8d0dda10bfc92f6ea.m3u8
+#EXTINF:-1 tvg-id="山东卫视 (720p)" tvg-name="山东卫视 (720p)" tvg-logo="https://www.tvchinese.net/uploads/tv/shandongtv.jpg" group-title="♻️未匹配频道",山东卫视 (720p)
+http://10.0.0.66:8080/hls/df0b9ce872da53a6399ae53e.m3u8
+#EXTINF:-1 tvg-id="山东卫视 (1080p)" tvg-name="山东卫视 (1080p)" tvg-logo="https://i.imgur.com/t3ICc4i.png" group-title="♻️未匹配频道",山东卫视 (1080p)
+http://10.0.0.66:8080/hls/6729b04a880854a25192145a.m3u8
+#EXTINF:-1 tvg-id="山东少儿 (406p) [Geo-blocked]" tvg-name="山东少儿 (406p) [Geo-blocked]" tvg-logo="https://i.imgur.com/ph7YKNa.png" group-title="♻️未匹配频道",山东少儿 (406p) [Geo-blocked]
+http://10.0.0.66:8080/hls/e74377c3f6e05f76fe82a710.m3u8
+#EXTINF:-1 tvg-id="山东生活 (1080p) [Geo-blocked]" tvg-name="山东生活 (1080p) [Geo-blocked]" tvg-logo="https://i.imgur.com/bWPiC14.png" group-title="♻️未匹配频道",山东生活 (1080p) [Geo-blocked]
+http://10.0.0.66:8080/hls/1de30f24c6b0460dce08dbad.m3u8
+#EXTINF:-1 tvg-id="山东综艺 (406p) [Geo-blocked]" tvg-name="山东综艺 (406p) [Geo-blocked]" tvg-logo="https://i.imgur.com/a2XK8N9.png" group-title="♻️未匹配频道",山东综艺 (406p) [Geo-blocked]
+http://10.0.0.66:8080/hls/d74ffd83ae2b0e8936d9abf0.m3u8
+#EXTINF:-1 tvg-id="山东齐鲁 (1080p) [Geo-blocked]" tvg-name="山东齐鲁 (1080p) [Geo-blocked]" tvg-logo="https://i.imgur.com/U9wNMmm.png" group-title="♻️未匹配频道",山东齐鲁 (1080p) [Geo-blocked]
+http://10.0.0.66:8080/hls/8d1c96c719607c09933e4cba.m3u8
+#EXTINF:-1 tvg-id="山西卫视 (2160p)" tvg-name="山西卫视 (2160p)" tvg-logo="https://i.imgur.com/UfKJBWW.png" group-title="♻️未匹配频道",山西卫视 (2160p)
+http://10.0.0.66:8080/hls/fa6459ea77566a2322a82412.m3u8
+#EXTINF:-1 tvg-id="广东卫视 (2160p)" tvg-name="广东卫视 (2160p)" tvg-logo="https://parco-zh.github.io/demo/guangdong.jpg" group-title="♻️未匹配频道",广东卫视 (2160p)
+http://10.0.0.66:8080/hls/c03f3c571735a9470830bf1c.m3u8
+#EXTINF:-1 tvg-id="广西卫视 (576p)" tvg-name="广西卫视 (576p)" tvg-logo="https://i.imgur.com/dpre5Qs.png" group-title="♻️未匹配频道",广西卫视 (576p)
+http://10.0.0.66:8080/hls/4c246efff579cb53f98dcce5.m3u8
+#EXTINF:-1 tvg-id="康巴卫视 (720p) [Not 24/7]" tvg-name="康巴卫视 (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/UKKsnhD.png" group-title="♻️未匹配频道",康巴卫视 (720p) [Not 24/7]
+http://10.0.0.66:8080/hls/b44d5024f9ad430081a3352e.m3u8
+#EXTINF:-1 tvg-id="徐州經濟生活 (1080p)" tvg-name="徐州經濟生活 (1080p)" tvg-logo="https://www.xn--rgv465a.top/tvlogo/徐州經濟生活 (1080p).png" group-title="♻️未匹配频道",徐州經濟生活 (1080p)
+http://10.0.0.66:8080/hls/329151447726ff1946984711.m3u8
+#EXTINF:-1 tvg-id="敦煌电视台 (1080p)" tvg-name="敦煌电视台 (1080p)" tvg-logo="https://i.imgur.com/RpGKOQd.jpg" group-title="♻️未匹配频道",敦煌电视台 (1080p)
+http://10.0.0.66:8080/hls/04c1dcd439468441131ae90f.m3u8
+#EXTINF:-1 tvg-id="江苏体育 (576p)" tvg-name="江苏体育 (576p)" tvg-logo="https://www.tvchinese.net/uploads/tv/jsty.jpg" group-title="♻️未匹配频道",江苏体育 (576p)
+http://10.0.0.66:8080/hls/8cc018eb39092d61ff43158e.m3u8
+#EXTINF:-1 tvg-id="江苏公共 (576p)" tvg-name="江苏公共 (576p)" tvg-logo="https://www.tvchinese.net/uploads/tv/jsgg.jpg" group-title="♻️未匹配频道",江苏公共 (576p)
+http://10.0.0.66:8080/hls/2f567bda9fd917361e84f58a.m3u8
+#EXTINF:-1 tvg-id="江苏卫视 (1080p)" tvg-name="江苏卫视 (1080p)" tvg-logo="https://www.xn--rgv465a.top/tvlogo/江苏卫视 (1080p).png" group-title="♻️未匹配频道",江苏卫视 (1080p)
+http://10.0.0.66:8080/hls/f64d2a072d65121bb8f9434a.m3u8
+#EXTINF:-1 tvg-id="江苏城市 (576p)" tvg-name="江苏城市 (576p)" tvg-logo="https://www.tvchinese.net/uploads/tv/jscs.jpg" group-title="♻️未匹配频道",江苏城市 (576p)
+http://10.0.0.66:8080/hls/3240573073174bf6b1630a14.m3u8
+#EXTINF:-1 tvg-id="江苏影视 (576p)" tvg-name="江苏影视 (576p)" tvg-logo="https://www.tvchinese.net/uploads/tv/jsys.jpg" group-title="♻️未匹配频道",江苏影视 (576p)
+http://10.0.0.66:8080/hls/e1cfe4ee02383dd99a0c330f.m3u8
+#EXTINF:-1 tvg-id="江苏教育 (576p)" tvg-name="江苏教育 (576p)" tvg-logo="https://www.tvchinese.net/uploads/tv/jsjy.jpg" group-title="♻️未匹配频道",江苏教育 (576p)
+http://10.0.0.66:8080/hls/6eaf94ec481249fa7c6659b9.m3u8
+#EXTINF:-1 tvg-id="江苏综艺 (576p) [Not 24/7]" tvg-name="江苏综艺 (576p) [Not 24/7]" tvg-logo="https://www.tvchinese.net/uploads/tv/jszy.jpg" group-title="♻️未匹配频道",江苏综艺 (576p) [Not 24/7]
+http://10.0.0.66:8080/hls/b1ddbe3920b594c486a6ce7a.m3u8
+#EXTINF:-1 tvg-id="江西卫视 (1080p)" tvg-name="江西卫视 (1080p)" tvg-logo="https://i.imgur.com/RrLthH3.png" group-title="♻️未匹配频道",江西卫视 (1080p)
+http://10.0.0.66:8080/hls/dec5737d3cf2bb8d3699e359.m3u8
+#EXTINF:-1 tvg-id="河南卫视 (2160p)" tvg-name="河南卫视 (2160p)" tvg-logo="https://i.imgur.com/IBW26kV.png" group-title="♻️未匹配频道",河南卫视 (2160p)
+http://10.0.0.66:8080/hls/cbd2fc350b136682e637c4a7.m3u8
+#EXTINF:-1 tvg-id="浙江卫视 (1080p)" tvg-name="浙江卫视 (1080p)" tvg-logo="https://i.imgur.com/NFFQNhq.png" group-title="♻️未匹配频道",浙江卫视 (1080p)
+http://10.0.0.66:8080/hls/49826b25cca0d6ca7026e96d.m3u8
+#EXTINF:-1 tvg-id="海南卫视 (576p)" tvg-name="海南卫视 (576p)" tvg-logo="https://i.imgur.com/j6kY8nh.png" group-title="♻️未匹配频道",海南卫视 (576p)
+http://10.0.0.66:8080/hls/bd3a01968a7401e92a10c6c9.m3u8
+#EXTINF:-1 tvg-id="湖北卫视 (1080p)" tvg-name="湖北卫视 (1080p)" tvg-logo="https://i.imgur.com/CTRa9BJ.png" group-title="♻️未匹配频道",湖北卫视 (1080p)
+http://10.0.0.66:8080/hls/8f3a4aa71dfd1f9edc807c68.m3u8
+#EXTINF:-1 tvg-id="滁州市广播电视台 公共频道 (400p)" tvg-name="滁州市广播电视台 公共频道 (400p)" tvg-logo="https://i.imgur.com/9JfZJRv.png" group-title="♻️未匹配频道",滁州市广播电视台 公共频道 (400p)
+http://10.0.0.66:8080/hls/9e02f1abc44abfe16d81caa1.m3u8
+#EXTINF:-1 tvg-id="滁州市广播电视台 新闻综合频道 (1080p)" tvg-name="滁州市广播电视台 新闻综合频道 (1080p)" tvg-logo="https://i.imgur.com/9JfZJRv.png" group-title="♻️未匹配频道",滁州市广播电视台 新闻综合频道 (1080p)
+http://10.0.0.66:8080/hls/ac8f7bd388e4a8a736616292.m3u8
+#EXTINF:-1 tvg-id="滁州科教 (450p)" tvg-name="滁州科教 (450p)" tvg-logo="https://i.imgur.com/9JfZJRv.png" group-title="♻️未匹配频道",滁州科教 (450p)
+http://10.0.0.66:8080/hls/fd173d2961351102e16a7ed5.m3u8
+#EXTINF:-1 tvg-id="甘肃卫视 (576p)" tvg-name="甘肃卫视 (576p)" tvg-logo="https://i.imgur.com/dANSiug.png" group-title="♻️未匹配频道",甘肃卫视 (576p)
+http://10.0.0.66:8080/hls/668612150cf4898c360f0ca2.m3u8
+#EXTINF:-1 tvg-id="白城新闻综合 [Geo-blocked]" tvg-name="白城新闻综合 [Geo-blocked]" tvg-logo="https://www.tvchinese.net/uploads/tv/baicheng.jpg" group-title="♻️未匹配频道",白城新闻综合 [Geo-blocked]
+http://10.0.0.66:8080/hls/b2a4cfc0c9b40b048ea23eb4.m3u8
+#EXTINF:-1 tvg-id="纪实人文 (1080p)" tvg-name="纪实人文 (1080p)" tvg-logo="https://i.imgur.com/CEcNWsE.png" group-title="♻️未匹配频道",纪实人文 (1080p)
+http://10.0.0.66:8080/hls/b6b3b63145454ace27c05d7a.m3u8
+#EXTINF:-1 tvg-id="萍鄉新聞綜合 (576p) [Not 24/7]" tvg-name="萍鄉新聞綜合 (576p) [Not 24/7]" tvg-logo="https://i.imgur.com/Kc7htop.jpg" group-title="♻️未匹配频道",萍鄉新聞綜合 (576p) [Not 24/7]
+http://10.0.0.66:8080/hls/ae3e95e86dae295a628fc51b.m3u8
+#EXTINF:-1 tvg-id="西安丝路 (404p) [Not 24/7]" tvg-name="西安丝路 (404p) [Not 24/7]" tvg-logo="https://i.imgur.com/52i1Qnz.png" group-title="♻️未匹配频道",西安丝路 (404p) [Not 24/7]
+http://10.0.0.66:8080/hls/048f3030cc19ed83b2e456b3.m3u8
+#EXTINF:-1 tvg-id="西安商务资讯 (180p) [Not 24/7]" tvg-name="西安商务资讯 (180p) [Not 24/7]" tvg-logo="https://i.imgur.com/dzdiY4O.png" group-title="♻️未匹配频道",西安商务资讯 (180p) [Not 24/7]
+http://10.0.0.66:8080/hls/2130d0889ada206a9bc30690.m3u8
+#EXTINF:-1 tvg-id="贵州卫视 (576p)" tvg-name="贵州卫视 (576p)" tvg-logo="https://i.imgur.com/nkcKCdr.png" group-title="♻️未匹配频道",贵州卫视 (576p)
+http://10.0.0.66:8080/hls/0098b89f10dc5d308e1ee1df.m3u8
+#EXTINF:-1 tvg-id="辽宁卫视 (1080p)" tvg-name="辽宁卫视 (1080p)" tvg-logo="https://i.imgur.com/XRfeNTd.png" group-title="♻️未匹配频道",辽宁卫视 (1080p)
+http://10.0.0.66:8080/hls/42bdb4c54093cbd6e928abe7.m3u8
+#EXTINF:-1 tvg-id="酒泉新闻综合 (576p)" tvg-name="酒泉新闻综合 (576p)" tvg-logo="https://i.imgur.com/mPkG8Gi.png" group-title="♻️未匹配频道",酒泉新闻综合 (576p)
+http://10.0.0.66:8080/hls/770a6e98da48a4edf61cc353.m3u8
+#EXTINF:-1 tvg-id="重庆卫视 (1080p)" tvg-name="重庆卫视 (1080p)" tvg-logo="https://i.imgur.com/ggKci6o.png" group-title="♻️未匹配频道",重庆卫视 (1080p)
+http://10.0.0.66:8080/hls/5e4a3eb0dc26c14dc2ada3b1.m3u8
+#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://i.imgur.com/xfVHrKQ.png" group-title="♻️未匹配频道",金鹰卡通
+http://10.0.0.66:8080/hls/5c9d63f2e177250f96a41ee7.m3u8
+#EXTINF:-1 tvg-id="长沙女性 [Geo-blocked]" tvg-name="长沙女性 [Geo-blocked]" tvg-logo="https://www.tvchinese.net/uploads/tv/csnxpd.jpg" group-title="♻️未匹配频道",长沙女性 [Geo-blocked]
+http://10.0.0.66:8080/hls/f301b130bbee6514cb127f0d.m3u8
+#EXTINF:-1 tvg-id="长沙政法 [Geo-blocked]" tvg-name="长沙政法 [Geo-blocked]" tvg-logo="https://www.tvchinese.net/uploads/tv/cszfpd.jpg" group-title="♻️未匹配频道",长沙政法 [Geo-blocked]
+http://10.0.0.66:8080/hls/5c651713b74c7cb13d982dc9.m3u8
+#EXTINF:-1 tvg-id="长沙新闻 [Geo-blocked]" tvg-name="长沙新闻 [Geo-blocked]" tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/hunantv_logo.png" group-title="♻️未匹配频道",长沙新闻 [Geo-blocked]
+http://10.0.0.66:8080/hls/f575635870f2fbca94ab7fe3.m3u8
+#EXTINF:-1 tvg-id="青海卫视 (576p)" tvg-name="青海卫视 (576p)" tvg-logo="https://i.imgur.com/Nyuxo8S.png" group-title="♻️未匹配频道",青海卫视 (576p)
+http://10.0.0.66:8080/hls/1b58d3aaf2d2f42cfaba8868.m3u8
+#EXTINF:-1 tvg-id="风尚购物 (1080p)" tvg-name="风尚购物 (1080p)" tvg-logo="https://i.imgur.com/WNhfnUR.png" group-title="♻️未匹配频道",风尚购物 (1080p)
+http://10.0.0.66:8080/hls/94b6a6a26338b1965c48a5de.m3u8
+#EXTINF:-1 tvg-id="高台电视台 (1080p)" tvg-name="高台电视台 (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/28/%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86.png" group-title="♻️未匹配频道",高台电视台 (1080p)
+http://10.0.0.66:8080/hls/4cee3decfc619315a971ae56.m3u8
+#EXTINF:-1 tvg-id="鹤壁新闻综合 (480p) [Not 24/7]" tvg-name="鹤壁新闻综合 (480p) [Not 24/7]" tvg-logo="https://i.imgur.com/Osw5yRW.png" group-title="♻️未匹配频道",鹤壁新闻综合 (480p) [Not 24/7]
+http://10.0.0.66:8080/hls/fd47c5165174a63b6ec1ba4a.m3u8
+#EXTINF:-1 tvg-id="黑龙江卫视 (2160p)" tvg-name="黑龙江卫视 (2160p)" tvg-logo="https://i.imgur.com/9fj1uba.png" group-title="♻️未匹配频道",黑龙江卫视 (2160p)
+http://10.0.0.66:8080/hls/556244bfd0287126d9fc6e20.m3u8
+#EXTINF:-1 tvg-id="5Sport (1080p)" tvg-name="5Sport (1080p)" tvg-logo="https://i.imgur.com/dRVsB89.png" group-title="♻️未匹配频道",5Sport (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://10.0.0.66:8080/hls/443b275321c3a05667f6be4f.m3u8
+#EXTINF:-1 tvg-id="30A Golf Kingdom (720p)" tvg-name="30A Golf Kingdom (720p)" tvg-logo="https://i.imgur.com/Lv53nh4.png" group-title="♻️未匹配频道",30A Golf Kingdom (720p)
+http://10.0.0.66:8080/hls/f03b26ac67b3717fdefec7db.m3u8
+#EXTINF:-1 tvg-id=":Šport (1080p)" tvg-name=":Šport (1080p)" tvg-logo="https://i.imgur.com/oAtcxNZ.png" group-title="♻️未匹配频道",:Šport (1080p)
+http://10.0.0.66:8080/hls/c9910800fcb43571b3cc09c8.m3u8
+#EXTINF:-1 tvg-id="A Spor (1080p)" tvg-name="A Spor (1080p)" tvg-logo="https://i.imgur.com/ZhkZzLf.png" group-title="♻️未匹配频道",A Spor (1080p)
+http://10.0.0.66:8080/hls/2fcc565854fc3f2802a50b5b.m3u8
+#EXTINF:-1 tvg-id="ACC Network (720p)" tvg-name="ACC Network (720p)" tvg-logo="https://i.imgur.com/TpCkbkT.png" group-title="♻️未匹配频道",ACC Network (720p)
+http://10.0.0.66:8080/hls/bf4f03f179b9638753e2df0f.m3u8
+#EXTINF:-1 tvg-id="ACCDN (1080p)" tvg-name="ACCDN (1080p)" tvg-logo="https://i.imgur.com/V6Kaqha.png" group-title="♻️未匹配频道",ACCDN (1080p)
+http://10.0.0.66:8080/hls/388537ee1d917eb62d666960.m3u8
+#EXTINF:-1 tvg-id="ACI Sport TV (1080p)" tvg-name="ACI Sport TV (1080p)" tvg-logo="https://i.imgur.com/U8cHMOt.png" group-title="♻️未匹配频道",ACI Sport TV (1080p)
+http://10.0.0.66:8080/hls/aec7c8871a31273669fbf55b.m3u8
+#EXTINF:-1 tvg-id="Adjarasport 1" tvg-name="Adjarasport 1" tvg-logo="https://i.imgur.com/SVV5xHC.png" group-title="♻️未匹配频道",Adjarasport 1
+http://10.0.0.66:8080/hls/75dfef4aa453681b400632e2.m3u8
+#EXTINF:-1 tvg-id="ADO TV (720p)" tvg-name="ADO TV (720p)" tvg-logo="https://i.imgur.com/pxFamLr.png" group-title="♻️未匹配频道",ADO TV (720p)
+http://10.0.0.66:8080/hls/a8f73d16670de793528e10c6.m3u8
+#EXTINF:-1 tvg-id="Africa 24 Sport (1080p)" tvg-name="Africa 24 Sport (1080p)" tvg-logo="https://i0.wp.com/africa24tv.com/wp-content/uploads/2023/12/LOGO-AFRICASPORT-4-HD-sans-fond.png?fit=512%2C107&ssl=1" group-title="♻️未匹配频道",Africa 24 Sport (1080p)
+http://10.0.0.66:8080/hls/e34393dd9823438ddb24be67.m3u8
+#EXTINF:-1 tvg-id="Al Iraqia Sport (720p)" tvg-name="Al Iraqia Sport (720p)" tvg-logo="https://i.imgur.com/DrrlxTO.png" group-title="♻️未匹配频道",Al Iraqia Sport (720p)
+http://10.0.0.66:8080/hls/02f0421fe625dfeb04e22eda.m3u8
+#EXTINF:-1 tvg-id="Alfa Sport (1080p) [Not 24/7]" tvg-name="Alfa Sport (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/vhMPYIW.png" group-title="♻️未匹配频道",Alfa Sport (1080p) [Not 24/7]
+http://10.0.0.66:8080/hls/873bd13aff1bcb72cb82616d.m3u8
+#EXTINF:-1 tvg-id="Alkass Four (1080p)" tvg-name="Alkass Four (1080p)" tvg-logo="https://i.imgur.com/iDL65Wu.png" group-title="♻️未匹配频道",Alkass Four (1080p)
+http://10.0.0.66:8080/hls/2e9f6dbbe73f8072c4c98875.m3u8
+#EXTINF:-1 tvg-id="Alkass One (1080p)" tvg-name="Alkass One (1080p)" tvg-logo="https://i.imgur.com/10mmlha.png" group-title="♻️未匹配频道",Alkass One (1080p)
+http://10.0.0.66:8080/hls/114eb3b92cbb9a9cb0710574.m3u8
+#EXTINF:-1 tvg-id="Alkass SHOOF (1080p)" tvg-name="Alkass SHOOF (1080p)" tvg-logo="https://shoof.alkass.net/assets/images/shoof.png" group-title="♻️未匹配频道",Alkass SHOOF (1080p)
+http://10.0.0.66:8080/hls/cce816db9cc125c210fc938a.m3u8
+#EXTINF:-1 tvg-id="Alkass SHOOF 2 (1080p)" tvg-name="Alkass SHOOF 2 (1080p)" tvg-logo="https://shoof.alkass.net/assets/images/shoof2.png" group-title="♻️未匹配频道",Alkass SHOOF 2 (1080p)
+http://10.0.0.66:8080/hls/9dd97db01a2d8d001a276616.m3u8
+#EXTINF:-1 tvg-id="Alkass Six (1080p)" tvg-name="Alkass Six (1080p)" tvg-logo="https://i.imgur.com/CrPSPSC.png" group-title="♻️未匹配频道",Alkass Six (1080p)
+http://10.0.0.66:8080/hls/afdfe9980c29665ad6be617f.m3u8
+#EXTINF:-1 tvg-id="Alkass Three (1080p)" tvg-name="Alkass Three (1080p)" tvg-logo="https://i.imgur.com/d57BdFh.png" group-title="♻️未匹配频道",Alkass Three (1080p)
+http://10.0.0.66:8080/hls/f1862f265181c6b541efd144.m3u8
+#EXTINF:-1 tvg-id="Alkass Two (1080p)" tvg-name="Alkass Two (1080p)" tvg-logo="https://i.imgur.com/8w61kFX.png" group-title="♻️未匹配频道",Alkass Two (1080p)
+http://10.0.0.66:8080/hls/d8c88fc4325a33229594414d.m3u8
+#EXTINF:-1 tvg-id="Arena Fight (1080p)" tvg-name="Arena Fight (1080p)" tvg-logo="https://i.imgur.com/5abTrJU.png" group-title="♻️未匹配频道",Arena Fight (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://10.0.0.66:8080/hls/bfa6bfd0370e0e31a1896954.m3u8
+#EXTINF:-1 tvg-id="Arena Sport 1 (1080p)" tvg-name="Arena Sport 1 (1080p)" tvg-logo="https://i.imgur.com/RJrJGbW.png" group-title="♻️未匹配频道",Arena Sport 1 (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://10.0.0.66:8080/hls/5371c0c4e184e70f2dcc96e0.m3u8
+#EXTINF:-1 tvg-id="Arena Sport 1 (1080p)" tvg-name="Arena Sport 1 (1080p)" tvg-logo="https://i.imgur.com/RJrJGbW.png" group-title="♻️未匹配频道",Arena Sport 1 (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://10.0.0.66:8080/hls/1e7d9f997a4a9d91d4e5e392.m3u8
+#EXTINF:-1 tvg-id="Arena Sport 1 (720p)" tvg-name="Arena Sport 1 (720p)" tvg-logo="https://i.imgur.com/RJrJGbW.png" group-title="♻️未匹配频道",Arena Sport 1 (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://10.0.0.66:8080/hls/773b0cfa00d06f4090872f3d.m3u8
+#EXTINF:-1 tvg-id="Arena Sport 1" tvg-name="Arena Sport 1" tvg-logo="https://i.imgur.com/2qf67zW.png" group-title="♻️未匹配频道",Arena Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://10.0.0.66:8080/hls/b85ac582b4a85e74affef76c.m3u8
+#EXTINF:-1 tvg-id="Arena Sport 1 Premium (720p)" tvg-name="Arena Sport 1 Premium (720p)" tvg-logo="https://i.imgur.com/csv6YsL.png" group-title="♻️未匹配频道",Arena Sport 1 Premium (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://10.0.0.66:8080/hls/ecca0c5869fbd6ba9bd57d49.m3u8
+#EXTINF:-1 tvg-id="Arena Sport 2 (1080p)" tvg-name="Arena Sport 2 (1080p)" tvg-logo="https://i.imgur.com/aqlECBj.png" group-title="♻️未匹配频道",Arena Sport 2 (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://10.0.0.66:8080/hls/fe8275b04d11963d937f7c9c.m3u8
+#EXTINF:-1 tvg-id="Arena Sport 2 (1080p)" tvg-name="Arena Sport 2 (1080p)" tvg-logo="https://i.imgur.com/aqlECBj.png" group-title="♻️未匹配频道",Arena Sport 2 (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://10.0.0.66:8080/hls/54667553b6d99d03cdf5732f.m3u8
+#EXTINF:-1 tvg-id="Arena Sport 2 (720p)" tvg-name="Arena Sport 2 (720p)" tvg-logo="https://i.imgur.com/aqlECBj.png" group-title="♻️未匹配频道",Arena Sport 2 (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://10.0.0.66:8080/hls/1295bfff355dd5f43b8ae0a6.m3u8
+#EXTINF:-1 tvg-id="Arena Sport 2" tvg-name="Arena Sport 2" tvg-logo="https://i.imgur.com/Yq3Jf19.png" group-title="♻️未匹配频道",Arena Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://10.0.0.66:8080/hls/aa76350ed67b14598fee2ff6.m3u8
+#EXTINF:-1 tvg-id="Arena Sport 2 Premium (1080p)" tvg-name="Arena Sport 2 Premium (1080p)" tvg-logo="https://i.imgur.com/ztOmQ7P.png" group-title="♻️未匹配频道",Arena Sport 2 Premium (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://10.0.0.66:8080/hls/00791e7952b9ef36a5de7814.m3u8
+#EXTINF:-1 tvg-id="Arena Sport 3 (720p)" tvg-name="Arena Sport 3 (720p)" tvg-logo="https://i.imgur.com/3r3burN.png" group-title="♻️未匹配频道",Arena Sport 3 (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://10.0.0.66:8080/hls/f7d4dda9ce08985188f427ac.m3u8
+#EXTINF:-1 tvg-id="Arena Sport 3 (720p)" tvg-name="Arena Sport 3 (720p)" tvg-logo="https://i.imgur.com/3r3burN.png" group-title="♻️未匹配频道",Arena Sport 3 (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://10.0.0.66:8080/hls/ad5f75f93e6061d1ef7061ff.m3u8
+#EXTINF:-1 tvg-id="Arena Sport 3 (1080p)" tvg-name="Arena Sport 3 (1080p)" tvg-logo="https://i.imgur.com/3r3burN.png" group-title="♻️未匹配频道",Arena Sport 3 (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://10.0.0.66:8080/hls/2c8e1895f5c6331a1fb377a9.m3u8
+#EXTINF:-1 tvg-id="Arena Sport 3 Premium (1080p)" tvg-name="Arena Sport 3 Premium (1080p)" tvg-logo="https://i.imgur.com/gpqemLf.png" group-title="♻️未匹配频道",Arena Sport 3 Premium (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://10.0.0.66:8080/hls/d889c4191f37e973caee421b.m3u8
+#EXTINF:-1 tvg-id="Arena Sport 4 (1081p)" tvg-name="Arena Sport 4 (1081p)" tvg-logo="https://i.imgur.com/h1XhGkz.png" group-title="♻️未匹配频道",Arena Sport 4 (1081p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://10.0.0.66:8080/hls/6240c8e119be2ba09c5dc683.m3u8
+#EXTINF:-1 tvg-id="Arena Sport 4 (1080p)" tvg-name="Arena Sport 4 (1080p)" tvg-logo="https://i.imgur.com/h1XhGkz.png" group-title="♻️未匹配频道",Arena Sport 4 (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://10.0.0.66:8080/hls/6b26117123e8cc49c2251dbf.m3u8
+#EXTINF:-1 tvg-id="Arena Sport 4 (1080p)" tvg-name="Arena Sport 4 (1080p)" tvg-logo="https://i.imgur.com/h1XhGkz.png" group-title="♻️未匹配频道",Arena Sport 4 (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://10.0.0.66:8080/hls/19d62fd17f55b0e75e18fed8.m3u8
+#EXTINF:-1 tvg-id="Arena Sport 4 Premium (1080p)" tvg-name="Arena Sport 4 Premium (1080p)" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Arena Sport 4 Premium (1080p).png" group-title="♻️未匹配频道",Arena Sport 4 Premium (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://10.0.0.66:8080/hls/c6d8905d34ae7d73c6eef90a.m3u8
+#EXTINF:-1 tvg-id="Arena Sport 5 (720p)" tvg-name="Arena Sport 5 (720p)" tvg-logo="https://i.imgur.com/036qMgu.png" group-title="♻️未匹配频道",Arena Sport 5 (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://10.0.0.66:8080/hls/1d2241408db8b2d41c1a5afa.m3u8
+#EXTINF:-1 tvg-id="Arena Sport 5 (1080p)" tvg-name="Arena Sport 5 (1080p)" tvg-logo="https://i.imgur.com/036qMgu.png" group-title="♻️未匹配频道",Arena Sport 5 (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://10.0.0.66:8080/hls/f50ac9a31942dd957976bf1a.m3u8
+#EXTINF:-1 tvg-id="Arena Sport 5 BH (1080p)" tvg-name="Arena Sport 5 BH (1080p)" tvg-logo="https://i.imgur.com/036qMgu.png" group-title="♻️未匹配频道",Arena Sport 5 BH (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://10.0.0.66:8080/hls/1ee54149ab4ecef9da211635.m3u8
+#EXTINF:-1 tvg-id="Arena Sport 5 Premium" tvg-name="Arena Sport 5 Premium" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Arena Sport 5 Premium.png" group-title="♻️未匹配频道",Arena Sport 5 Premium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://10.0.0.66:8080/hls/ce285a9e3ba434064f9e395e.m3u8
+#EXTINF:-1 tvg-id="Arena Sport 6 (720p)" tvg-name="Arena Sport 6 (720p)" tvg-logo="https://i.imgur.com/Z5PE4vx.png" group-title="♻️未匹配频道",Arena Sport 6 (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://10.0.0.66:8080/hls/90d4a59ffcc19efad0c58acc.m3u8
+#EXTINF:-1 tvg-id="Arena Sport 6 (1080p)" tvg-name="Arena Sport 6 (1080p)" tvg-logo="https://i.imgur.com/Z5PE4vx.png" group-title="♻️未匹配频道",Arena Sport 6 (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://10.0.0.66:8080/hls/3de880b842030dfaf8d1606f.m3u8
+#EXTINF:-1 tvg-id="Arena Sport 7 (720p)" tvg-name="Arena Sport 7 (720p)" tvg-logo="https://i.imgur.com/0fgvOrR.png" group-title="♻️未匹配频道",Arena Sport 7 (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://10.0.0.66:8080/hls/40b694688a508794ef9fe6cc.m3u8
+#EXTINF:-1 tvg-id="Arena Sport 7 (720p)" tvg-name="Arena Sport 7 (720p)" tvg-logo="https://i.imgur.com/0fgvOrR.png" group-title="♻️未匹配频道",Arena Sport 7 (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://10.0.0.66:8080/hls/6a95e99fdbe3f5be4b9e4c28.m3u8
+#EXTINF:-1 tvg-id="Arena Sport 8 (1080p)" tvg-name="Arena Sport 8 (1080p)" tvg-logo="https://i.imgur.com/Wk9dr78.png" group-title="♻️未匹配频道",Arena Sport 8 (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://10.0.0.66:8080/hls/118024d8e0f5eb1dda2cfa4a.m3u8
+#EXTINF:-1 tvg-id="Arena Sport 8 (720p)" tvg-name="Arena Sport 8 (720p)" tvg-logo="https://i.imgur.com/Wk9dr78.png" group-title="♻️未匹配频道",Arena Sport 8 (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://10.0.0.66:8080/hls/eaf6bfb9b287c750e3361c44.m3u8
+#EXTINF:-1 tvg-id="Arena Sport 9 (1080p)" tvg-name="Arena Sport 9 (1080p)" tvg-logo="https://i.imgur.com/riMTqTu.png" group-title="♻️未匹配频道",Arena Sport 9 (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://10.0.0.66:8080/hls/2fc59fd1b318264bec8208f9.m3u8
+#EXTINF:-1 tvg-id="Arena Sport 9 (720p)" tvg-name="Arena Sport 9 (720p)" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Arena Sport 9 (720p).png" group-title="♻️未匹配频道",Arena Sport 9 (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://10.0.0.66:8080/hls/5c12cfa3adf0d7deca3cf59c.m3u8
+#EXTINF:-1 tvg-id="Arena Sport 10 (720p)" tvg-name="Arena Sport 10 (720p)" tvg-logo="https://i.imgur.com/oMiS7D3.png" group-title="♻️未匹配频道",Arena Sport 10 (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://10.0.0.66:8080/hls/4b4a9449ef33a2bd94a16d93.m3u8
+#EXTINF:-1 tvg-id="Arena Sport 10 (720p)" tvg-name="Arena Sport 10 (720p)" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Arena Sport 10 (720p).png" group-title="♻️未匹配频道",Arena Sport 10 (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://10.0.0.66:8080/hls/f68e63e353220d32123b715d.m3u8
+#EXTINF:-1 tvg-id="Arena Sport Adrenalin (1080p)" tvg-name="Arena Sport Adrenalin (1080p)" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Arena Sport Adrenalin (1080p).png" group-title="♻️未匹配频道",Arena Sport Adrenalin (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://10.0.0.66:8080/hls/1e586af8e5541cda6f2e0ccc.m3u8
+#EXTINF:-1 tvg-id="Arena Sport Premium 1 BH (1080p)" tvg-name="Arena Sport Premium 1 BH (1080p)" tvg-logo="https://imgur.com/csv6YsL" group-title="♻️未匹配频道",Arena Sport Premium 1 BH (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://10.0.0.66:8080/hls/d150f26fe2ab39451231d1b0.m3u8
+#EXTINF:-1 tvg-id="Arena Sport Premium 2 BH (1080p)" tvg-name="Arena Sport Premium 2 BH (1080p)" tvg-logo="https://imgur.com/ztOmQ7P" group-title="♻️未匹配频道",Arena Sport Premium 2 BH (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://10.0.0.66:8080/hls/ad9653d46fdb932be337381b.m3u8
+#EXTINF:-1 tvg-id="Arena Sport Premium 3 BH (720p)" tvg-name="Arena Sport Premium 3 BH (720p)" tvg-logo="https://i.imgur.com/gpqemLf.png" group-title="♻️未匹配频道",Arena Sport Premium 3 BH (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://10.0.0.66:8080/hls/fe7cdac82b0fd3ead241a3ee.m3u8
+#EXTINF:-1 tvg-id="Arena Sport Tenis (720p)" tvg-name="Arena Sport Tenis (720p)" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Arena Sport Tenis (720p).png" group-title="♻️未匹配频道",Arena Sport Tenis (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://10.0.0.66:8080/hls/e9ca5835a4d4174facb9815f.m3u8
+#EXTINF:-1 tvg-id="Arryadia" tvg-name="Arryadia" tvg-logo="https://i.imgur.com/XjzK3gZ.png" group-title="♻️未匹配频道",Arryadia
+http://10.0.0.66:8080/hls/3bf919fb82779a4b7489544b.m3u8
+#EXTINF:-1 tvg-id="AS3 Sport TV (1080p)" tvg-name="AS3 Sport TV (1080p)" tvg-logo="https://i.ibb.co/bRmGbsyV/A3-SPORTTV.jpg" group-title="♻️未匹配频道",AS3 Sport TV (1080p)
+http://10.0.0.66:8080/hls/be19af5f40323233ec45364c.m3u8
+#EXTINF:-1 tvg-id="ATG Live (720p)" tvg-name="ATG Live (720p)" tvg-logo="https://i.imgur.com/bPWFXkL.png" group-title="♻️未匹配频道",ATG Live (720p)
+http://10.0.0.66:8080/hls/20025dde0d4b3a617a394eec.m3u8
+#EXTINF:-1 tvg-id="Awapa Sports TV (1080p) [Not 24/7]" tvg-name="Awapa Sports TV (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/MNw5cJH.jpg" group-title="♻️未匹配频道",Awapa Sports TV (1080p) [Not 24/7]
+http://10.0.0.66:8080/hls/7caee213d6a21c1c2a7659bf.m3u8
+#EXTINF:-1 tvg-id="Azteca Deportes Network (1080p)" tvg-name="Azteca Deportes Network (1080p)" tvg-logo="https://match-images.icdb.tv/5913207f2494844101287828e87625eb.jpg" group-title="♻️未匹配频道",Azteca Deportes Network (1080p)
+http://10.0.0.66:8080/hls/feff4a3840a01d4024404fca.m3u8
+#EXTINF:-1 tvg-id="Bahrain Sports 1 (720p) [Not 24/7]" tvg-name="Bahrain Sports 1 (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/fBpLsbC.png" group-title="♻️未匹配频道",Bahrain Sports 1 (720p) [Not 24/7]
+http://10.0.0.66:8080/hls/88ca68a24382cfc2a639d3a1.m3u8
+#EXTINF:-1 tvg-id="Bahrain Sports 2 (720p) [Not 24/7]" tvg-name="Bahrain Sports 2 (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/ZkuZmIo.png" group-title="♻️未匹配频道",Bahrain Sports 2 (720p) [Not 24/7]
+http://10.0.0.66:8080/hls/656f793fcf03c3a52689c0cc.m3u8
+#EXTINF:-1 tvg-id="Band Sports (1080p)" tvg-name="Band Sports (1080p)" tvg-logo="https://i.imgur.com/EuPvzJe.png" group-title="♻️未匹配频道",Band Sports (1080p)
+http://10.0.0.66:8080/hls/9cb746bbda1a995ee74b6891.m3u8
+#EXTINF:-1 tvg-id="Barca TV" tvg-name="Barca TV" tvg-logo="https://i.imgur.com/d8x7c8i.png" group-title="♻️未匹配频道",Barca TV
+http://10.0.0.66:8080/hls/f8b99b7cf2afce2ca94cd5ce.m3u8
+#EXTINF:-1 tvg-id="beIN Sports USA (1080p) [Geo-blocked]" tvg-name="beIN Sports USA (1080p) [Geo-blocked]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" group-title="♻️未匹配频道",beIN Sports USA (1080p) [Geo-blocked]
+http://10.0.0.66:8080/hls/cb88366c3491a69c86a09841.m3u8
+#EXTINF:-1 tvg-id="beIN SPORTS XTRA (1080p)" tvg-name="beIN SPORTS XTRA (1080p)" tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png" group-title="♻️未匹配频道",beIN SPORTS XTRA (1080p)
+http://10.0.0.66:8080/hls/99761e04e9a938a83edc9a33.m3u8
+#EXTINF:-1 tvg-id="beIN SPORTS XTRA en Espanol (1080p)" tvg-name="beIN SPORTS XTRA en Espanol (1080p)" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="♻️未匹配频道",beIN SPORTS XTRA en Espanol (1080p)
+http://10.0.0.66:8080/hls/4de11feaca3dc7a1e9a77731.m3u8
+#EXTINF:-1 tvg-id="BEK TV Sports West (720p)" tvg-name="BEK TV Sports West (720p)" tvg-logo="https://i.imgur.com/1l3t5jd.png" group-title="♻️未匹配频道",BEK TV Sports West (720p)
+http://10.0.0.66:8080/hls/421f5093d926cbcbb15dff28.m3u8
+#EXTINF:-1 tvg-id="Belarus-5 (1080p) [Not 24/7]" tvg-name="Belarus-5 (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/NJsRFud.png" group-title="♻️未匹配频道",Belarus-5 (1080p) [Not 24/7]
+http://10.0.0.66:8080/hls/417bae6a0bfa2a1572cc16be.m3u8
+#EXTINF:-1 tvg-id="Belarus-5 HD (1080p)" tvg-name="Belarus-5 HD (1080p)" tvg-logo="https://i.imgur.com/NJsRFud.png" group-title="♻️未匹配频道",Belarus-5 HD (1080p)
+http://10.0.0.66:8080/hls/f18103401c6f244864249c14.m3u8
+#EXTINF:-1 tvg-id="Billiard TV (1080p) [Geo-blocked]" tvg-name="Billiard TV (1080p) [Geo-blocked]" tvg-logo="https://i.imgur.com/BZijfKh.png" group-title="♻️未匹配频道",Billiard TV (1080p) [Geo-blocked]
+http://10.0.0.66:8080/hls/cf7dde448a2fcc27586ebb76.m3u8
+#EXTINF:-1 tvg-id="Brøndby TV" tvg-name="Brøndby TV" tvg-logo="https://images.pluto.tv/channels/685029cda1e091e16ff57fc8/colorLogoPNG_1750246109707.png" group-title="♻️未匹配频道",Brøndby TV
+http://10.0.0.66:8080/hls/a9e889f3163002b4961c3402.m3u8
+#EXTINF:-1 tvg-id="Cablenet Sports 1 (1080p)" tvg-name="Cablenet Sports 1 (1080p)" tvg-logo="https://i.imgur.com/kcaF4jb.png" group-title="♻️未匹配频道",Cablenet Sports 1 (1080p)
+http://10.0.0.66:8080/hls/4898d9c4c979b0e7bf3c2661.m3u8
+#EXTINF:-1 tvg-id="Cablenet Sports 2 (1080p)" tvg-name="Cablenet Sports 2 (1080p)" tvg-logo="https://i.imgur.com/mq8mZvJ.png" group-title="♻️未匹配频道",Cablenet Sports 2 (1080p)
+http://10.0.0.66:8080/hls/091ffa334b0dda7bdd2c0074.m3u8
+#EXTINF:-1 tvg-id="Canal do Inter (720p) [Not 24/7]" tvg-name="Canal do Inter (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/TQFWEIS.png" group-title="♻️未匹配频道",Canal do Inter (720p) [Not 24/7]
+http://10.0.0.66:8080/hls/68d703af179fd7475d773a6f.m3u8
+#EXTINF:-1 tvg-id="Canal Showsport (720p)" tvg-name="Canal Showsport (720p)" tvg-logo="https://i.imgur.com/0L9tW3Z.png" group-title="♻️未匹配频道",Canal Showsport (720p)
+http://10.0.0.66:8080/hls/471ed505828633e047c637ea.m3u8
+#EXTINF:-1 tvg-id="Canal+ Sport 360" tvg-name="Canal+ Sport 360" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Canal%2BSport_360.png" group-title="♻️未匹配频道",Canal+ Sport 360
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://10.0.0.66:8080/hls/4fcc3bdeaacc3c13107c5048.m3u8
+#EXTINF:-1 tvg-id="CazeTV (1080i)" tvg-name="CazeTV (1080i)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Caz%C3%A9TV_logo.svg/1280px-Caz%C3%A9TV_logo.svg.png" group-title="♻️未匹配频道",CazeTV (1080i)
+http://10.0.0.66:8080/hls/4fa229b06a4af40e8f5d2195.m3u8
+#EXTINF:-1 tvg-id="CBC Sport HD [Geo-blocked]" tvg-name="CBC Sport HD [Geo-blocked]" tvg-logo="https://i.imgur.com/3mEdjuq.png" group-title="♻️未匹配频道",CBC Sport HD [Geo-blocked]
+http://10.0.0.66:8080/hls/4e920e486c4c0b52c9c376e4.m3u8
+#EXTINF:-1 tvg-id="CBS Sports Golazo Network (720p)" tvg-name="CBS Sports Golazo Network (720p)" tvg-logo="https://i.imgur.com/eMjutHS.png" group-title="♻️未匹配频道",CBS Sports Golazo Network (720p)
+http://10.0.0.66:8080/hls/8333483a75efd9ac8c8dea04.m3u8
+#EXTINF:-1 tvg-id="CBS Sports HQ (1080p) [Geo-blocked]" tvg-name="CBS Sports HQ (1080p) [Geo-blocked]" tvg-logo="https://i.imgur.com/q8BENJg.png" group-title="♻️未匹配频道",CBS Sports HQ (1080p) [Geo-blocked]
+http://10.0.0.66:8080/hls/5ff54c6a42d4aed82fd90fd9.m3u8
+#EXTINF:-1 tvg-id="Claro Sports (720p)" tvg-name="Claro Sports (720p)" tvg-logo="https://i.imgur.com/n0kd17r.png" group-title="♻️未匹配频道",Claro Sports (720p)
+#EXTVLCOPT:http-referer=https://www.clarosports.com/
+http://10.0.0.66:8080/hls/886b1969a57c3c491493a931.m3u8
+#EXTINF:-1 tvg-id="ColimdoT TV (720p)" tvg-name="ColimdoT TV (720p)" tvg-logo="https://i.imgur.com/ZeUgLCa.png" group-title="♻️未匹配频道",ColimdoT TV (720p)
+http://10.0.0.66:8080/hls/8ab52314c07c7b55c61928d6.m3u8
+#EXTINF:-1 tvg-id="Combate (720p)" tvg-name="Combate (720p)" tvg-logo="https://i.imgur.com/ZPYK5jr.png" group-title="♻️未匹配频道",Combate (720p)
+http://10.0.0.66:8080/hls/62aff559ce39b86ee0ce16a3.m3u8
+#EXTINF:-1 tvg-id="Cricket Gold (1080p)" tvg-name="Cricket Gold (1080p)" tvg-logo="https://resources.cricket-australia.pulselive.com/cricket-australia/photo/2025/07/25/836eddae-4329-4542-ad17-dcd37e9d951a/Cricket-Gold-1920x1080_noBG.png" group-title="♻️未匹配频道",Cricket Gold (1080p)
+http://10.0.0.66:8080/hls/9b558fd8ca19e8d142471d9e.m3u8
+#EXTINF:-1 tvg-id="CRTV (720p)" tvg-name="CRTV (720p)" tvg-logo="https://i2.paste.pics/bf68b159547597c39574aec9dd7c626a.png" group-title="♻️未匹配频道",CRTV (720p)
+http://10.0.0.66:8080/hls/7e05e31c919f31cf35bf5dcd.m3u8
+#EXTINF:-1 tvg-id="ČT Sport (720p)" tvg-name="ČT Sport (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/%C4%8CT_sport_logo.png/960px-%C4%8CT_sport_logo.png" group-title="♻️未匹配频道",ČT Sport (720p)
+http://10.0.0.66:8080/hls/bf0256b8d17c1536f3b06eb2.m3u8
+#EXTINF:-1 tvg-id="Cytavision Sports 1 (1080p)" tvg-name="Cytavision Sports 1 (1080p)" tvg-logo="https://i.imgur.com/zMNSlyA.png" group-title="♻️未匹配频道",Cytavision Sports 1 (1080p)
+http://10.0.0.66:8080/hls/d5ac58a87f0d2652c8cff981.m3u8
+#EXTINF:-1 tvg-id="Cytavision Sports 2 (1080p)" tvg-name="Cytavision Sports 2 (1080p)" tvg-logo="https://i.imgur.com/YAJdd5x.png" group-title="♻️未匹配频道",Cytavision Sports 2 (1080p)
+http://10.0.0.66:8080/hls/aab64f66ff54b3268a385314.m3u8
+#EXTINF:-1 tvg-id="Cytavision Sports 3 (1080p)" tvg-name="Cytavision Sports 3 (1080p)" tvg-logo="https://i.imgur.com/k7apW1o.png" group-title="♻️未匹配频道",Cytavision Sports 3 (1080p)
+http://10.0.0.66:8080/hls/33996281cedb8066a78043eb.m3u8
+#EXTINF:-1 tvg-id="Cytavision Sports 4 (720p)" tvg-name="Cytavision Sports 4 (720p)" tvg-logo="https://i.imgur.com/HWVe5hT.png" group-title="♻️未匹配频道",Cytavision Sports 4 (720p)
+http://10.0.0.66:8080/hls/4a746f94ed23401acb7d2d96.m3u8
+#EXTINF:-1 tvg-id="Cytavision Sports 5 (720p)" tvg-name="Cytavision Sports 5 (720p)" tvg-logo="https://i.imgur.com/Hb4kYZy.png" group-title="♻️未匹配频道",Cytavision Sports 5 (720p)
+http://10.0.0.66:8080/hls/16368cc12848a7d9fa5a4a6a.m3u8
+#EXTINF:-1 tvg-id="DAZN 5" tvg-name="DAZN 5" tvg-logo="https://i.imgur.com/HD2XaeS.png" group-title="♻️未匹配频道",DAZN 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://10.0.0.66:8080/hls/3ddc876e54989c4221242e44.m3u8
+#EXTINF:-1 tvg-id="DAZN Combat (684p)" tvg-name="DAZN Combat (684p)" tvg-logo="https://i.postimg.cc/VsW3Jsrz/logo-DAZN-Combat.png" group-title="♻️未匹配频道",DAZN Combat (684p)
+http://10.0.0.66:8080/hls/90d4f9848df836bae0159577.m3u8
+#EXTINF:-1 tvg-id="DAZN Darts x Pluto TV" tvg-name="DAZN Darts x Pluto TV" tvg-logo="https://images.pluto.tv/channels/64b67f0424ade50008a3be17/colorLogoPNG.png" group-title="♻️未匹配频道",DAZN Darts x Pluto TV
+http://10.0.0.66:8080/hls/519bb25c92df0d27293baada.m3u8
+#EXTINF:-1 tvg-id="DAZN Heldinnen x Pluto TV" tvg-name="DAZN Heldinnen x Pluto TV" tvg-logo="https://images.pluto.tv/channels/64afe50c5dc16600087f3227/colorLogoPNG.png" group-title="♻️未匹配频道",DAZN Heldinnen x Pluto TV
+http://10.0.0.66:8080/hls/ce7e8d372ebd969e60048cd0.m3u8
+#EXTINF:-1 tvg-id="DD Sports SD (1080p)" tvg-name="DD Sports SD (1080p)" tvg-logo="https://dtil.tmsimg.com/assets/s158255_ld_h15_aa.png?lock=720x540" group-title="♻️未匹配频道",DD Sports SD (1080p)
+http://10.0.0.66:8080/hls/4f48a616121b41cfb6a70425.m3u8
+#EXTINF:-1 tvg-id="Deportes por Movistar Plus+" tvg-name="Deportes por Movistar Plus+" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Deportes por Movistar Plus+.png" group-title="♻️未匹配频道",Deportes por Movistar Plus+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://10.0.0.66:8080/hls/cbb0e315756368c0dc7dd73f.m3u8
+#EXTINF:-1 tvg-id="Deportes TVC (1080p)" tvg-name="Deportes TVC (1080p)" tvg-logo="https://i.imgur.com/Y1t8xkL.png" group-title="♻️未匹配频道",Deportes TVC (1080p)
+http://10.0.0.66:8080/hls/3877611724b95f7e602f11a8.m3u8
+#EXTINF:-1 tvg-id="Digi Sport 1" tvg-name="Digi Sport 1" tvg-logo="https://i.imgur.com/5zMxDYq.png" group-title="♻️未匹配频道",Digi Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://10.0.0.66:8080/hls/52ef9dc32f1f564faa759c43.m3u8
+#EXTINF:-1 tvg-id="DiviSport (1080p)" tvg-name="DiviSport (1080p)" tvg-logo="https://i.logos-download.com/114030/29915-s5120-904df224e4c030fefcc45adda448b6e8.png/DiviSport_Logo_2023-s5120.png" group-title="♻️未匹配频道",DiviSport (1080p)
+http://10.0.0.66:8080/hls/14b85230c6e224f0bef37034.m3u8
+#EXTINF:-1 tvg-id="Dong Nai TV 2 (720p)" tvg-name="Dong Nai TV 2 (720p)" tvg-logo="https://i.imgur.com/tNKPSkO.png" group-title="♻️未匹配频道",Dong Nai TV 2 (720p)
+http://10.0.0.66:8080/hls/282138ea08ba794449f99591.m3u8
+#EXTINF:-1 tvg-id="DraftKings Network (1080p)" tvg-name="DraftKings Network (1080p)" tvg-logo="https://i.imgur.com/SFYhgrt.png" group-title="♻️未匹配频道",DraftKings Network (1080p)
+http://10.0.0.66:8080/hls/cb9af8083ae26cffb4a3f262.m3u8
+#EXTINF:-1 tvg-id="DSports (720p)" tvg-name="DSports (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="♻️未匹配频道",DSports (720p)
+http://10.0.0.66:8080/hls/c5724a939adbe49368986717.m3u8
+#EXTINF:-1 tvg-id="Dynamo Kyiv TV (1080p)" tvg-name="Dynamo Kyiv TV (1080p)" tvg-logo="https://i.imgur.com/ymxmyyG.png" group-title="♻️未匹配频道",Dynamo Kyiv TV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://10.0.0.66:8080/hls/9a6faff46ee7832e7ab2fa80.m3u8
+#EXTINF:-1 tvg-id="El-Heddaf TV (1080p)" tvg-name="El-Heddaf TV (1080p)" tvg-logo="https://i.imgur.com/cDkIDIA.png" group-title="♻️未匹配频道",El-Heddaf TV (1080p)
+http://10.0.0.66:8080/hls/f952ed73c0899f5ef4385b79.m3u8
+#EXTINF:-1 tvg-id="Equalympic (1080p)" tvg-name="Equalympic (1080p)" tvg-logo="https://i.imgur.com/ixSj4H7.png" group-title="♻️未匹配频道",Equalympic (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://10.0.0.66:8080/hls/f70b5c86f94560a7b3d72884.m3u8
+#EXTINF:-1 tvg-id="Equidia (1080p)" tvg-name="Equidia (1080p)" tvg-logo="https://i.imgur.com/QPpbRcZ.png" group-title="♻️未匹配频道",Equidia (1080p)
+http://10.0.0.66:8080/hls/be2c2867532b0e3dfd3d0002.m3u8
+#EXTINF:-1 tvg-id="ERT Sports 1 (1080p)" tvg-name="ERT Sports 1 (1080p)" tvg-logo="https://i.imgur.com/EsczO2H.png" group-title="♻️未匹配频道",ERT Sports 1 (1080p)
+http://10.0.0.66:8080/hls/cfb819ce2f50f19d2bfb5baa.m3u8
+#EXTINF:-1 tvg-id="ERT Sports 2 (1080p)" tvg-name="ERT Sports 2 (1080p)" tvg-logo="https://i.imgur.com/b2SNQPi.png" group-title="♻️未匹配频道",ERT Sports 2 (1080p)
+http://10.0.0.66:8080/hls/8b03d2e16b50e81acf765e07.m3u8
+#EXTINF:-1 tvg-id="ESPN8 The Ocho (1080p)" tvg-name="ESPN8 The Ocho (1080p)" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-dark/espn_8_the_ocho_bw.png" group-title="♻️未匹配频道",ESPN8 The Ocho (1080p)
+http://10.0.0.66:8080/hls/33d7fe03c8eefdb26d85d3d0.m3u8
+#EXTINF:-1 tvg-id="ESPNU (720p)" tvg-name="ESPNU (720p)" tvg-logo="https://i.imgur.com/HiBrysh.png" group-title="♻️未匹配频道",ESPNU (720p)
+http://10.0.0.66:8080/hls/515502d4f1c4968e98877071.m3u8
+#EXTINF:-1 tvg-id="Esport3 (1080p) [Not 24/7]" tvg-name="Esport3 (1080p) [Not 24/7]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/960px-Esport3.svg.png" group-title="♻️未匹配频道",Esport3 (1080p) [Not 24/7]
+http://10.0.0.66:8080/hls/53be0dd1316a538409c541ba.m3u8
+#EXTINF:-1 tvg-id="Esport3 (1080p) [Geo-blocked]" tvg-name="Esport3 (1080p) [Geo-blocked]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/960px-Esport3.svg.png" group-title="♻️未匹配频道",Esport3 (1080p) [Geo-blocked]
+http://10.0.0.66:8080/hls/c2eed755e8e836306d833c4e.m3u8
+#EXTINF:-1 tvg-id="Extreme Sports Channel (576p)" tvg-name="Extreme Sports Channel (576p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Extreme_Sports_Channel.svg/960px-Extreme_Sports_Channel.svg.png" group-title="♻️未匹配频道",Extreme Sports Channel (576p)
+http://10.0.0.66:8080/hls/d13988c4c3c92c302bdcc8c0.m3u8
+#EXTINF:-1 tvg-id="F1 Channel (1080p) [Geo-blocked]" tvg-name="F1 Channel (1080p) [Geo-blocked]" tvg-logo="https://i.imgur.com/cjXzWsI.png" group-title="♻️未匹配频道",F1 Channel (1080p) [Geo-blocked]
+http://10.0.0.66:8080/hls/2cdf55c244a6e4839ee24544.m3u8
+#EXTINF:-1 tvg-id="Fast&FunBox" tvg-name="Fast&FunBox" tvg-logo="https://i.imgur.com/a9ZtP17.png" group-title="♻️未匹配频道",Fast&FunBox
+http://10.0.0.66:8080/hls/7794abdbc60d19824fc8b4d6.m3u8
+#EXTINF:-1 tvg-id="FB TV" tvg-name="FB TV" tvg-logo="https://i.imgur.com/qBVqtYd.png" group-title="♻️未匹配频道",FB TV
+http://10.0.0.66:8080/hls/bc89b339bb547fa0ef4611b8.m3u8
+#EXTINF:-1 tvg-id="FCK Løvinderne" tvg-name="FCK Løvinderne" tvg-logo="https://images.pluto.tv/channels/68ac5403de4a734954b5ab75/colorLogoPNG_1756124331035.png" group-title="♻️未匹配频道",FCK Løvinderne
+http://10.0.0.66:8080/hls/3bece60ea2275fd49cc170d9.m3u8
+#EXTINF:-1 tvg-id="FIFA+ (720p)" tvg-name="FIFA+ (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="♻️未匹配频道",FIFA+ (720p)
+http://10.0.0.66:8080/hls/cc59704c590b290350f8d2f2.m3u8
+#EXTINF:-1 tvg-id="FIFA+ French (720p)" tvg-name="FIFA+ French (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="♻️未匹配频道",FIFA+ French (720p)
+http://10.0.0.66:8080/hls/86f46cbe8737a59ee5a299b3.m3u8
+#EXTINF:-1 tvg-id="FIFA+ German (720p)" tvg-name="FIFA+ German (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="♻️未匹配频道",FIFA+ German (720p)
+http://10.0.0.66:8080/hls/a44702d15add432259300372.m3u8
+#EXTINF:-1 tvg-id="FIFA+ Hispanic America (720p)" tvg-name="FIFA+ Hispanic America (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="♻️未匹配频道",FIFA+ Hispanic America (720p)
+http://10.0.0.66:8080/hls/69d3b6d9fac1c0a9ffff252b.m3u8
+#EXTINF:-1 tvg-id="FIFA+ Italy (720p)" tvg-name="FIFA+ Italy (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="♻️未匹配频道",FIFA+ Italy (720p)
+http://10.0.0.66:8080/hls/1dc53620642343bbd96a3b8a.m3u8
+#EXTINF:-1 tvg-id="FIFA+ Portuguese (720p)" tvg-name="FIFA+ Portuguese (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="♻️未匹配频道",FIFA+ Portuguese (720p)
+http://10.0.0.66:8080/hls/104df851db4ff40ffe764758.m3u8
+#EXTINF:-1 tvg-id="FIFA+ Spain (720p)" tvg-name="FIFA+ Spain (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="♻️未匹配频道",FIFA+ Spain (720p)
+http://10.0.0.66:8080/hls/50bc8e48425cbcd9db10799a.m3u8
+#EXTINF:-1 tvg-id="FIFA+ United States (720p)" tvg-name="FIFA+ United States (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="♻️未匹配频道",FIFA+ United States (720p)
+http://10.0.0.66:8080/hls/d5131605c1860c2434d0584c.m3u8
+#EXTINF:-1 tvg-id="FIFA+ Women (720p)" tvg-name="FIFA+ Women (720p)" tvg-logo="https://i.imgur.com/xy9ZxVO.png" group-title="♻️未匹配频道",FIFA+ Women (720p)
+http://10.0.0.66:8080/hls/84cd7057c032fb4950be181e.m3u8
+#EXTINF:-1 tvg-id="Fight Network (1080p)" tvg-name="Fight Network (1080p)" tvg-logo="https://i.imgur.com/vlKPZHR.png" group-title="♻️未匹配频道",Fight Network (1080p)
+http://10.0.0.66:8080/hls/1a0c8c9d27a379aa079d8a91.m3u8
+#EXTINF:-1 tvg-id="FightBox" tvg-name="FightBox" tvg-logo="https://i.imgur.com/mRsnztA.png" group-title="♻️未匹配频道",FightBox
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://10.0.0.66:8080/hls/0fa404f717dd9baceeeb7b57.m3u8
+#EXTINF:-1 tvg-id="FITE 24/7 (1080p)" tvg-name="FITE 24/7 (1080p)" tvg-logo="https://i.imgur.com/ESV6qgH.png" group-title="♻️未匹配频道",FITE 24/7 (1080p)
+http://10.0.0.66:8080/hls/a110357441c53b1ae9aa587e.m3u8
+#EXTINF:-1 tvg-id="FloHockey 24/7 (1080p)" tvg-name="FloHockey 24/7 (1080p)" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-dark/flohockey-white.png" group-title="♻️未匹配频道",FloHockey 24/7 (1080p)
+http://10.0.0.66:8080/hls/e9953b203531a9029f2a9706.m3u8
+#EXTINF:-1 tvg-id="FloRacing 24/7 (1080p)" tvg-name="FloRacing 24/7 (1080p)" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-dark/floracing-white.png" group-title="♻️未匹配频道",FloRacing 24/7 (1080p)
+http://10.0.0.66:8080/hls/19d1113206f5b0ebd7c8d77e.m3u8
+#EXTINF:-1 tvg-id="Foot+" tvg-name="Foot+" tvg-logo="https://i.imgur.com/qsLLyn4.png" group-title="♻️未匹配频道",Foot+
+http://10.0.0.66:8080/hls/7f13fdbe9a8d1d247b547f5b.m3u8
+#EXTINF:-1 tvg-id="Fox Deportes (720p)" tvg-name="Fox Deportes (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/960px-FOX_Deportes_logo.png" group-title="♻️未匹配频道",Fox Deportes (720p)
+http://10.0.0.66:8080/hls/c2df3d1fd2251812d40a2b02.m3u8
+#EXTINF:-1 tvg-id="Fox Sports (720p) [Not 24/7]" tvg-name="Fox Sports (720p) [Not 24/7]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png" group-title="♻️未匹配频道",Fox Sports (720p) [Not 24/7]
+http://10.0.0.66:8080/hls/fad797f36b4c88e253e6cbae.m3u8
+#EXTINF:-1 tvg-id="Fox Sports 1 (720p)" tvg-name="Fox Sports 1 (720p)" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="♻️未匹配频道",Fox Sports 1 (720p)
+http://10.0.0.66:8080/hls/9b4d0c923262b9ae90c62c7a.m3u8
+#EXTINF:-1 tvg-id="Fox Sports 2 (720p)" tvg-name="Fox Sports 2 (720p)" tvg-logo="https://i.imgur.com/LHtxKI8.png" group-title="♻️未匹配频道",Fox Sports 2 (720p)
+http://10.0.0.66:8080/hls/043d37a0c813161b7db9b39c.m3u8
+#EXTINF:-1 tvg-id="FTF Sports (720p)" tvg-name="FTF Sports (720p)" tvg-logo="https://i.imgur.com/yvUjOI3.png" group-title="♻️未匹配频道",FTF Sports (720p)
+http://10.0.0.66:8080/hls/73c82a189b8b9e6dac9915f9.m3u8
+#EXTINF:-1 tvg-id="FTV (720p)" tvg-name="FTV (720p)" tvg-logo="https://i.imgur.com/YOr1Oac.png" group-title="♻️未匹配频道",FTV (720p)
+http://10.0.0.66:8080/hls/fb56ecb5c3955cffba3085d4.m3u8
+#EXTINF:-1 tvg-id="fubo Sports Network (1080p)" tvg-name="fubo Sports Network (1080p)" tvg-logo="https://i.imgur.com/qFNRJLb.png" group-title="♻️未匹配频道",fubo Sports Network (1080p)
+http://10.0.0.66:8080/hls/fb23a99bd1fd9c83ff9d5bf1.m3u8
+#EXTINF:-1 tvg-id="Fuel TV (1080p)" tvg-name="Fuel TV (1080p)" tvg-logo="https://i.imgur.com/I8mviBy.png" group-title="♻️未匹配频道",Fuel TV (1080p)
+http://10.0.0.66:8080/hls/a82f3644dd16a03a14f79abe.m3u8
+#EXTINF:-1 tvg-id="Fuel TV (1080p)" tvg-name="Fuel TV (1080p)" tvg-logo="https://i.imgur.com/I8mviBy.png" group-title="♻️未匹配频道",Fuel TV (1080p)
+http://10.0.0.66:8080/hls/e3c38b072567216c4d117fd2.m3u8
+#EXTINF:-1 tvg-id="FUEL TV (1080p)" tvg-name="FUEL TV (1080p)" tvg-logo="https://i.imgur.com/I8mviBy.png" group-title="♻️未匹配频道",FUEL TV (1080p)
+http://10.0.0.66:8080/hls/0389b1dc739c93078cc973d0.m3u8
+#EXTINF:-1 tvg-id="Fuel TV (1080p) [Geo-blocked]" tvg-name="Fuel TV (1080p) [Geo-blocked]" tvg-logo="https://i.imgur.com/I8mviBy.png" group-title="♻️未匹配频道",Fuel TV (1080p) [Geo-blocked]
+http://10.0.0.66:8080/hls/d99a2e9bba126ab858466e92.m3u8
+#EXTINF:-1 tvg-id="Futbol (1080p)" tvg-name="Futbol (1080p)" tvg-logo="https://i.imgur.com/RngmCDn.png" group-title="♻️未匹配频道",Futbol (1080p)
+http://10.0.0.66:8080/hls/d0c78adb920775a755f29892.m3u8
+#EXTINF:-1 tvg-id="Futbol TV (1080p)" tvg-name="Futbol TV (1080p)" tvg-logo="https://i.ibb.co/h1gQSkbB/Futbol-TV.png" group-title="♻️未匹配频道",Futbol TV (1080p)
+http://10.0.0.66:8080/hls/877abe16cc2ac00e52f5f1b9.m3u8
+#EXTINF:-1 tvg-id="FUTV" tvg-name="FUTV" tvg-logo="https://i.imgur.com/f8BkLql.png" group-title="♻️未匹配频道",FUTV
+http://10.0.0.66:8080/hls/1fceaacf76ead2183e92869e.m3u8
+#EXTINF:-1 tvg-id="Game+ (720p)" tvg-name="Game+ (720p)" tvg-logo="https://i.imgur.com/Lj69WbR.png" group-title="♻️未匹配频道",Game+ (720p)
+http://10.0.0.66:8080/hls/5f2c34e65d2f4be44dd2b8ef.m3u8
+#EXTINF:-1 tvg-id="ge Fast (1080p)" tvg-name="ge Fast (1080p)" tvg-logo="https://i.ibb.co/WGXHDnF/logo-ge-fast.png" group-title="♻️未匹配频道",ge Fast (1080p)
+http://10.0.0.66:8080/hls/e4711d66927cca66ca1797f8.m3u8
+#EXTINF:-1 tvg-id="GEM Fit" tvg-name="GEM Fit" tvg-logo="https://i.imgur.com/7FQxaII.png" group-title="♻️未匹配频道",GEM Fit
+http://10.0.0.66:8080/hls/e5d0ab3eead00dc1815455f1.m3u8
+#EXTINF:-1 tvg-id="GEM Sport" tvg-name="GEM Sport" tvg-logo="https://www.gemgroup.tv/assets/images/channels/icon_34.png" group-title="♻️未匹配频道",GEM Sport
+http://10.0.0.66:8080/hls/db53b2da0ed7582c13892c3f.m3u8
+#EXTINF:-1 tvg-id="GLORY Kickboxing (720p)" tvg-name="GLORY Kickboxing (720p)" tvg-logo="https://i.imgur.com/tS7Ub7i.png" group-title="♻️未匹配频道",GLORY Kickboxing (720p)
+http://10.0.0.66:8080/hls/212e3b940caf18d6ea256498.m3u8
+#EXTINF:-1 tvg-id="Go3 Sport 1 (1080p)" tvg-name="Go3 Sport 1 (1080p)" tvg-logo="https://i.imgur.com/0eZa0qh.png" group-title="♻️未匹配频道",Go3 Sport 1 (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://10.0.0.66:8080/hls/edf016326278b70f5b1fe0a6.m3u8
+#EXTINF:-1 tvg-id="Golazo Network (720p)" tvg-name="Golazo Network (720p)" tvg-logo="https://images.pluto.tv/channels/63a0e33a45264d000850ed7e/colorLogoPNG_1731835813404.png" group-title="♻️未匹配频道",Golazo Network (720p)
+http://10.0.0.66:8080/hls/6f2f88657a0f76114b68061c.m3u8
+#EXTINF:-1 tvg-id="Golf Channel" tvg-name="Golf Channel" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/golfchannel.png" group-title="♻️未匹配频道",Golf Channel
+http://10.0.0.66:8080/hls/3887f5fff6c9718c7e163429.m3u8
+#EXTINF:-1 tvg-id="Golf Channel (1080p) [Geo-blocked]" tvg-name="Golf Channel (1080p) [Geo-blocked]" tvg-logo="https://i.imgur.com/Lgux6Ik.png" group-title="♻️未匹配频道",Golf Channel (1080p) [Geo-blocked]
+http://10.0.0.66:8080/hls/de5de243f431a1c6fd1d8032.m3u8
+#EXTINF:-1 tvg-id="Golf Channel Latin America (1080p)" tvg-name="Golf Channel Latin America (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Golf_Channel_Logo_2018.png/960px-Golf_Channel_Logo_2018.png" group-title="♻️未匹配频道",Golf Channel Latin America (1080p)
+http://10.0.0.66:8080/hls/ace4a309a7e9f6b312ea1559.m3u8
+#EXTINF:-1 tvg-id="GolTV Latin America (720p)" tvg-name="GolTV Latin America (720p)" tvg-logo="https://i.imgur.com/pypul3s.png" group-title="♻️未匹配频道",GolTV Latin America (720p)
+http://10.0.0.66:8080/hls/b18c56a12be6163ecfad2110.m3u8
+#EXTINF:-1 tvg-id="Hard Knocks (1080p)" tvg-name="Hard Knocks (1080p)" tvg-logo="https://i.imgur.com/nt9B6jx.png" group-title="♻️未匹配频道",Hard Knocks (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://10.0.0.66:8080/hls/96e216cbc7f7549743c83e9b.m3u8
+#EXTINF:-1 tvg-id="Horse TV (720p)" tvg-name="Horse TV (720p)" tvg-logo="https://i.imgur.com/nK4UUX4.png" group-title="♻️未匹配频道",Horse TV (720p)
+http://10.0.0.66:8080/hls/8e497668173a8406dda56410.m3u8
+#EXTINF:-1 tvg-id="HTSpor TV (1080p)" tvg-name="HTSpor TV (1080p)" tvg-logo="https://www.htspor.com/images/manifest/social-share-logo.png" group-title="♻️未匹配频道",HTSpor TV (1080p)
+http://10.0.0.66:8080/hls/0032cdddc7f2333b273b03ca.m3u8
+#EXTINF:-1 tvg-id="HTV Thể thao (1080p) [Geo-blocked]" tvg-name="HTV Thể thao (1080p) [Geo-blocked]" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/3/3f/HTV_THETHAO_2014.png" group-title="♻️未匹配频道",HTV Thể thao (1080p) [Geo-blocked]
+http://10.0.0.66:8080/hls/09f9edb62f72eff625e8cd0c.m3u8
+#EXTINF:-1 tvg-id="INTROUBLE (1080p)" tvg-name="INTROUBLE (1080p)" tvg-logo="https://i.imgur.com/a40chFI.png" group-title="♻️未匹配频道",INTROUBLE (1080p)
+http://10.0.0.66:8080/hls/0a2960fe10ae39f52a421d4d.m3u8
+#EXTINF:-1 tvg-id="IRIB3" tvg-name="IRIB3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/IRIB_TV3_LOGO.svg/960px-IRIB_TV3_LOGO.svg.png" group-title="♻️未匹配频道",IRIB3
+http://10.0.0.66:8080/hls/af6fbfa7fa54e4808a0cfbf4.m3u8
+#EXTINF:-1 tvg-id="ITV Deportes (720p)" tvg-name="ITV Deportes (720p)" tvg-logo="https://iili.io/J1kV1Bn.png" group-title="♻️未匹配频道",ITV Deportes (720p)
+http://10.0.0.66:8080/hls/fc0579478bf481a7bdb893f7.m3u8
+#EXTINF:-1 tvg-id="Jordan Sport (1080p)" tvg-name="Jordan Sport (1080p)" tvg-logo="https://i.imgur.com/2EmrZPQ.png" group-title="♻️未匹配频道",Jordan Sport (1080p)
+http://10.0.0.66:8080/hls/b4b826e021447aca463222d5.m3u8
+#EXTINF:-1 tvg-id="K19" tvg-name="K19" tvg-logo="https://i.imgur.com/l4atkvs.png" group-title="♻️未匹配频道",K19
+http://10.0.0.66:8080/hls/a156733622aef512501be02c.m3u8
+#EXTINF:-1 tvg-id="KHL (720p)" tvg-name="KHL (720p)" tvg-logo="https://i.imgur.com/RgdHdOV.png" group-title="♻️未匹配频道",KHL (720p)
+http://10.0.0.66:8080/hls/fd8e0c14229715b3ba016dae.m3u8
+#EXTINF:-1 tvg-id="KHL Prime (1080p)" tvg-name="KHL Prime (1080p)" tvg-logo="https://i.imgur.com/pwxT0ON.png" group-title="♻️未匹配频道",KHL Prime (1080p)
+http://10.0.0.66:8080/hls/d1d24f181f78e41854dbdc58.m3u8
+#EXTINF:-1 tvg-id="Kozoom TV (1080p)" tvg-name="Kozoom TV (1080p)" tvg-logo="https://i.imgur.com/M1Ee79b.png" group-title="♻️未匹配频道",Kozoom TV (1080p)
+http://10.0.0.66:8080/hls/93183fa80f9b673dc1858169.m3u8
+#EXTINF:-1 tvg-id="KTV Sport (1080p)" tvg-name="KTV Sport (1080p)" tvg-logo="https://i.imgur.com/R1hGX1d.png" group-title="♻️未匹配频道",KTV Sport (1080p)
+http://10.0.0.66:8080/hls/65717476368555c041be79ed.m3u8
+#EXTINF:-1 tvg-id="KTV Sport Plus (1080p)" tvg-name="KTV Sport Plus (1080p)" tvg-logo="https://i.imgur.com/l4oX0gf.png" group-title="♻️未匹配频道",KTV Sport Plus (1080p)
+http://10.0.0.66:8080/hls/156b70f68f87a59462853d2d.m3u8
+#EXTINF:-1 tvg-id="L1 (1080p)" tvg-name="L1 (1080p)" tvg-logo="https://i.imgur.com/eRmXneK.png" group-title="♻️未匹配频道",L1 (1080p)
+http://10.0.0.66:8080/hls/ce81abd9283348b77c269915.m3u8
+#EXTINF:-1 tvg-id="L1 Max (1080p)" tvg-name="L1 Max (1080p)" tvg-logo="https://i.imgur.com/2fziU2B.png" group-title="♻️未匹配频道",L1 Max (1080p)
+http://10.0.0.66:8080/hls/db7a830191c6ac1dbb79bfbe.m3u8
+#EXTINF:-1 tvg-id="Lacrosse TV (720p)" tvg-name="Lacrosse TV (720p)" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m_xSJFydxZ9QBU-85OuchjmzS0Bo0_Tukmk7to8hBfyl8=s512-c-k-c0x00ffffff-no-rj" group-title="♻️未匹配频道",Lacrosse TV (720p)
+http://10.0.0.66:8080/hls/0da47b484f717ed509df3203.m3u8
+#EXTINF:-1 tvg-id="Liga de Campeones por Movistar Plus+" tvg-name="Liga de Campeones por Movistar Plus+" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Liga de Campeones por Movistar Plus+.png" group-title="♻️未匹配频道",Liga de Campeones por Movistar Plus+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://10.0.0.66:8080/hls/28ce71ea30112cb0ba397153.m3u8
+#EXTINF:-1 tvg-id="Lóverseny közvetítés (420p)" tvg-name="Lóverseny közvetítés (420p)" tvg-logo="https://i.imgur.com/IGajR6G.png" group-title="♻️未匹配频道",Lóverseny közvetítés (420p)
+http://10.0.0.66:8080/hls/fd70fa923f29b52c4e5ef1dd.m3u8
+#EXTINF:-1 tvg-id="LRT Plius (1080p)" tvg-name="LRT Plius (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/LRT_Plius_Logo_2022.svg/960px-LRT_Plius_Logo_2022.svg.png" group-title="♻️未匹配频道",LRT Plius (1080p)
+http://10.0.0.66:8080/hls/ce1e86cfacbcb5d193a04663.m3u8
+#EXTINF:-1 tvg-id="M4 Sport" tvg-name="M4 Sport" tvg-logo="https://i.imgur.com/TQ4uJZk.png" group-title="♻️未匹配频道",M4 Sport
+http://10.0.0.66:8080/hls/50c120c137b6bae8e50dc71b.m3u8
+#EXTINF:-1 tvg-id="M Sports (1080p)" tvg-name="M Sports (1080p)" tvg-logo="https://msports.pk/wp-content/uploads/2026/02/m-sports-300.png" group-title="♻️未匹配频道",M Sports (1080p)
+http://10.0.0.66:8080/hls/1596ef37e7e2e4e9722823ca.m3u8
+#EXTINF:-1 tvg-id="M-Net Sport (720p)" tvg-name="M-Net Sport (720p)" tvg-logo="https://i.imgur.com/7k8ar1Z.png" group-title="♻️未匹配频道",M-Net Sport (720p)
+http://10.0.0.66:8080/hls/d295e83444494853842ddf6e.m3u8
+#EXTINF:-1 tvg-id="MadeinBO TV (1080p)" tvg-name="MadeinBO TV (1080p)" tvg-logo="https://i.imgur.com/47X44DD.png" group-title="♻️未匹配频道",MadeinBO TV (1080p)
+http://10.0.0.66:8080/hls/d5354bdec4e3239ebaf45e49.m3u8
+#EXTINF:-1 tvg-id="Maincast Cybersport (1080p)" tvg-name="Maincast Cybersport (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Maincast_%28HD_Logo%29_2024.png" group-title="♻️未匹配频道",Maincast Cybersport (1080p)
+http://10.0.0.66:8080/hls/1ca0a56549864753a15f542b.m3u8
+#EXTINF:-1 tvg-id="Maincast Sport (1080p)" tvg-name="Maincast Sport (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Maincast_%28HD_Logo%29_2024.png" group-title="♻️未匹配频道",Maincast Sport (1080p)
+http://10.0.0.66:8080/hls/ff2d5d13c0668c5157c9f8af.m3u8
+#EXTINF:-1 tvg-id="Match! Boets (576p)" tvg-name="Match! Boets (576p)" tvg-logo="https://i.imgur.com/DogOkA4.png" group-title="♻️未匹配频道",Match! Boets (576p)
+http://10.0.0.66:8080/hls/0a7f6674c1889b7154b7d31a.m3u8
+#EXTINF:-1 tvg-id="Match! Strana (720p)" tvg-name="Match! Strana (720p)" tvg-logo="https://i.imgur.com/X02s2UE.png" group-title="♻️未匹配频道",Match! Strana (720p)
+http://10.0.0.66:8080/hls/f72d0f3c007b1eb22fed4471.m3u8
+#EXTINF:-1 tvg-id="Match! Ultra (720p)" tvg-name="Match! Ultra (720p)" tvg-logo="https://www.kartina.tv/media/news/images/News/SEO/kanal-match-ultra.jpg" group-title="♻️未匹配频道",Match! Ultra (720p)
+http://10.0.0.66:8080/hls/752b11bba6f2b7a0d5139fe9.m3u8
+#EXTINF:-1 tvg-id="Max Sport 1 (720p)" tvg-name="Max Sport 1 (720p)" tvg-logo="https://i.imgur.com/0ohnpql.png" group-title="♻️未匹配频道",Max Sport 1 (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://10.0.0.66:8080/hls/ae544e0e9055bacd69d4dcac.m3u8
+#EXTINF:-1 tvg-id="Max Sport 2 (720p)" tvg-name="Max Sport 2 (720p)" tvg-logo="https://i.imgur.com/33m1wPN.png" group-title="♻️未匹配频道",Max Sport 2 (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://10.0.0.66:8080/hls/47efd906d72fc2dfcd8dcd93.m3u8
+#EXTINF:-1 tvg-id="Max Sport 3 (720p)" tvg-name="Max Sport 3 (720p)" tvg-logo="https://i.imgur.com/eGiGgZ2.png" group-title="♻️未匹配频道",Max Sport 3 (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://10.0.0.66:8080/hls/79d7ac4105667237b2b07462.m3u8
+#EXTINF:-1 tvg-id="Max Sport 4" tvg-name="Max Sport 4" tvg-logo="https://i.imgur.com/7IxXX6f.png" group-title="♻️未匹配频道",Max Sport 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://10.0.0.66:8080/hls/57cb846e54f82a691958012e.m3u8
+#EXTINF:-1 tvg-id="Meridiano TV (576p)" tvg-name="Meridiano TV (576p)" tvg-logo="https://i.imgur.com/I6gsUqD.png" group-title="♻️未匹配频道",Meridiano TV (576p)
+http://10.0.0.66:8080/hls/0bd895d6ffadd05d7ae9fc5c.m3u8
+#EXTINF:-1 tvg-id="MLB Channel (1080p) [Geo-blocked]" tvg-name="MLB Channel (1080p) [Geo-blocked]" tvg-logo="https://i.imgur.com/ym3su2J.png" group-title="♻️未匹配频道",MLB Channel (1080p) [Geo-blocked]
+http://10.0.0.66:8080/hls/49ab5ed00ed8e87a621eb901.m3u8
+#EXTINF:-1 tvg-id="MLB Network (1080p) [Geo-blocked]" tvg-name="MLB Network (1080p) [Geo-blocked]" tvg-logo="https://i.imgur.com/sA5V39D.png" group-title="♻️未匹配频道",MLB Network (1080p) [Geo-blocked]
+http://10.0.0.66:8080/hls/e7ff637353088eda0a33b656.m3u8
+#EXTINF:-1 tvg-id="MLB Strike Zone (720p)" tvg-name="MLB Strike Zone (720p)" tvg-logo="https://i.imgur.com/uMI1ySO.png" group-title="♻️未匹配频道",MLB Strike Zone (720p)
+http://10.0.0.66:8080/hls/1e614881e91b46badcd5b572.m3u8
+#EXTINF:-1 tvg-id="MNB Sport (1080p)" tvg-name="MNB Sport (1080p)" tvg-logo="https://i.imgur.com/z854PC3.png" group-title="♻️未匹配频道",MNB Sport (1080p)
+http://10.0.0.66:8080/hls/96c7274617b76a8bbce62031.m3u8
+#EXTINF:-1 tvg-id="Monster Jam (720p)" tvg-name="Monster Jam (720p)" tvg-logo="https://provider-static.plex.tv/epg/cms/production/23824964-562b-4498-9eaa-d6262cb7e0c3/Monster_Jam_Logo_on_Transparent_1500x1000_Casey_Murawski.png" group-title="♻️未匹配频道",Monster Jam (720p)
+http://10.0.0.66:8080/hls/9817bfd88e8e547b99a1ac4f.m3u8
+#EXTINF:-1 tvg-id="Monterrico TV" tvg-name="Monterrico TV" tvg-logo="https://i.imgur.com/SuVO9T7.png" group-title="♻️未匹配频道",Monterrico TV
+http://10.0.0.66:8080/hls/c0cab4f8dde1f373257b47d1.m3u8
+#EXTINF:-1 tvg-id="More Than Sports TV (1080p)" tvg-name="More Than Sports TV (1080p)" tvg-logo="https://i.imgur.com/SLrjImc.png" group-title="♻️未匹配频道",More Than Sports TV (1080p)
+http://10.0.0.66:8080/hls/f81fcb14d26c0c76e8b3da57.m3u8
+#EXTINF:-1 tvg-id="Movistar Deportes (1080p)" tvg-name="Movistar Deportes (1080p)" tvg-logo="https://i.imgur.com/Zt3iE86.png" group-title="♻️未匹配频道",Movistar Deportes (1080p)
+http://10.0.0.66:8080/hls/8fca7bd346b0a8cf7f54c8d2.m3u8
+#EXTINF:-1 tvg-id="MSG (720p)" tvg-name="MSG (720p)" tvg-logo="https://i.imgur.com/SEQFh0P.png" group-title="♻️未匹配频道",MSG (720p)
+http://10.0.0.66:8080/hls/cb7f215a82a0fb27e11ccbb7.m3u8
+#EXTINF:-1 tvg-id="MSG Plus (720p)" tvg-name="MSG Plus (720p)" tvg-logo="https://i.imgur.com/7suDpSK.png" group-title="♻️未匹配频道",MSG Plus (720p)
+http://10.0.0.66:8080/hls/481c52a831d76d7ae498df45.m3u8
+#EXTINF:-1 tvg-id="Multivisión Sports (720p) [Not 24/7]" tvg-name="Multivisión Sports (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/wLjSSo2.jpg" group-title="♻️未匹配频道",Multivisión Sports (720p) [Not 24/7]
+http://10.0.0.66:8080/hls/335afa1e03d4624ac67d70e2.m3u8
+#EXTINF:-1 tvg-id="MUTV (720p)" tvg-name="MUTV (720p)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1834.png" group-title="♻️未匹配频道",MUTV (720p)
+http://10.0.0.66:8080/hls/05c5986794e791426e806a4b.m3u8
+#EXTINF:-1 tvg-id="N Sports (1080p)" tvg-name="N Sports (1080p)" tvg-logo="https://i.imgur.com/7QnJojr.png" group-title="♻️未匹配频道",N Sports (1080p)
+http://10.0.0.66:8080/hls/06f0f96d3f67d37fe267843a.m3u8
+#EXTINF:-1 tvg-id="Nautical Channel (720p)" tvg-name="Nautical Channel (720p)" tvg-logo="https://i.imgur.com/2ByDyzL.png" group-title="♻️未匹配频道",Nautical Channel (720p)
+http://10.0.0.66:8080/hls/1309d9f952e8ad42585a4792.m3u8
+#EXTINF:-1 tvg-id="NBC Sports Bay Area (1080p) [Geo-blocked]" tvg-name="NBC Sports Bay Area (1080p) [Geo-blocked]" tvg-logo="https://i.imgur.com/MTgUVKx.png" group-title="♻️未匹配频道",NBC Sports Bay Area (1080p) [Geo-blocked]
+http://10.0.0.66:8080/hls/27099088603e83e609f1405c.m3u8
+#EXTINF:-1 tvg-id="NBC Sports NOW (1080p)" tvg-name="NBC Sports NOW (1080p)" tvg-logo="https://i.imgur.com/EzNf2Yx.png" group-title="♻️未匹配频道",NBC Sports NOW (1080p)
+http://10.0.0.66:8080/hls/396e764823724607b459e4c0.m3u8
+#EXTINF:-1 tvg-id="NBC Sports Philadelphia (1080p) [Geo-blocked]" tvg-name="NBC Sports Philadelphia (1080p) [Geo-blocked]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/NBC_Sports_Philadelphia.png/960px-NBC_Sports_Philadelphia.png" group-title="♻️未匹配频道",NBC Sports Philadelphia (1080p) [Geo-blocked]
+http://10.0.0.66:8080/hls/8fcf60013f45768baf5e9109.m3u8
+#EXTINF:-1 tvg-id="NESN (720p)" tvg-name="NESN (720p)" tvg-logo="https://i.imgur.com/Lv1bUG5.png" group-title="♻️未匹配频道",NESN (720p)
+http://10.0.0.66:8080/hls/bda99c975b153b15eae788c4.m3u8
+#EXTINF:-1 tvg-id="NHL Network (1080p)" tvg-name="NHL Network (1080p)" tvg-logo="https://i.imgur.com/UNZ8bef.png" group-title="♻️未匹配频道",NHL Network (1080p)
+http://10.0.0.66:8080/hls/d32ecb710d6d307428dac26a.m3u8
+#EXTINF:-1 tvg-id="NHRA TV (1080p)" tvg-name="NHRA TV (1080p)" tvg-logo="https://i.imgur.com/jZgcm4k.png" group-title="♻️未匹配频道",NHRA TV (1080p)
+http://10.0.0.66:8080/hls/d9e2253fb561e96a9d56a560.m3u8
+#EXTINF:-1 tvg-id="Okko Futbol (1080p)" tvg-name="Okko Futbol (1080p)" tvg-logo="https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/8986.png" group-title="♻️未匹配频道",Okko Futbol (1080p)
+http://10.0.0.66:8080/hls/45dedd04db1d8ab9056aa389.m3u8
+#EXTINF:-1 tvg-id="Okko Prajm Sport (1080p)" tvg-name="Okko Prajm Sport (1080p)" tvg-logo="https://i.imgur.com/kQq5DMU.png" group-title="♻️未匹配频道",Okko Prajm Sport (1080p)
+http://10.0.0.66:8080/hls/e93f5f0c2a7139cd772fdf54.m3u8
+#EXTINF:-1 tvg-id="Okko Sport (1080p)" tvg-name="Okko Sport (1080p)" tvg-logo="https://i.imgur.com/SYOaOQc.png" group-title="♻️未匹配频道",Okko Sport (1080p)
+http://10.0.0.66:8080/hls/ed2b34ab6069e1a0a0a74dee.m3u8
+#EXTINF:-1 tvg-id="Olympics Channel (1080p) [Geo-blocked]" tvg-name="Olympics Channel (1080p) [Geo-blocked]" tvg-logo="https://i.imgur.com/wPQVVtj.png" group-title="♻️未匹配频道",Olympics Channel (1080p) [Geo-blocked]
+http://10.0.0.66:8080/hls/c0228f2599faf87febcbf2bf.m3u8
+#EXTINF:-1 tvg-id="Oman Sports TV (1080p) [Not 24/7]" tvg-name="Oman Sports TV (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/1omi7p8.png" group-title="♻️未匹配频道",Oman Sports TV (1080p) [Not 24/7]
+http://10.0.0.66:8080/hls/22575bc34bd2b3e35cacd994.m3u8
+#EXTINF:-1 tvg-id="One Golf (720p)" tvg-name="One Golf (720p)" tvg-logo="https://i.imgur.com/7JhaEW5.png" group-title="♻️未匹配频道",One Golf (720p)
+http://10.0.0.66:8080/hls/fbb4309ad169fcd3ea182a28.m3u8
+#EXTINF:-1 tvg-id="Ovacion TV (720p) [Not 24/7]" tvg-name="Ovacion TV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/7Xndgxk.png" group-title="♻️未匹配频道",Ovacion TV (720p) [Not 24/7]
+http://10.0.0.66:8080/hls/5ee025d7ed865bba79ee5831.m3u8
+#EXTINF:-1 tvg-id="Overtime (1080p)" tvg-name="Overtime (1080p)" tvg-logo="https://i.imgur.com/9S9k4IK.png" group-title="♻️未匹配频道",Overtime (1080p)
+http://10.0.0.66:8080/hls/17ebff125fad2ebb056a5eb8.m3u8
+#EXTINF:-1 tvg-id="Pac 12 Insider (1080p)" tvg-name="Pac 12 Insider (1080p)" tvg-logo="https://i.imgur.com/736QREy.png" group-title="♻️未匹配频道",Pac 12 Insider (1080p)
+http://10.0.0.66:8080/hls/a4700f00a60078204493007a.m3u8
+#EXTINF:-1 tvg-id="PBR RidePass (720p)" tvg-name="PBR RidePass (720p)" tvg-logo="https://i.imgur.com/gUxH97E.png" group-title="♻️未匹配频道",PBR RidePass (720p)
+http://10.0.0.66:8080/hls/7d15d1b6b25c2bd6aa0e2c07.m3u8
+#EXTINF:-1 tvg-id="Persiana Fight" tvg-name="Persiana Fight" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Persiana Fight.png" group-title="♻️未匹配频道",Persiana Fight
+http://10.0.0.66:8080/hls/c417540725f9a309e7deaaa0.m3u8
+#EXTINF:-1 tvg-id="PGA Tour (1080p)" tvg-name="PGA Tour (1080p)" tvg-logo="https://i.imgur.com/J0TY9dG.png" group-title="♻️未匹配频道",PGA Tour (1080p)
+http://10.0.0.66:8080/hls/a98e3a3f9771bc22fb3cebcb.m3u8
+#EXTINF:-1 tvg-id="PK Sports (720p)" tvg-name="PK Sports (720p)" tvg-logo="https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/PK%20Sports.jpeg" group-title="♻️未匹配频道",PK Sports (720p)
+http://10.0.0.66:8080/hls/402ef7002d1b74bcb85f5369.m3u8
+#EXTINF:-1 tvg-id="Pluto TV Competition" tvg-name="Pluto TV Competition" tvg-logo="https://images.pluto.tv/channels/603fde9026ecbf0007752c2c/colorLogoPNG.png" group-title="♻️未匹配频道",Pluto TV Competition
+http://10.0.0.66:8080/hls/43a41f7a828f6733cc663d27.m3u8
+#EXTINF:-1 tvg-id="Pluto TV Deportes" tvg-name="Pluto TV Deportes" tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG_1766080575034.png" group-title="♻️未匹配频道",Pluto TV Deportes
+http://10.0.0.66:8080/hls/2becc3245c8688679c3eeb86.m3u8
+#EXTINF:-1 tvg-id="Pluto TV E-Sports" tvg-name="Pluto TV E-Sports" tvg-logo="https://images.pluto.tv/channels/5ff3934600d4c7000733ff49/colorLogoPNG.png" group-title="♻️未匹配频道",Pluto TV E-Sports
+http://10.0.0.66:8080/hls/1cb731d40eda29034176589e.m3u8
+#EXTINF:-1 tvg-id="Pluto TV Esportes" tvg-name="Pluto TV Esportes" tvg-logo="https://images.pluto.tv/channels/5f32d2db0af67400077f29c4/colorLogoSVG_1780355759776.svg" group-title="♻️未匹配频道",Pluto TV Esportes
+http://10.0.0.66:8080/hls/4699f929452ac5b132779315.m3u8
+#EXTINF:-1 tvg-id="Pluto TV Fishing" tvg-name="Pluto TV Fishing" tvg-logo="https://images.pluto.tv/channels/619e1874e0d3a7000729a036/colorLogoPNG.png" group-title="♻️未匹配频道",Pluto TV Fishing
+http://10.0.0.66:8080/hls/742a91e619a7ccaf72519d0d.m3u8
+#EXTINF:-1 tvg-id="Pluto TV Håndbold Highlights" tvg-name="Pluto TV Håndbold Highlights" tvg-logo="https://images.pluto.tv/channels/68dfa431cc3c6cd904053100/colorLogoPNG_1761838112979.png" group-title="♻️未匹配频道",Pluto TV Håndbold Highlights
+http://10.0.0.66:8080/hls/8c67cfe85cd78975310c6717.m3u8
+#EXTINF:-1 tvg-id="Pluto TV Håndbold Live" tvg-name="Pluto TV Håndbold Live" tvg-logo="https://images.pluto.tv/channels/6618f54baec96800081525ec/colorLogoPNG_1762173655031.png" group-title="♻️未匹配频道",Pluto TV Håndbold Live
+http://10.0.0.66:8080/hls/b1f6bb7760c07387a0267b5f.m3u8
+#EXTINF:-1 tvg-id="Pluto TV Handboll Highlights" tvg-name="Pluto TV Handboll Highlights" tvg-logo="https://images.pluto.tv/channels/68dfa3e2cc3c6cd904052c41/colorLogoPNG_1761838923264.png" group-title="♻️未匹配频道",Pluto TV Handboll Highlights
+http://10.0.0.66:8080/hls/f9ad1e84a966e5a6f49d1c12.m3u8
+#EXTINF:-1 tvg-id="Pluto TV Handboll Live" tvg-name="Pluto TV Handboll Live" tvg-logo="https://images.pluto.tv/channels/686faf533ffa5e0c912688e7/colorLogoPNG_1762169254016.png" group-title="♻️未匹配频道",Pluto TV Handboll Live
+http://10.0.0.66:8080/hls/9de8b10baa3daf79d03730c4.m3u8
+#EXTINF:-1 tvg-id="Pluto TV Snooker 900 (720p)" tvg-name="Pluto TV Snooker 900 (720p)" tvg-logo="https://images.pluto.tv/channels/68ac5543a1ac0c90f2c8943e/colorLogoPNG_1760517341343.png" group-title="♻️未匹配频道",Pluto TV Snooker 900 (720p)
+http://10.0.0.66:8080/hls/a35b125129844d516ecfe75b.m3u8
+#EXTINF:-1 tvg-id="Pluto TV Snooker 900 (720p)" tvg-name="Pluto TV Snooker 900 (720p)" tvg-logo="https://images.pluto.tv/channels/68ac5543a1ac0c90f2c8943e/colorLogoPNG_1760517341343.png" group-title="♻️未匹配频道",Pluto TV Snooker 900 (720p)
+http://10.0.0.66:8080/hls/22f3ea9e6b633044a5a6e869.m3u8
+#EXTINF:-1 tvg-id="Pluto TV Snooker 900 (720p)" tvg-name="Pluto TV Snooker 900 (720p)" tvg-logo="https://images.pluto.tv/channels/68ac5543a1ac0c90f2c8943e/colorLogoPNG_1760517341343.png" group-title="♻️未匹配频道",Pluto TV Snooker 900 (720p)
+http://10.0.0.66:8080/hls/753156c3de8044c519b05895.m3u8
+#EXTINF:-1 tvg-id="Pluto TV Snooker 900 (720p)" tvg-name="Pluto TV Snooker 900 (720p)" tvg-logo="https://images.pluto.tv/channels/68ac5543a1ac0c90f2c8943e/colorLogoPNG_1760517341343.png" group-title="♻️未匹配频道",Pluto TV Snooker 900 (720p)
+http://10.0.0.66:8080/hls/ee771c785456addbb1b8276f.m3u8
+#EXTINF:-1 tvg-id="Pluto TV Snooker 900 (720p)" tvg-name="Pluto TV Snooker 900 (720p)" tvg-logo="https://images.pluto.tv/channels/68ac5543a1ac0c90f2c8943e/colorLogoPNG_1760517341343.png" group-title="♻️未匹配频道",Pluto TV Snooker 900 (720p)
+http://10.0.0.66:8080/hls/f21088007b2808c8f878ec07.m3u8
+#EXTINF:-1 tvg-id="Pluto TV Snooker 900 (720p)" tvg-name="Pluto TV Snooker 900 (720p)" tvg-logo="https://images.pluto.tv/channels/68ac5543a1ac0c90f2c8943e/colorLogoPNG_1760517341343.png" group-title="♻️未匹配频道",Pluto TV Snooker 900 (720p)
+http://10.0.0.66:8080/hls/85274b178b4f19a98e5f782f.m3u8
+#EXTINF:-1 tvg-id="Pluto TV Snooker 900 (720p)" tvg-name="Pluto TV Snooker 900 (720p)" tvg-logo="https://images.pluto.tv/channels/68ac5543a1ac0c90f2c8943e/colorLogoPNG_1760517341343.png" group-title="♻️未匹配频道",Pluto TV Snooker 900 (720p)
+http://10.0.0.66:8080/hls/b0307b9d8fbef394ead379bb.m3u8
+#EXTINF:-1 tvg-id="Pluto TV Snooker 900 (720p)" tvg-name="Pluto TV Snooker 900 (720p)" tvg-logo="https://images.pluto.tv/channels/68ac5543a1ac0c90f2c8943e/colorLogoPNG_1760517341343.png" group-title="♻️未匹配频道",Pluto TV Snooker 900 (720p)
+http://10.0.0.66:8080/hls/3f31dd5edd82e9fd21cf9694.m3u8
+#EXTINF:-1 tvg-id="Pluto TV Snooker 900" tvg-name="Pluto TV Snooker 900" tvg-logo="https://images.pluto.tv/channels/639b4f75d3d35c0007d37b30/colorLogoPNG_1759333260607.png" group-title="♻️未匹配频道",Pluto TV Snooker 900
+http://10.0.0.66:8080/hls/20b8e4bfe7cd351f0354868a.m3u8
+#EXTINF:-1 tvg-id="Pluto TV Sport" tvg-name="Pluto TV Sport" tvg-logo="https://images.pluto.tv/channels/608030eff4b6f70007e1684c/colorLogoPNG_1746816937164.png" group-title="♻️未匹配频道",Pluto TV Sport
+http://10.0.0.66:8080/hls/537dc8ba83c4cdcb1703b454.m3u8
+#EXTINF:-1 tvg-id="Pluto TV Sport" tvg-name="Pluto TV Sport" tvg-logo="https://images.pluto.tv/channels/6357f3de3643ba0007bc0b50/colorLogoPNG_1746816938506.png" group-title="♻️未匹配频道",Pluto TV Sport
+http://10.0.0.66:8080/hls/99169721c8f0283d5aa00c53.m3u8
+#EXTINF:-1 tvg-id="Pluto TV Sport" tvg-name="Pluto TV Sport" tvg-logo="https://images.pluto.tv/channels/6357f3de3643ba0007bc0b50/colorLogoPNG_1746816938506.png" group-title="♻️未匹配频道",Pluto TV Sport
+http://10.0.0.66:8080/hls/576549f6cee6fc5646e78e82.m3u8
+#EXTINF:-1 tvg-id="Pluto TV Sport" tvg-name="Pluto TV Sport" tvg-logo="https://images.pluto.tv/channels/6357f3de3643ba0007bc0b50/colorLogoPNG_1746816938506.png" group-title="♻️未匹配频道",Pluto TV Sport
+http://10.0.0.66:8080/hls/5892b396694f7e7454fd5d0e.m3u8
+#EXTINF:-1 tvg-id="PokerGO" tvg-name="PokerGO" tvg-logo="https://i.imgur.com/1603HED.png" group-title="♻️未匹配频道",PokerGO
+http://10.0.0.66:8080/hls/ee2c5c46a150e08eb83e1479.m3u8
+#EXTINF:-1 tvg-id="Polsat Sport Premium 1 (1080p) [Not 24/7]" tvg-name="Polsat Sport Premium 1 (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/hy1SKE0.png" group-title="♻️未匹配频道",Polsat Sport Premium 1 (1080p) [Not 24/7]
+http://10.0.0.66:8080/hls/dc63d876a4b9e3515f0b5693.m3u8
+#EXTINF:-1 tvg-id="Polsat Sport Premium 2 (1080p) [Not 24/7]" tvg-name="Polsat Sport Premium 2 (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/myyWeXY.png" group-title="♻️未匹配频道",Polsat Sport Premium 2 (1080p) [Not 24/7]
+http://10.0.0.66:8080/hls/c10b7912eee3627e74f0d688.m3u8
+#EXTINF:-1 tvg-id="Premier Sports (1080p)" tvg-name="Premier Sports (1080p)" tvg-logo="https://i.imgur.com/BURPHzI.png" group-title="♻️未匹配频道",Premier Sports (1080p)
+http://10.0.0.66:8080/hls/03d70f2ad4ed160ff36e7eeb.m3u8
+#EXTINF:-1 tvg-id="Premier Sports 1" tvg-name="Premier Sports 1" tvg-logo="https://i.imgur.com/eOybZMU.png" group-title="♻️未匹配频道",Premier Sports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://10.0.0.66:8080/hls/abed9416c25b1c4e16138ff5.m3u8
+#EXTINF:-1 tvg-id="Premier Sports 2" tvg-name="Premier Sports 2" tvg-logo="https://i.imgur.com/Fx1n84p.png" group-title="♻️未匹配频道",Premier Sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://10.0.0.66:8080/hls/cb30d174808dcf0db966adaf.m3u8
+#EXTINF:-1 tvg-id="Premier Sports 2 (1080p)" tvg-name="Premier Sports 2 (1080p)" tvg-logo="https://i.imgur.com/UQeXWd2.png" group-title="♻️未匹配频道",Premier Sports 2 (1080p)
+http://10.0.0.66:8080/hls/97665a35ca6a36ac26e47696.m3u8
+#EXTINF:-1 tvg-id="Prime (1080p)" tvg-name="Prime (1080p)" tvg-logo="https://prime1tv.com/wp-content/uploads/2025/12/7-1.png" group-title="♻️未匹配频道",Prime (1080p)
+http://10.0.0.66:8080/hls/a1caa1809d3d336f8357b167.m3u8
+#EXTINF:-1 tvg-id="PTV Sports (1080p)" tvg-name="PTV Sports (1080p)" tvg-logo="https://i.imgur.com/CPm6GHA.png" group-title="♻️未匹配频道",PTV Sports (1080p)
+http://10.0.0.66:8080/hls/f1b2b8ccbf4890fac3f9f484.m3u8
+#EXTINF:-1 tvg-id="QazSport (1080p)" tvg-name="QazSport (1080p)" tvg-logo="https://i.imgur.com/UDJ0P5Q.png" group-title="♻️未匹配频道",QazSport (1080p)
+http://10.0.0.66:8080/hls/6e71f300123d22dcd8f3b29d.m3u8
+#EXTINF:-1 tvg-id="RACER International (1080p)" tvg-name="RACER International (1080p)" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dd4e5871-4347-49e3-9ea1-a8770ea9c518/RACER_Intl_logo_1500x1000.png" group-title="♻️未匹配频道",RACER International (1080p)
+http://10.0.0.66:8080/hls/63ecd5245229cd887bb18335.m3u8
+#EXTINF:-1 tvg-id="Racer Network (1080p)" tvg-name="Racer Network (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Racer_Network.jpg" group-title="♻️未匹配频道",Racer Network (1080p)
+http://10.0.0.66:8080/hls/43ac0c5724a2f02bc3ab5926.m3u8
+#EXTINF:-1 tvg-id="Racer Select (1080p)" tvg-name="Racer Select (1080p)" tvg-logo="https://i.imgur.com/CurtYvn.png" group-title="♻️未匹配频道",Racer Select (1080p)
+http://10.0.0.66:8080/hls/ea412026d46773716cdba07d.m3u8
+#EXTINF:-1 tvg-id="Racing.com (720p)" tvg-name="Racing.com (720p)" tvg-logo="https://i.imgur.com/Q55HX1O.png" group-title="♻️未匹配频道",Racing.com (720p)
+http://10.0.0.66:8080/hls/81c29f4e0ef233e2318c180b.m3u8
+#EXTINF:-1 tvg-id="Radio Turrialba TV Sports (720p) [Not 24/7]" tvg-name="Radio Turrialba TV Sports (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/2ZcUXbE.png" group-title="♻️未匹配频道",Radio Turrialba TV Sports (720p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referer=https://iblups.com/
+http://10.0.0.66:8080/hls/46bbb9156e4dae20b43bda2b.m3u8
+#EXTINF:-1 tvg-id="Rai Sport" tvg-name="Rai Sport" tvg-logo="https://i.imgur.com/6PEevOM.png" group-title="♻️未匹配频道",Rai Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://10.0.0.66:8080/hls/9abafd2813fd5ff88b3303b1.m3u8
+#EXTINF:-1 tvg-id="Rally TV (1080p)" tvg-name="Rally TV (1080p)" tvg-logo="https://i.postimg.cc/WtLq2C7c/logo-Rally-Tv1.png" group-title="♻️未匹配频道",Rally TV (1080p)
+http://10.0.0.66:8080/hls/81732a801fec10b1a2d49a61.m3u8
+#EXTINF:-1 tvg-id="Real Madrid TV (726p)" tvg-name="Real Madrid TV (726p)" tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="♻️未匹配频道",Real Madrid TV (726p)
+http://10.0.0.66:8080/hls/85562242acf76679f022399c.m3u8
+#EXTINF:-1 tvg-id="Real Madrid TV English" tvg-name="Real Madrid TV English" tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="♻️未匹配频道",Real Madrid TV English
+http://10.0.0.66:8080/hls/4aed3588a67c7876fac24f97.m3u8
+#EXTINF:-1 tvg-id="Realitatea Sportiva (720p)" tvg-name="Realitatea Sportiva (720p)" tvg-logo="https://i.imgur.com/BaEyZto.png" group-title="♻️未匹配频道",Realitatea Sportiva (720p)
+http://10.0.0.66:8080/hls/35fbb91100ef7b7d3c04cee9.m3u8
+#EXTINF:-1 tvg-id="Red Bull TV (1080p)" tvg-name="Red Bull TV (1080p)" tvg-logo="https://images.pluto.tv/channels/5e7cb84a172a0f0007da69e4/colorLogoPNG.png" group-title="♻️未匹配频道",Red Bull TV (1080p)
+http://10.0.0.66:8080/hls/011ededd5e45d8fec6bf9894.m3u8
+#EXTINF:-1 tvg-id="Red Bull TV (1080p)" tvg-name="Red Bull TV (1080p)" tvg-logo="https://images.pluto.tv/channels/5e7cb84a172a0f0007da69e4/colorLogoPNG.png" group-title="♻️未匹配频道",Red Bull TV (1080p)
+http://10.0.0.66:8080/hls/d404bc0f50d100d4e8b95789.m3u8
+#EXTINF:-1 tvg-id="Red Bull TV AU (1080p)" tvg-name="Red Bull TV AU (1080p)" tvg-logo="https://images.pluto.tv/channels/5e7cb84a172a0f0007da69e4/colorLogoPNG.png" group-title="♻️未匹配频道",Red Bull TV AU (1080p)
+http://10.0.0.66:8080/hls/954b560518309db72b581bcf.m3u8
+#EXTINF:-1 tvg-id="Red Bull TV BR (1080p)" tvg-name="Red Bull TV BR (1080p)" tvg-logo="https://images.pluto.tv/channels/5e7cb84a172a0f0007da69e4/colorLogoPNG.png" group-title="♻️未匹配频道",Red Bull TV BR (1080p)
+http://10.0.0.66:8080/hls/f865eb4cabd67ff3694b83dd.m3u8
+#EXTINF:-1 tvg-id="Red Bull TV DE (1080p)" tvg-name="Red Bull TV DE (1080p)" tvg-logo="https://images.pluto.tv/channels/5e7cb84a172a0f0007da69e4/colorLogoPNG.png" group-title="♻️未匹配频道",Red Bull TV DE (1080p)
+http://10.0.0.66:8080/hls/bf08ba6b6752823422b523b0.m3u8
+#EXTINF:-1 tvg-id="Red Bull TV ES (1080p)" tvg-name="Red Bull TV ES (1080p)" tvg-logo="https://images.pluto.tv/channels/5e7cb84a172a0f0007da69e4/colorLogoPNG.png" group-title="♻️未匹配频道",Red Bull TV ES (1080p)
+http://10.0.0.66:8080/hls/ad088512ed1055decfdb4922.m3u8
+#EXTINF:-1 tvg-id="Red Bull TV UK (1080p)" tvg-name="Red Bull TV UK (1080p)" tvg-logo="https://images.pluto.tv/channels/5e7cb84a172a0f0007da69e4/colorLogoPNG.png" group-title="♻️未匹配频道",Red Bull TV UK (1080p)
+http://10.0.0.66:8080/hls/aec1a6436ab80ff0b630d564.m3u8
+#EXTINF:-1 tvg-id="Red Bull TV US (1080p)" tvg-name="Red Bull TV US (1080p)" tvg-logo="https://images.pluto.tv/channels/5e7cb84a172a0f0007da69e4/colorLogoPNG.png" group-title="♻️未匹配频道",Red Bull TV US (1080p)
+http://10.0.0.66:8080/hls/8e500dcd7f376ee2ba34d7fe.m3u8
+#EXTINF:-1 tvg-id="Rev'n Action (720p)" tvg-name="Rev'n Action (720p)" tvg-logo="https://i.imgur.com/xsm8mMd.png" group-title="♻️未匹配频道",Rev'n Action (720p)
+http://10.0.0.66:8080/hls/d5c2f2000082966a88eac35e.m3u8
+#EXTINF:-1 tvg-id="RightNow TV (720p)" tvg-name="RightNow TV (720p)" tvg-logo="https://i.imgur.com/OxbIla4.png" group-title="♻️未匹配频道",RightNow TV (720p)
+http://10.0.0.66:8080/hls/6d4c50a49aedf4c36306c7d4.m3u8
+#EXTINF:-1 tvg-id="RTSH Sport (1080p)" tvg-name="RTSH Sport (1080p)" tvg-logo="https://i.imgur.com/J6NKXyJ.png" group-title="♻️未匹配频道",RTSH Sport (1080p)
+http://10.0.0.66:8080/hls/9fc7c83bf8104b75f7d0ff42.m3u8
+#EXTINF:-1 tvg-id="S Sport (720p)" tvg-name="S Sport (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/S_Sport_logo1.png" group-title="♻️未匹配频道",S Sport (720p)
+http://10.0.0.66:8080/hls/4d195f873c14fd4278933d8f.m3u8
+#EXTINF:-1 tvg-id="S Sport 2 (720p)" tvg-name="S Sport 2 (720p)" tvg-logo="https://i.imgur.com/2jIItAy.png" group-title="♻️未匹配频道",S Sport 2 (720p)
+http://10.0.0.66:8080/hls/9dfb7261148d7aab8a932478.m3u8
+#EXTINF:-1 tvg-id="San Marino RTV Sport (720p)" tvg-name="San Marino RTV Sport (720p)" tvg-logo="https://i.imgur.com/PGm944g.png" group-title="♻️未匹配频道",San Marino RTV Sport (720p)
+http://10.0.0.66:8080/hls/d740b665621fc3b5e7d9275c.m3u8
+#EXTINF:-1 tvg-id="Setanta Sports 1 Eurasia (1080p)" tvg-name="Setanta Sports 1 Eurasia (1080p)" tvg-logo="https://i.imgur.com/zlJK7ca.png" group-title="♻️未匹配频道",Setanta Sports 1 Eurasia (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://10.0.0.66:8080/hls/080114c465cfcc3585f98b0f.m3u8
+#EXTINF:-1 tvg-id="Setanta Sports 2 Eurasia (1080p)" tvg-name="Setanta Sports 2 Eurasia (1080p)" tvg-logo="https://i.imgur.com/ouHunnK.png" group-title="♻️未匹配频道",Setanta Sports 2 Eurasia (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://10.0.0.66:8080/hls/cd907100cf4ec43646d391e6.m3u8
+#EXTINF:-1 tvg-id="Setanta Sports+ Ukraine (1080p)" tvg-name="Setanta Sports+ Ukraine (1080p)" tvg-logo="https://i.imgur.com/gHAP4p0.png" group-title="♻️未匹配频道",Setanta Sports+ Ukraine (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://10.0.0.66:8080/hls/b3d60c260491bf6a676c5acf.m3u8
+#EXTINF:-1 tvg-id="Sharjah Sports (1080p) [Geo-blocked]" tvg-name="Sharjah Sports (1080p) [Geo-blocked]" tvg-logo="https://i.imgur.com/CsEElsJ.png" group-title="♻️未匹配频道",Sharjah Sports (1080p) [Geo-blocked]
+http://10.0.0.66:8080/hls/077c059e02d217debcfdb660.m3u8
+#EXTINF:-1 tvg-id="SKI TV (1080p) [Not 24/7]" tvg-name="SKI TV (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/S6qgwLG.png" group-title="♻️未匹配频道",SKI TV (1080p) [Not 24/7]
+http://10.0.0.66:8080/hls/cbdad203776e2102fa102855.m3u8
+#EXTINF:-1 tvg-id="Sky Racing 1 (720p)" tvg-name="Sky Racing 1 (720p)" tvg-logo="https://i.imgur.com/Hf0EiaW.png" group-title="♻️未匹配频道",Sky Racing 1 (720p)
+http://10.0.0.66:8080/hls/332856100629f354cf53f490.m3u8
+#EXTINF:-1 tvg-id="Sky Racing 2 (720p)" tvg-name="Sky Racing 2 (720p)" tvg-logo="https://i.imgur.com/TxQvFnQ.png" group-title="♻️未匹配频道",Sky Racing 2 (720p)
+http://10.0.0.66:8080/hls/434c80590e0198618ae77518.m3u8
+#EXTINF:-1 tvg-id="Sky Sport Austria 1" tvg-name="Sky Sport Austria 1" tvg-logo="https://i.imgur.com/bB0HZDu.png" group-title="♻️未匹配频道",Sky Sport Austria 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://10.0.0.66:8080/hls/1796979702e7116502d0c911.m3u8
+#EXTINF:-1 tvg-id="Sky Sport Basket" tvg-name="Sky Sport Basket" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Sky_Sport_Basket_-_Logo_2025.svg/960px-Sky_Sport_Basket_-_Logo_2025.svg.png" group-title="♻️未匹配频道",Sky Sport Basket
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://10.0.0.66:8080/hls/aaff39fae413be320b4b32cc.m3u8
+#EXTINF:-1 tvg-id="Sky Sport F1" tvg-name="Sky Sport F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/960px-Sky_Sport_F1_-_Logo_2020.svg.png" group-title="♻️未匹配频道",Sky Sport F1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://10.0.0.66:8080/hls/b8fd8e7e6af4da21c9588a83.m3u8
+#EXTINF:-1 tvg-id="Sky Sport Top Event" tvg-name="Sky Sport Top Event" tvg-logo="https://i.imgur.com/kQ6cVNx.png" group-title="♻️未匹配频道",Sky Sport Top Event
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://10.0.0.66:8080/hls/daf91ab032bd84f56372974d.m3u8
+#EXTINF:-1 tvg-id="Sky Sports Cricket" tvg-name="Sky Sports Cricket" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1302.png" group-title="♻️未匹配频道",Sky Sports Cricket
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://10.0.0.66:8080/hls/64417c6d862d9933e74e599c.m3u8
+#EXTINF:-1 tvg-id="Sky Sports Cricket HD (1080p)" tvg-name="Sky Sports Cricket HD (1080p)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1302.png" group-title="♻️未匹配频道",Sky Sports Cricket HD (1080p)
+http://10.0.0.66:8080/hls/82bb2286f28e735acf1959a6.m3u8
+#EXTINF:-1 tvg-id="Sky Sports F1 (1080p)" tvg-name="Sky Sports F1 (1080p)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1306.png" group-title="♻️未匹配频道",Sky Sports F1 (1080p)
+http://10.0.0.66:8080/hls/e1a87dc13ed182d22d749395.m3u8
+#EXTINF:-1 tvg-id="Sky Sports Golf HD (1080p)" tvg-name="Sky Sports Golf HD (1080p)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1322.png" group-title="♻️未匹配频道",Sky Sports Golf HD (1080p)
+http://10.0.0.66:8080/hls/2fe87a03502834affa80b0d3.m3u8
+#EXTINF:-1 tvg-id="Sky Thoroughbred Central (720p) [Geo-blocked]" tvg-name="Sky Thoroughbred Central (720p) [Geo-blocked]" tvg-logo="https://i.imgur.com/1SxIsnw.png" group-title="♻️未匹配频道",Sky Thoroughbred Central (720p) [Geo-blocked]
+http://10.0.0.66:8080/hls/364f29c3e88a5f86c5401307.m3u8
+#EXTINF:-1 tvg-id="Slopes TV (720p)" tvg-name="Slopes TV (720p)" tvg-logo="https://i.imgur.com/8bzAfgK.png" group-title="♻️未匹配频道",Slopes TV (720p)
+http://10.0.0.66:8080/hls/67dee69546d582226b56943b.m3u8
+#EXTINF:-1 tvg-id="SOS Kanal Plus (720p)" tvg-name="SOS Kanal Plus (720p)" tvg-logo="https://i.imgur.com/9SD40uH.png" group-title="♻️未匹配频道",SOS Kanal Plus (720p)
+http://10.0.0.66:8080/hls/1c47ed47e15bea5cb2ff2ea3.m3u8
+#EXTINF:-1 tvg-id="Spiler 1" tvg-name="Spiler 1" tvg-logo="https://i.imgur.com/pbk8c4x.png" group-title="♻️未匹配频道",Spiler 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://10.0.0.66:8080/hls/dcdf8cd4e106f0f4c6dfc36f.m3u8
+#EXTINF:-1 tvg-id="Spiler 2" tvg-name="Spiler 2" tvg-logo="https://i.imgur.com/1e0VsVH.png" group-title="♻️未匹配频道",Spiler 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://10.0.0.66:8080/hls/5e37ceca5dc3cacd7f4e0ce2.m3u8
+#EXTINF:-1 tvg-id="Sport" tvg-name="Sport" tvg-logo="https://i.imgur.com/2WJE9CM.png" group-title="♻️未匹配频道",Sport
+http://10.0.0.66:8080/hls/20d662a73a8401946b37759f.m3u8
+#EXTINF:-1 tvg-id="Sport1" tvg-name="Sport1" tvg-logo="https://i.imgur.com/X5X3tKC.png" group-title="♻️未匹配频道",Sport1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://10.0.0.66:8080/hls/4fc0ea3b6b5515858915a431.m3u8
+#EXTINF:-1 tvg-id="Sport 1" tvg-name="Sport 1" tvg-logo="https://i.imgur.com/X5X3tKC.png" group-title="♻️未匹配频道",Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://10.0.0.66:8080/hls/11091db6fd536edf128fcd19.m3u8
+#EXTINF:-1 tvg-id="Sport 1 (576p)" tvg-name="Sport 1 (576p)" tvg-logo="https://i.imgur.com/Zjb8awW.png" group-title="♻️未匹配频道",Sport 1 (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://10.0.0.66:8080/hls/3e0592e282821b211ba940d2.m3u8
+#EXTINF:-1 tvg-id="Sport 1 Baltic (1080p)" tvg-name="Sport 1 Baltic (1080p)" tvg-logo="https://i.imgur.com/aBY7QK4.png" group-title="♻️未匹配频道",Sport 1 Baltic (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://10.0.0.66:8080/hls/38eeb9621452619657c82c3a.m3u8
+#EXTINF:-1 tvg-id="Sport2" tvg-name="Sport2" tvg-logo="https://i.imgur.com/UxflVoU.png" group-title="♻️未匹配频道",Sport2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://10.0.0.66:8080/hls/3cc6fca3a22ec5693024e6aa.m3u8
+#EXTINF:-1 tvg-id="Sport 2" tvg-name="Sport 2" tvg-logo="https://i.imgur.com/UxflVoU.png" group-title="♻️未匹配频道",Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://10.0.0.66:8080/hls/9a22d76b2b3255f66e5b882c.m3u8
+#EXTINF:-1 tvg-id="Sport 2 (1080p)" tvg-name="Sport 2 (1080p)" tvg-logo="https://i.imgur.com/vk0j1mY.png" group-title="♻️未匹配频道",Sport 2 (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://10.0.0.66:8080/hls/8f82ff366180c13ef44c37ba.m3u8
+#EXTINF:-1 tvg-id="Sport 3 (1080p)" tvg-name="Sport 3 (1080p)" tvg-logo="https://i.imgur.com/qkvavfH.png" group-title="♻️未匹配频道",Sport 3 (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://10.0.0.66:8080/hls/693c45e980237fa46223245e.m3u8
+#EXTINF:-1 tvg-id="Sport 4 (576p)" tvg-name="Sport 4 (576p)" tvg-logo="https://i.imgur.com/xW6oGIx.png" group-title="♻️未匹配频道",Sport 4 (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://10.0.0.66:8080/hls/7b8cb8c54f72b1eb7fd43572.m3u8
+#EXTINF:-1 tvg-id="Sport 5 (1080p)" tvg-name="Sport 5 (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Sport5UA.jpg" group-title="♻️未匹配频道",Sport 5 (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://10.0.0.66:8080/hls/bc3b0d6222ad2ec13aa9a0dc.m3u8
+#EXTINF:-1 tvg-id="Sport TV (1080p)" tvg-name="Sport TV (1080p)" tvg-logo="https://www.beltelecom.by/sites/default/files/styles/200200/public/tv-channels/2025-10/sporttv.png" group-title="♻️未匹配频道",Sport TV (1080p)
+http://10.0.0.66:8080/hls/4920282b3986d9f25a50a3e0.m3u8
+#EXTINF:-1 tvg-id="Sport TV1" tvg-name="Sport TV1" tvg-logo="https://i.imgur.com/YWic36u.png" group-title="♻️未匹配频道",Sport TV1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://10.0.0.66:8080/hls/182741438dd42b1104027b48.m3u8
+#EXTINF:-1 tvg-id="Sport TV2" tvg-name="Sport TV2" tvg-logo="https://i.imgur.com/0jSR6yG.png" group-title="♻️未匹配频道",Sport TV2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://10.0.0.66:8080/hls/5f458756267b13c1476dd262.m3u8
+#EXTINF:-1 tvg-id="Sport TV5" tvg-name="Sport TV5" tvg-logo="https://i.imgur.com/4w4vuad.png" group-title="♻️未匹配频道",Sport TV5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://10.0.0.66:8080/hls/d4e65b9d3b05a8e22f6a72b7.m3u8
+#EXTINF:-1 tvg-id="Sport TV6" tvg-name="Sport TV6" tvg-logo="https://i.imgur.com/qmlQkyI.png" group-title="♻️未匹配频道",Sport TV6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://10.0.0.66:8080/hls/a3b984bcba688609397b3903.m3u8
+#EXTINF:-1 tvg-id="Sport TV7" tvg-name="Sport TV7" tvg-logo="https://i.imgur.com/2HmCAm5.png" group-title="♻️未匹配频道",Sport TV7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://10.0.0.66:8080/hls/555eb08e8635d18882203da1.m3u8
+#EXTINF:-1 tvg-id="Sport TV+" tvg-name="Sport TV+" tvg-logo="https://i.imgur.com/R5FZEW6.png" group-title="♻️未匹配频道",Sport TV+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://10.0.0.66:8080/hls/3cb7ca0eb097fdf951d6a145.m3u8
+#EXTINF:-1 tvg-id="Sportdigital FUSSBALL" tvg-name="Sportdigital FUSSBALL" tvg-logo="https://i.imgur.com/NDbWxqF.png" group-title="♻️未匹配频道",Sportdigital FUSSBALL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://10.0.0.66:8080/hls/c86655130a4113ef7194c2db.m3u8
+#EXTINF:-1 tvg-id="Sportitalia (1080p)" tvg-name="Sportitalia (1080p)" tvg-logo="https://i.imgur.com/0CJGGgd.png" group-title="♻️未匹配频道",Sportitalia (1080p)
+http://10.0.0.66:8080/hls/8e1b4c31adf02606658d06f7.m3u8
+#EXTINF:-1 tvg-id="Sportitalia 24 (720p) [Geo-blocked]" tvg-name="Sportitalia 24 (720p) [Geo-blocked]" tvg-logo="https://i.imgur.com/RSwnoLn.png" group-title="♻️未匹配频道",Sportitalia 24 (720p) [Geo-blocked]
+http://10.0.0.66:8080/hls/dc8089d6366f4aad683990f6.m3u8
+#EXTINF:-1 tvg-id="Sportitalia Motori (720p) [Geo-blocked]" tvg-name="Sportitalia Motori (720p) [Geo-blocked]" tvg-logo="https://i.imgur.com/hu56Ya5.png" group-title="♻️未匹配频道",Sportitalia Motori (720p) [Geo-blocked]
+http://10.0.0.66:8080/hls/8f7a3ba03c987d8eca5878b7.m3u8
+#EXTINF:-1 tvg-id="Sportitalia Solocalcio (1080p)" tvg-name="Sportitalia Solocalcio (1080p)" tvg-logo="https://i.imgur.com/hu56Ya5.png" group-title="♻️未匹配频道",Sportitalia Solocalcio (1080p)
+http://10.0.0.66:8080/hls/40456e33ea70cbb24f51de8c.m3u8
+#EXTINF:-1 tvg-id="Sportivnyy (1080p)" tvg-name="Sportivnyy (1080p)" tvg-logo="https://i.imgur.com/ujS6mMo.png" group-title="♻️未匹配频道",Sportivnyy (1080p)
+http://10.0.0.66:8080/hls/e98ea71d453d9e072e99d76b.m3u8
+#EXTINF:-1 tvg-id="SportsGrid (1080p)" tvg-name="SportsGrid (1080p)" tvg-logo="https://i.imgur.com/ulGKX30.png" group-title="♻️未匹配频道",SportsGrid (1080p)
+http://10.0.0.66:8080/hls/5af491c610c07a58b5e950ca.m3u8
+#EXTINF:-1 tvg-id="Sportsman Channel (720p)" tvg-name="Sportsman Channel (720p)" tvg-logo="https://i.imgur.com/CXauv8M.png" group-title="♻️未匹配频道",Sportsman Channel (720p)
+http://10.0.0.66:8080/hls/f7c3b05322ab9412686d7fb4.m3u8
+#EXTINF:-1 tvg-id="SportsNet New York (1080p)" tvg-name="SportsNet New York (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/SNY_logo.svg/960px-SNY_logo.svg.png" group-title="♻️未匹配频道",SportsNet New York (1080p)
+http://10.0.0.66:8080/hls/a0645138acabd016769c066c.m3u8
+#EXTINF:-1 tvg-id="SporTV 3 (720p)" tvg-name="SporTV 3 (720p)" tvg-logo="https://i.imgur.com/mWOR8pi.png" group-title="♻️未匹配频道",SporTV 3 (720p)
+http://10.0.0.66:8080/hls/4c171e51221337e01db2a977.m3u8
+#EXTINF:-1 tvg-id="Sporty TV" tvg-name="Sporty TV" tvg-logo="https://i.imgur.com/Wz5bQKx.jpeg" group-title="♻️未匹配频道",Sporty TV
+http://10.0.0.66:8080/hls/2cff16336a2b0a5c8ef5608e.m3u8
+#EXTINF:-1 tvg-id="Sqala TV (720p)" tvg-name="Sqala TV (720p)" tvg-logo="https://i.imgur.com/DJ05m8s.png" group-title="♻️未匹配频道",Sqala TV (720p)
+http://10.0.0.66:8080/hls/ed0593b2c6e3dcd37f0f9c1b.m3u8
+#EXTINF:-1 tvg-id="Stadium (720p)" tvg-name="Stadium (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Stadium_%28sports_network%29_logo.svg/960px-Stadium_%28sports_network%29_logo.svg.png" group-title="♻️未匹配频道",Stadium (720p)
+http://10.0.0.66:8080/hls/a1071217c8e4923719d8ceb4.m3u8
+#EXTINF:-1 tvg-id="Star Sports 1 (720p)" tvg-name="Star Sports 1 (720p)" tvg-logo="https://i.imgur.com/E5jjKHI.png" group-title="♻️未匹配频道",Star Sports 1 (720p)
+http://10.0.0.66:8080/hls/95b909d943d7eb30b599130e.m3u8
+#EXTINF:-1 tvg-id="Star Sports 1 HD (1080p)" tvg-name="Star Sports 1 HD (1080p)" tvg-logo="https://i.imgur.com/E5jjKHI.png" group-title="♻️未匹配频道",Star Sports 1 HD (1080p)
+http://10.0.0.66:8080/hls/cc745d04036a6452a414354e.m3u8
+#EXTINF:-1 tvg-id="Star Sports 1 Hindi (576p)" tvg-name="Star Sports 1 Hindi (576p)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HINDI/images/LOGO_HD/image.png" group-title="♻️未匹配频道",Star Sports 1 Hindi (576p)
+http://10.0.0.66:8080/hls/a97804a280cb3a11d376a1a4.m3u8
+#EXTINF:-1 tvg-id="Star Sports 1 Hindi HD" tvg-name="Star Sports 1 Hindi HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HD_HINDI/images/LOGO_HD/image.png" group-title="♻️未匹配频道",Star Sports 1 Hindi HD
+http://10.0.0.66:8080/hls/198a753c145cdcb6113d7e34.m3u8
+#EXTINF:-1 tvg-id="Star Sports 2 HD (720p)" tvg-name="Star Sports 2 HD (720p)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png" group-title="♻️未匹配频道",Star Sports 2 HD (720p)
+http://10.0.0.66:8080/hls/7514dd6062b270b860c81a57.m3u8
+#EXTINF:-1 tvg-id="Star Sports 2 Hindi (720p)" tvg-name="Star Sports 2 Hindi (720p)" tvg-logo="https://i.imgur.com/kHerF19.png" group-title="♻️未匹配频道",Star Sports 2 Hindi (720p)
+http://10.0.0.66:8080/hls/cbee6d18b33ce6c24b7db700.m3u8
+#EXTINF:-1 tvg-id="Star Sports 2 Hindi HD (1080p)" tvg-name="Star Sports 2 Hindi HD (1080p)" tvg-logo="https://i.imgur.com/kHerF19.png" group-title="♻️未匹配频道",Star Sports 2 Hindi HD (1080p)
+http://10.0.0.66:8080/hls/7a7eb0f9012ab9c8cab15baa.m3u8
+#EXTINF:-1 tvg-id="Star Sports Khel (1080p)" tvg-name="Star Sports Khel (1080p)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_KHEL/images/LOGO_HD/LOGO_HD_image.png" group-title="♻️未匹配频道",Star Sports Khel (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://10.0.0.66:8080/hls/c2dc98f15d600a7ad129cafe.m3u8
+#EXTINF:-1 tvg-id="Star Sports Select 1 HD (720p)" tvg-name="Star Sports Select 1 HD (720p)" tvg-logo="https://i.imgur.com/Mh9tKPx.png" group-title="♻️未匹配频道",Star Sports Select 1 HD (720p)
+http://10.0.0.66:8080/hls/194db6bf3135b4415dec3dd8.m3u8
+#EXTINF:-1 tvg-id="Star Sports Select 2 HD (720p)" tvg-name="Star Sports Select 2 HD (720p)" tvg-logo="https://i.imgur.com/FtRT73R.png" group-title="♻️未匹配频道",Star Sports Select 2 HD (720p)
+http://10.0.0.66:8080/hls/1f8addfec72e9ff304afb487.m3u8
+#EXTINF:-1 tvg-id="Strongman (720p)" tvg-name="Strongman (720p)" tvg-logo="https://i.imgur.com/bVQBF6R.png" group-title="♻️未匹配频道",Strongman (720p)
+http://10.0.0.66:8080/hls/d46557e506efa134af6f4d2d.m3u8
+#EXTINF:-1 tvg-id="Strongman Champions League (720p)" tvg-name="Strongman Champions League (720p)" tvg-logo="https://i.imgur.com/bVQBF6R.png" group-title="♻️未匹配频道",Strongman Champions League (720p)
+http://10.0.0.66:8080/hls/508da942ae58a731d942012f.m3u8
+#EXTINF:-1 tvg-id="Strongman Champions League (720p)" tvg-name="Strongman Champions League (720p)" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/30ccc088-dca7-4458-ad5a-328fef06e1ca-width200-quality90.png" group-title="♻️未匹配频道",Strongman Champions League (720p)
+http://10.0.0.66:8080/hls/4afbafa0011b4aa7d6e7df27.m3u8
+#EXTINF:-1 tvg-id="SuperTennis (1080p)" tvg-name="SuperTennis (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6a/SuperTennis_-_Logo_2016.svg/960px-SuperTennis_-_Logo_2016.svg.png" group-title="♻️未匹配频道",SuperTennis (1080p)
+http://10.0.0.66:8080/hls/2597d44b6bd7fd1f75eef36d.m3u8
+#EXTINF:-1 tvg-id="Suspilne. Sport (1080p)" tvg-name="Suspilne. Sport (1080p)" tvg-logo="https://i.imgur.com/16IhU0M.png" group-title="♻️未匹配频道",Suspilne. Sport (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://10.0.0.66:8080/hls/956d8d6ac019c3862d0648e5.m3u8
+#EXTINF:-1 tvg-id="Swerve Combat (1080p)" tvg-name="Swerve Combat (1080p)" tvg-logo="https://i.imgur.com/GT0Yi2T.png" group-title="♻️未匹配频道",Swerve Combat (1080p)
+http://10.0.0.66:8080/hls/ba483c284c20125e380f9003.m3u8
+#EXTINF:-1 tvg-id="T Sports (1080p)" tvg-name="T Sports (1080p)" tvg-logo="https://i.imgur.com/2JzlorD.png" group-title="♻️未匹配频道",T Sports (1080p)
+http://10.0.0.66:8080/hls/5c98ac091b17e15320f05c3d.m3u8
+#EXTINF:-1 tvg-id="T Sports 7" tvg-name="T Sports 7" tvg-logo="https://i.imgur.com/KyI0s5n.png" group-title="♻️未匹配频道",T Sports 7
+http://10.0.0.66:8080/hls/851043906843a09bac78a957.m3u8
+#EXTINF:-1 tvg-id="Talent TV (720p)" tvg-name="Talent TV (720p)" tvg-logo="https://talenttv.lk/logo-footer.png" group-title="♻️未匹配频道",Talent TV (720p)
+http://10.0.0.66:8080/hls/febd61108d62bad7e1f42458.m3u8
+#EXTINF:-1 tvg-id="talkSPORT (1080p)" tvg-name="talkSPORT (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9d/Talksport_logo.png" group-title="♻️未匹配频道",talkSPORT (1080p)
+http://10.0.0.66:8080/hls/985da872ced8ec1ea17baf7e.m3u8
+#EXTINF:-1 tvg-id="TDM Sports Ch. 93 (720p)" tvg-name="TDM Sports Ch. 93 (720p)" tvg-logo="https://i.imgur.com/AsWLf8S.png" group-title="♻️未匹配频道",TDM Sports Ch. 93 (720p)
+http://10.0.0.66:8080/hls/7608a6c1bf868d2e79484d39.m3u8
+#EXTINF:-1 tvg-id="Tele Rebelde (480p) [Not 24/7]" tvg-name="Tele Rebelde (480p) [Not 24/7]" tvg-logo="https://i.imgur.com/M6wZzuz.png" group-title="♻️未匹配频道",Tele Rebelde (480p) [Not 24/7]
+http://10.0.0.66:8080/hls/ccf48c1cf936f889c2e42c25.m3u8
+#EXTINF:-1 tvg-id="Teledeporte (720p) [Geo-blocked]" tvg-name="Teledeporte (720p) [Geo-blocked]" tvg-logo="https://i.ibb.co/0jxLdjnY/TDP.png" group-title="♻️未匹配频道",Teledeporte (720p) [Geo-blocked]
+http://10.0.0.66:8080/hls/27114859be216d578da4bd78.m3u8
+#EXTINF:-1 tvg-id="Teletrak (720p)" tvg-name="Teletrak (720p)" tvg-logo="https://i.imgur.com/NoJvlig.png" group-title="♻️未匹配频道",Teletrak (720p)
+http://10.0.0.66:8080/hls/465c88571ef1623bcc45508e.m3u8
+#EXTINF:-1 tvg-id="Ten Sports Pakistan" tvg-name="Ten Sports Pakistan" tvg-logo="https://i.imgur.com/nnqpYNm.png" group-title="♻️未匹配频道",Ten Sports Pakistan
+http://10.0.0.66:8080/hls/d120d24e2211b49f667675bd.m3u8
+#EXTINF:-1 tvg-id="Tennis Channel (1080p)" tvg-name="Tennis Channel (1080p)" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="♻️未匹配频道",Tennis Channel (1080p)
+http://10.0.0.66:8080/hls/5f4806189f0342cf2d3c063b.m3u8
+#EXTINF:-1 tvg-id="TennisChannel 2 (720p)" tvg-name="TennisChannel 2 (720p)" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="♻️未匹配频道",TennisChannel 2 (720p)
+http://10.0.0.66:8080/hls/c47457a512b47cd7a5f9cf70.m3u8
+#EXTINF:-1 tvg-id="The Cycling Channel" tvg-name="The Cycling Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpbjHW_j4DfsuAn4278ebtzhibMvY7KSOyow&s" group-title="♻️未匹配频道",The Cycling Channel
+http://10.0.0.66:8080/hls/b1455ff87b8271ead5470d91.m3u8
+#EXTINF:-1 tvg-id="Tigo Sports (720p) [Geo-blocked]" tvg-name="Tigo Sports (720p) [Geo-blocked]" tvg-logo="https://i.imgur.com/6wkmgGM.png" group-title="♻️未匹配频道",Tigo Sports (720p) [Geo-blocked]
+http://10.0.0.66:8080/hls/5df86fed67c5028c56f58da2.m3u8
+#EXTINF:-1 tvg-id="Tigo Sports (720p) [Geo-blocked]" tvg-name="Tigo Sports (720p) [Geo-blocked]" tvg-logo="https://i.imgur.com/UrsLSRs.png" group-title="♻️未匹配频道",Tigo Sports (720p) [Geo-blocked]
+http://10.0.0.66:8080/hls/15d054ce18b1be67c3ceaeb3.m3u8
+#EXTINF:-1 tvg-id="Tigo Sports (1080p)" tvg-name="Tigo Sports (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png" group-title="♻️未匹配频道",Tigo Sports (1080p)
+http://10.0.0.66:8080/hls/ea5b1311ba0f0c9cbc565291.m3u8
+#EXTINF:-1 tvg-id="Tigo Sports (1080p)" tvg-name="Tigo Sports (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png" group-title="♻️未匹配频道",Tigo Sports (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referer=https://www.tigosports.com.py/
+http://10.0.0.66:8080/hls/2b642a01d6920e21d1f6c434.m3u8
+#EXTINF:-1 tvg-id="Tigo Sports+" tvg-name="Tigo Sports+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png" group-title="♻️未匹配频道",Tigo Sports+
+http://10.0.0.66:8080/hls/f216645a273758dde64625f7.m3u8
+#EXTINF:-1 tvg-id="TJK TV (1080p)" tvg-name="TJK TV (1080p)" tvg-logo="https://i.imgur.com/3zHdkYG.png" group-title="♻️未匹配频道",TJK TV (1080p)
+http://10.0.0.66:8080/hls/351da6021fe88ef6da8f2ec6.m3u8
+#EXTINF:-1 tvg-id="TJK TV 2 (1080p) [Not 24/7]" tvg-name="TJK TV 2 (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/3zHdkYG.png" group-title="♻️未匹配频道",TJK TV 2 (1080p) [Not 24/7]
+http://10.0.0.66:8080/hls/fc160d20b4637eaea3f00631.m3u8
+#EXTINF:-1 tvg-id="TNC Sports (1080p)" tvg-name="TNC Sports (1080p)" tvg-logo="https://i.imgur.com/jT2VFzA.jpeg" group-title="♻️未匹配频道",TNC Sports (1080p)
+http://10.0.0.66:8080/hls/01f4bd0c93897fcae75718fe.m3u8
+#EXTINF:-1 tvg-id="Tour Spot TV (1280p) [Not 24/7]" tvg-name="Tour Spot TV (1280p) [Not 24/7]" tvg-logo="https://imgur.com/khj869k.png" group-title="♻️未匹配频道",Tour Spot TV (1280p) [Not 24/7]
+http://10.0.0.66:8080/hls/0ecccc825af656e92a0d1269.m3u8
+#EXTINF:-1 tvg-id="TR Sport (480p)" tvg-name="TR Sport (480p)" tvg-logo="https://i.imgur.com/ELXmaqg.png" group-title="♻️未匹配频道",TR Sport (480p)
+http://10.0.0.66:8080/hls/0091904259f24814ef2ce0a8.m3u8
+#EXTINF:-1 tvg-id="Trace Sport Stars (Australia) (1080p)" tvg-name="Trace Sport Stars (Australia) (1080p)" tvg-logo="https://i.imgur.com/FabFP5A.png" group-title="♻️未匹配频道",Trace Sport Stars (Australia) (1080p)
+http://10.0.0.66:8080/hls/1f3c2fb6a0ce11440b4441ae.m3u8
+#EXTINF:-1 tvg-id="Trace Sport Stars Russia (720p)" tvg-name="Trace Sport Stars Russia (720p)" tvg-logo="https://i.imgur.com/FabFP5A.png" group-title="♻️未匹配频道",Trace Sport Stars Russia (720p)
+http://10.0.0.66:8080/hls/c445c61f36ba41464f785b03.m3u8
+#EXTINF:-1 tvg-id="Trace Sport Stars SD" tvg-name="Trace Sport Stars SD" tvg-logo="https://i.imgur.com/FabFP5A.png" group-title="♻️未匹配频道",Trace Sport Stars SD
+http://10.0.0.66:8080/hls/1e515007162217c06c5039f1.m3u8
+#EXTINF:-1 tvg-id="TRT Spor Yildiz (1440p) [Geo-blocked]" tvg-name="TRT Spor Yildiz (1440p) [Geo-blocked]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg/960px-TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg.png" group-title="♻️未匹配频道",TRT Spor Yildiz (1440p) [Geo-blocked]
+http://10.0.0.66:8080/hls/a560a6a82a40ebd2db3118f9.m3u8
+#EXTINF:-1 tvg-id="TSN1 (1080p)" tvg-name="TSN1 (1080p)" tvg-logo="https://i.imgur.com/eRFE0jZ.png" group-title="♻️未匹配频道",TSN1 (1080p)
+http://10.0.0.66:8080/hls/79ca5d0ea0a4b9c39d0c3cf2.m3u8
+#EXTINF:-1 tvg-id="TSN The Ocho (1080p)" tvg-name="TSN The Ocho (1080p)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400003R3_20240709T002034SQUARE.png" group-title="♻️未匹配频道",TSN The Ocho (1080p)
+http://10.0.0.66:8080/hls/8bc817506b40065e8348698b.m3u8
+#EXTINF:-1 tvg-id="Turf Movil (720p)" tvg-name="Turf Movil (720p)" tvg-logo="https://i.imgur.com/TwIe4lK.png" group-title="♻️未匹配频道",Turf Movil (720p)
+http://10.0.0.66:8080/hls/60b2d28904bf9e4ecc70beeb.m3u8
+#EXTINF:-1 tvg-id="Türkmenistan Sport (406p) [Not 24/7]" tvg-name="Türkmenistan Sport (406p) [Not 24/7]" tvg-logo="https://i.imgur.com/n6vITLu.png" group-title="♻️未匹配频道",Türkmenistan Sport (406p) [Not 24/7]
+http://10.0.0.66:8080/hls/c4bc5891527f2391163e5394.m3u8
+#EXTINF:-1 tvg-id="TV 2 Sport" tvg-name="TV 2 Sport" tvg-logo="https://i.imgur.com/76Zzs5R.png" group-title="♻️未匹配频道",TV 2 Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://10.0.0.66:8080/hls/2f995ef3e9d98bc21bbf54d8.m3u8
+#EXTINF:-1 tvg-id="TV Cuatro 4.3 (1080p)" tvg-name="TV Cuatro 4.3 (1080p)" tvg-logo="https://i.imgur.com/Of044Jx.png" group-title="♻️未匹配频道",TV Cuatro 4.3 (1080p)
+http://10.0.0.66:8080/hls/184d7e6d4eba39ba86fc2a8e.m3u8
+#EXTINF:-1 tvg-id="TVMatic Fight (720p)" tvg-name="TVMatic Fight (720p)" tvg-logo="https://i.imgur.com/l5PBcKN.png" group-title="♻️未匹配频道",TVMatic Fight (720p)
+http://10.0.0.66:8080/hls/5724469468801a07ec32f8ad.m3u8
+#EXTINF:-1 tvg-id="TVMsport+ (1080p)" tvg-name="TVMsport+ (1080p)" tvg-logo="https://i.imgur.com/YIreFti.png" group-title="♻️未匹配频道",TVMsport+ (1080p)
+http://10.0.0.66:8080/hls/e993b9f3890cfd6296f6e7b9.m3u8
+#EXTINF:-1 tvg-id="TVP Sport (1080p) [Not 24/7]" tvg-name="TVP Sport (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/JUZDOCO.png" group-title="♻️未匹配频道",TVP Sport (1080p) [Not 24/7]
+http://10.0.0.66:8080/hls/4224d6ec4a8ffc6cef139916.m3u8
+#EXTINF:-1 tvg-id="TVR Sport" tvg-name="TVR Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/TVR_Sport_Logo_2023.svg/960px-TVR_Sport_Logo_2023.svg.png" group-title="♻️未匹配频道",TVR Sport
+http://10.0.0.66:8080/hls/20729ea5763de27dae6652e6.m3u8
+#EXTINF:-1 tvg-id="TVRI Sport [Geo-blocked]" tvg-name="TVRI Sport [Geo-blocked]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/960px-TVRI_Sport_2022.svg.png" group-title="♻️未匹配频道",TVRI Sport [Geo-blocked]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referer=https://www.dens.tv/
+http://10.0.0.66:8080/hls/c99b3e1ad77bc73ecdc4cee7.m3u8
+#EXTINF:-1 tvg-id="TVS Bowling Network (720p)" tvg-name="TVS Bowling Network (720p)" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-bowling-network.jpg" group-title="♻️未匹配频道",TVS Bowling Network (720p)
+http://10.0.0.66:8080/hls/271101d6887d459ca21bb09a.m3u8
+#EXTINF:-1 tvg-id="TVS Boxing (360p)" tvg-name="TVS Boxing (360p)" tvg-logo="https://i.imgur.com/30ZoF75.png" group-title="♻️未匹配频道",TVS Boxing (360p)
+http://10.0.0.66:8080/hls/df3c1e24d5065ae0ee5c3bb0.m3u8
+#EXTINF:-1 tvg-id="TVS Classic Sports (360p)" tvg-name="TVS Classic Sports (360p)" tvg-logo="https://i.imgur.com/auR0Mi6.png" group-title="♻️未匹配频道",TVS Classic Sports (360p)
+http://10.0.0.66:8080/hls/15ce62f1e4e1c3001db07881.m3u8
+#EXTINF:-1 tvg-id="TVS Sports (720p) [Not 24/7]" tvg-name="TVS Sports (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/Lwwq62E.png" group-title="♻️未匹配频道",TVS Sports (720p) [Not 24/7]
+http://10.0.0.66:8080/hls/bea147245b547f088bbf6a77.m3u8
+#EXTINF:-1 tvg-id="TVS Sports Bureau (720p)" tvg-name="TVS Sports Bureau (720p)" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TVS Sports Bureau (720p).png" group-title="♻️未匹配频道",TVS Sports Bureau (720p)
+http://10.0.0.66:8080/hls/2e1cc4d3a28a1e5c54d99e0f.m3u8
+#EXTINF:-1 tvg-id="TVS Turbo (360p)" tvg-name="TVS Turbo (360p)" tvg-logo="https://i.imgur.com/7zYIbU1.png" group-title="♻️未匹配频道",TVS Turbo (360p)
+http://10.0.0.66:8080/hls/9e9ee3fea0a21538961c07d3.m3u8
+#EXTINF:-1 tvg-id="TVS Women Sports (720p)" tvg-name="TVS Women Sports (720p)" tvg-logo="https://i.imgur.com/8hC4PfF.png" group-title="♻️未匹配频道",TVS Women Sports (720p)
+http://10.0.0.66:8080/hls/3077fc9e64869aa0929f863e.m3u8
+#EXTINF:-1 tvg-id="TyC Sports (1080p)" tvg-name="TyC Sports (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" group-title="♻️未匹配频道",TyC Sports (1080p)
+http://10.0.0.66:8080/hls/aad8746f58830a72ce2e33f9.m3u8
+#EXTINF:-1 tvg-id="TyC Sports USA" tvg-name="TyC Sports USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" group-title="♻️未匹配频道",TyC Sports USA
+http://10.0.0.66:8080/hls/d0ef1b53e5e1522a9c0696f6.m3u8
+#EXTINF:-1 tvg-id="UDAR (1080p)" tvg-name="UDAR (1080p)" tvg-logo="https://mt.media/upload/iblock/2b3/2b3cf99141bf7f99cda377eec62ec084.png" group-title="♻️未匹配频道",UDAR (1080p)
+http://10.0.0.66:8080/hls/de9ce30aa0a1d21fdd1d30e2.m3u8
+#EXTINF:-1 tvg-id="Unbeaten (1080p)" tvg-name="Unbeaten (1080p)" tvg-logo="https://i.imgur.com/LmkNt3v.png" group-title="♻️未匹配频道",Unbeaten (1080p)
+http://10.0.0.66:8080/hls/634dac17d7a1ec2e51b8de94.m3u8
+#EXTINF:-1 tvg-id="Unite8 Sports 1" tvg-name="Unite8 Sports 1" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CAFE/images/LOGO_HD/LOGO_HD_5UHAHVIHu_UNITE8-SPORTS-1_264X144.webp" group-title="♻️未匹配频道",Unite8 Sports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://10.0.0.66:8080/hls/fc7cd482cb4bfb0a9822ac12.m3u8
+#EXTINF:-1 tvg-id="Unite8 Sports 2" tvg-name="Unite8 Sports 2" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX/images/LOGO_HD/LOGO_HD_BvXTgRk6Y_UNITE8-SPORTS-2_264X144.webp" group-title="♻️未匹配频道",Unite8 Sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://10.0.0.66:8080/hls/de0793379fd2c61efa6e19f0.m3u8
+#EXTINF:-1 tvg-id="USA Network (1080p)" tvg-name="USA Network (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png" group-title="♻️未匹配频道",USA Network (1080p)
+http://10.0.0.66:8080/hls/9ad59f7a1d34e79d1cd546e5.m3u8
+#EXTINF:-1 tvg-id="USA Network West (1080p)" tvg-name="USA Network West (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png" group-title="♻️未匹配频道",USA Network West (1080p)
+http://10.0.0.66:8080/hls/88e1eea529f8f973da88ade2.m3u8
+#EXTINF:-1 tvg-id="V Sport Golf [Not 24/7]" tvg-name="V Sport Golf [Not 24/7]" tvg-logo="https://i.imgur.com/wCw8Pmz.png" group-title="♻️未匹配频道",V Sport Golf [Not 24/7]
+http://10.0.0.66:8080/hls/ae1a52454f7a3daf4fb80a18.m3u8
+#EXTINF:-1 tvg-id="Varzesh TV" tvg-name="Varzesh TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/f/f5/Iribvarzesh2022.png/960px-Iribvarzesh2022.png" group-title="♻️未匹配频道",Varzesh TV
+http://10.0.0.66:8080/hls/f4924002259f2351b99b35b3.m3u8
+#EXTINF:-1 tvg-id="Viaplay TV (Finland) (720p) [Not 24/7]" tvg-name="Viaplay TV (Finland) (720p) [Not 24/7]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Viaplay_TV_logo.svg" group-title="♻️未匹配频道",Viaplay TV (Finland) (720p) [Not 24/7]
+http://10.0.0.66:8080/hls/5f5bfa6bd7e2f7d939f941b2.m3u8
+#EXTINF:-1 tvg-id="viju+ Sport (576p)" tvg-name="viju+ Sport (576p)" tvg-logo="https://i.imgur.com/fXESG0l.png" group-title="♻️未匹配频道",viju+ Sport (576p)
+http://10.0.0.66:8080/hls/3f0da40b66507a3cfbb8373d.m3u8
+#EXTINF:-1 tvg-id="VITAL Drive" tvg-name="VITAL Drive" tvg-logo="https://i.imgur.com/XoR9zLh.png" group-title="♻️未匹配频道",VITAL Drive
+http://10.0.0.66:8080/hls/c875c5a139f0f4fea3105184.m3u8
+#EXTINF:-1 tvg-id="VSBet HD (1080p)" tvg-name="VSBet HD (1080p)" tvg-logo="https://i.imgur.com/sMhL2Nl.png" group-title="♻️未匹配频道",VSBet HD (1080p)
+http://10.0.0.66:8080/hls/89505a24c9ca592acd22f9c1.m3u8
+#EXTINF:-1 tvg-id="VTV6 (1080p)" tvg-name="VTV6 (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/VTV6_logo_2026_final.svg/960px-VTV6_logo_2026_final.svg.png" group-title="♻️未匹配频道",VTV6 (1080p)
+http://10.0.0.66:8080/hls/560d3eb2e57cbe8c8536508b.m3u8
+#EXTINF:-1 tvg-id="We Sport TV" tvg-name="We Sport TV" tvg-logo="https://i.imgur.com/vJZgpOb.png" group-title="♻️未匹配频道",We Sport TV
+http://10.0.0.66:8080/hls/5f875e90419627891a7b69dc.m3u8
+#EXTINF:-1 tvg-id="Willow (720p)" tvg-name="Willow (720p)" tvg-logo="https://cricket.willow.tv/_nuxt/img/willow_blue_logo.362ed8e.png" group-title="♻️未匹配频道",Willow (720p)
+http://10.0.0.66:8080/hls/16ebdb33666be3cba23f1d03.m3u8
+#EXTINF:-1 tvg-id="Willow Sports (1080p)" tvg-name="Willow Sports (1080p)" tvg-logo="https://provider-static.plex.tv/epg/cms/production/acf3d1d8-c53e-49ca-86e9-0d9410b106b4/Willow_Sports_dark_Background_1500_1000_color.png" group-title="♻️未匹配频道",Willow Sports (1080p)
+http://10.0.0.66:8080/hls/3b90ced5d87ddef3b54debae.m3u8
+#EXTINF:-1 tvg-id="Willow Sports (1080p)" tvg-name="Willow Sports (1080p)" tvg-logo="https://provider-static.plex.tv/epg/cms/production/acf3d1d8-c53e-49ca-86e9-0d9410b106b4/Willow_Sports_dark_Background_1500_1000_color.png" group-title="♻️未匹配频道",Willow Sports (1080p)
+http://10.0.0.66:8080/hls/502567cd10e391e62295ee50.m3u8
+#EXTINF:-1 tvg-id="Win Sports (1080p)" tvg-name="Win Sports (1080p)" tvg-logo="https://i.imgur.com/DuSSrHV.png" group-title="♻️未匹配频道",Win Sports (1080p)
+http://10.0.0.66:8080/hls/c3df6aadb7c5f94aa70ee2ee.m3u8
+#EXTINF:-1 tvg-id="World of Freesports (1080p)" tvg-name="World of Freesports (1080p)" tvg-logo="https://i.imgur.com/lta5Mog.png" group-title="♻️未匹配频道",World of Freesports (1080p)
+http://10.0.0.66:8080/hls/fed8d4edabdab9154eae4163.m3u8
+#EXTINF:-1 tvg-id="World of Freesports (1080p)" tvg-name="World of Freesports (1080p)" tvg-logo="https://i.imgur.com/lta5Mog.png" group-title="♻️未匹配频道",World of Freesports (1080p)
+http://10.0.0.66:8080/hls/2061f3467d37e7daab415859.m3u8
+#EXTINF:-1 tvg-id="World Poker Tour" tvg-name="World Poker Tour" tvg-logo="https://i.imgur.com/98kLMjj.png" group-title="♻️未匹配频道",World Poker Tour
+http://10.0.0.66:8080/hls/1a773d3b472aaf2c2fe28f14.m3u8
+#EXTINF:-1 tvg-id="World Poker Tour (1080p)" tvg-name="World Poker Tour (1080p)" tvg-logo="https://i.imgur.com/98kLMjj.png" group-title="♻️未匹配频道",World Poker Tour (1080p)
+http://10.0.0.66:8080/hls/c5a5da0f36e8f3eb62bc9264.m3u8
+#EXTINF:-1 tvg-id="World Poker Tour (1080p)" tvg-name="World Poker Tour (1080p)" tvg-logo="https://i.imgur.com/98kLMjj.png" group-title="♻️未匹配频道",World Poker Tour (1080p)
+http://10.0.0.66:8080/hls/f6867725a68adec5916aea1f.m3u8
+#EXTINF:-1 tvg-id="World Poker Tour (1080p)" tvg-name="World Poker Tour (1080p)" tvg-logo="https://i.imgur.com/98kLMjj.png" group-title="♻️未匹配频道",World Poker Tour (1080p)
+http://10.0.0.66:8080/hls/34782c1f413a5abd38538ffc.m3u8
+#EXTINF:-1 tvg-id="XFC TV (720p)" tvg-name="XFC TV (720p)" tvg-logo="https://i.imgur.com/LcfzmG0.png" group-title="♻️未匹配频道",XFC TV (720p)
+http://10.0.0.66:8080/hls/d7d76d50233a99adbdead6b2.m3u8
+#EXTINF:-1 tvg-id="Ziggo Sport" tvg-name="Ziggo Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ziggo_Sport_logo.svg/960px-Ziggo_Sport_logo.svg.png" group-title="♻️未匹配频道",Ziggo Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://10.0.0.66:8080/hls/15f56b12812672c7ab399861.m3u8
+#EXTINF:-1 tvg-id="Ziggo Sport 2" tvg-name="Ziggo Sport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ziggo_Sport_logo.svg/960px-Ziggo_Sport_logo.svg.png" group-title="♻️未匹配频道",Ziggo Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://10.0.0.66:8080/hls/b43223032b8760535666c471.m3u8
+#EXTINF:-1 tvg-id="Ziggo Sport 5 (1080p)" tvg-name="Ziggo Sport 5 (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ziggo_Sport_logo.svg/960px-Ziggo_Sport_logo.svg.png" group-title="♻️未匹配频道",Ziggo Sport 5 (1080p)
+http://10.0.0.66:8080/hls/c9215021d7e9d9927ed19278.m3u8
+#EXTINF:-1 tvg-id="Zona DAZN" tvg-name="Zona DAZN" tvg-logo="https://i.imgur.com/Jop3Vip.png" group-title="♻️未匹配频道",Zona DAZN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://10.0.0.66:8080/hls/df9abcd8a42e0196d980f32a.m3u8
+#EXTINF:-1 tvg-id="Астрахань.Ru Sport (720p)" tvg-name="Астрахань.Ru Sport (720p)" tvg-logo="https://i.imgur.com/BKaEtqL.png" group-title="♻️未匹配频道",Астрахань.Ru Sport (720p)
+http://10.0.0.66:8080/hls/45f59f3e931423cd5f8b54b9.m3u8
+#EXTINF:-1 tvg-id="Беларусь 5 Интернет (1080p) [Not 24/7]" tvg-name="Беларусь 5 Интернет (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/NJsRFud.png" group-title="♻️未匹配频道",Беларусь 5 Интернет (1080p) [Not 24/7]
+http://10.0.0.66:8080/hls/b45d2b77c484c70a890b997e.m3u8
+#EXTINF:-1 tvg-id="Бокс ТВ (720p)" tvg-name="Бокс ТВ (720p)" tvg-logo="https://i.imgur.com/R1UjyfX.png" group-title="♻️未匹配频道",Бокс ТВ (720p)
+http://10.0.0.66:8080/hls/bbbed13ca38f2f83a951ed39.m3u8
+#EXTINF:-1 tvg-id="МАТЧ! Арена (720p)" tvg-name="МАТЧ! Арена (720p)" tvg-logo="https://i.imgur.com/udTzwzu.png" group-title="♻️未匹配频道",МАТЧ! Арена (720p)
+http://10.0.0.66:8080/hls/9bf7607c3a1abfd8e2235184.m3u8
+#EXTINF:-1 tvg-id="МАТЧ! Игра (720p)" tvg-name="МАТЧ! Игра (720p)" tvg-logo="https://i.imgur.com/5XWpF19.png" group-title="♻️未匹配频道",МАТЧ! Игра (720p)
+http://10.0.0.66:8080/hls/98444c31705d1f6d61e0ba2d.m3u8
+#EXTINF:-1 tvg-id="Русский Экстрим (576p)" tvg-name="Русский Экстрим (576p)" tvg-logo="https://i.imgur.com/hJK7mOW.png" group-title="♻️未匹配频道",Русский Экстрим (576p)
+http://10.0.0.66:8080/hls/d54e589c6f470ef268050358.m3u8
+#EXTINF:-1 tvg-id="СТАРТ Триумф" tvg-name="СТАРТ Триумф" tvg-logo="https://i.imgur.com/L9jTieL.png" group-title="♻️未匹配频道",СТАРТ Триумф
+http://10.0.0.66:8080/hls/f8e2d1839bcdb4b62040f59f.m3u8
+#EXTINF:-1 tvg-id="УТРК Спорт (480p) [Not 24/7]" tvg-name="УТРК Спорт (480p) [Not 24/7]" tvg-logo="https://i.imgur.com/ORCu0w0.png" group-title="♻️未匹配频道",УТРК Спорт (480p) [Not 24/7]
+http://10.0.0.66:8080/hls/920e4fb833e2119df3cbff27.m3u8
+#EXTINF:-1 tvg-id="Футбол (720p)" tvg-name="Футбол (720p)" tvg-logo="https://i.imgur.com/pEuaZVx.png" group-title="♻️未匹配频道",Футбол (720p)
+http://10.0.0.66:8080/hls/07a5485bf94ee4f8497de662.m3u8
+#EXTINF:-1 tvg-id="}" tvg-name="}" tvg-logo="https://www.xn--rgv465a.top/tvlogo/}.png" group-title="♻️未匹配频道",}
+
+#EXTINF:-1 tvg-id=".container { margin: 50px auto 40px auto; width: 600px; text-align: center; }" tvg-name=".container { margin: 50px auto 40px auto; width: 600px; text-align: center; }" tvg-logo="https://www.xn--rgv465a.top/tvlogo/.container { margin: 50px auto 40px auto; width: 600px; text-align: center; }.png" group-title="♻️未匹配频道",.container { margin: 50px auto 40px auto; width: 600px; text-align: center; }
+
+#EXTINF:-1 tvg-id="a { color: #4183c4; text-decoration: none; }" tvg-name="a { color: #4183c4; text-decoration: none; }" tvg-logo="https://www.xn--rgv465a.top/tvlogo/a { color: #4183c4; text-decoration: none; }.png" group-title="♻️未匹配频道",a { color: #4183c4; text-decoration: none; }
+
+#EXTINF:-1 tvg-id="a:hover { text-decoration: underline; }" tvg-name="a:hover { text-decoration: underline; }" tvg-logo="https://www.xn--rgv465a.top/tvlogo/a:hover { text-decoration: underline; }.png" group-title="♻️未匹配频道",a:hover { text-decoration: underline; }
+
+#EXTINF:-1 tvg-id="h1 { width: 800px; position:relative; left: -100px; letter-spacing: -1px; line-height: 60px; font-size: 60px; font-weight: 100; margin: 0px 0 50px 0; text-shadow: 0 1px 0 #fff; }" tvg-name="h1 { width: 800px; position:relative; left: -100px; letter-spacing: -1px; line-height: 60px; font-size: 60px; font-weight: 100; margin: 0px 0 50px 0; text-shadow: 0 1px 0 #fff; }" tvg-logo="https://www.xn--rgv465a.top/tvlogo/h1 { width: 800px; position:relative; left: -100px; letter-spacing: -1px; line-height: 60px; font-size: 60px; font-weight: 100; margin: 0px 0 50px 0; text-shadow: 0 1px 0 #fff; }.png" group-title="♻️未匹配频道",h1 { width: 800px; position:relative; left: -100px; letter-spacing: -1px; line-height: 60px; font-size: 60px; font-weight: 100; margin: 0px 0 50px 0; text-shadow: 0 1px 0 #fff; }
+
+#EXTINF:-1 tvg-id="p { color: rgba(0" tvg-name="p { color: rgba(0" tvg-logo="https://www.xn--rgv465a.top/tvlogo/p { color: rgba(0.png" group-title="♻️未匹配频道",p { color: rgba(0
+http://10.0.0.66:8080/hls/afdc30b8adc4e01707fa8400.m3u8
